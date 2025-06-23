@@ -183,7 +183,7 @@ sinonimos_funcionarios = [
     "de corpo funcional",
     "de quadro de pessoas",
     "operários",
-    "membros da equipe",
+    "membros na equipe",
     "assistentes",
     "prestadores",
     "auxiliares",

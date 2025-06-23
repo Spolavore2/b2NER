@@ -1,81 +1,69 @@
 # convert from an df in a specific struct to .txt usable by flair
 import pandas as pd
+import random
 from tqdm import tqdm
 from dataset_converter.dataset_preprocessing import get_df_from_dataset
 from dataset_converter.increment_dataset import increment_dataset
-from dataset_converter.increment_dataset import increment_funcionarios_entity
 from difflib import SequenceMatcher
 import re
 import pickle
 
-def matcher(string, pattern):
+import re
+
+def matcher(text, annotations):
     '''
-    Return the start and end index of any pattern present in the text.
+    Retorna os spans (start, end, tipo) das anotações no texto.
     '''
     match_list = []
-    pattern = pattern.strip()
-    seqMatch = SequenceMatcher(None, string, pattern, autojunk=False)
-    match = seqMatch.find_longest_match(0, len(string), 0, len(pattern))
-    if (match.size == len(pattern)):
-        start = match.a
-        end = match.a + match.size
-        match_tup = (start, end)
-        string = string.replace(pattern, "X" * len(pattern), 1)
-        match_list.append(match_tup)
-        
-    return match_list, string
-
-def mark_sentence(s, match_list):
-    '''
-    Marks all the entities in the sentence as per the BIO scheme. 
-    '''
-    word_dict = {}
-    for word in s.split():
-        word_dict[word] = 'O'
-        
-    for start, end, e_type in match_list:
-        temp_str = s[start:end]
-        tmp_list = temp_str.split()
-        if len(tmp_list) > 1:
-            word_dict[tmp_list[0]] = 'B-' + e_type
-            for w in tmp_list[1:]:
-                word_dict[w] = 'I-' + e_type
-        else:
-            word_dict[temp_str] = 'B-' + e_type
-    return word_dict
+    for pattern, label in annotations:
+        pattern = pattern.strip()
+        for match in re.finditer(re.escape(pattern), text, flags=re.IGNORECASE):
+            match_list.append((match.start(), match.end(), label))
+    return match_list
 
 
-def clean(text):
+def tokenize_with_positions(text):
     '''
-    Removes only the dot (.) and normalizes multiple spaces.
+    Tokeniza o texto e retorna lista de (token, start_idx, end_idx)
     '''
-    # Remove all dots
-    text_no_dot = text.replace('.', '')
-    
-    # Normalize multiple spaces to a single space
-    return re.sub(r'\s+', ' ', text_no_dot.strip())
+    tokens = []
+    for match in re.finditer(r'\S+', text):  # Match palavras não separadas por espaço
+        token = match.group()
+        start = match.start()
+        end = match.end()
+        tokens.append((token, start, end))
+    return tokens
+
+
+def bio_tagging(text, annotations):
+    '''
+    Gera a marcação BIO por palavra, com base nos spans das entidades.
+    '''
+    entity_spans = matcher(text, annotations)
+    tokens = tokenize_with_positions(text)
+
+    tagged = []
+    for token, start, end in tokens:
+        tag = 'O'
+        for ent_start, ent_end, label in entity_spans:
+            if start == ent_start:
+                tag = f'B-{label}'
+                break
+            elif ent_start < start < ent_end:
+                tag = f'I-{label}'
+                break
+        tagged.append((token, tag))
+    return tagged
+
 
 def create_data(df, filepath):
-    '''
-    The function responsible for the creation of data in the said format.
-    '''
-    with open(filepath , 'w') as f:
+    with open(filepath , 'w', encoding='utf-8') as f:
         for text, annotation in zip(df.text, df.annotation):
-            text_ = text        
-            match_list = []
-            for i in annotation:
-                a, text_ = matcher(text, i[0])
-                if(len(a) == 0):
-                    continue
-                match_list.append((a[0][0], a[0][1], i[1]))
+            tagged = bio_tagging(text, annotation)
+            for token, tag in tagged:
+                f.write(f"{token} {tag}\n")
+            f.write("\n")
 
-            d = mark_sentence(text, match_list)
-
-            for i in d.keys():
-                f.writelines(i + ' ' + d[i] +'\n')
-            f.writelines('\n')
-
-import random
 
 def split_train_file(file_path, dev_ratio=0.1, test_ratio=0.1):
     # Lê todo o conteúdo do train.txt
@@ -134,10 +122,8 @@ def remove_void_entities(file_path):
 
 def main():
     # Se quiser obter todos os dados -> fine_tuning do modelo do 0
-    # data = pd.concat([get_df_from_dataset(), increment_dataset()])
+    data = pd.concat([get_df_from_dataset(), increment_dataset()])
 
-    # Se quiser aumentar a quantidade de dado da entidade funcionarios
-    data = increment_funcionarios_entity()
     ## path to save the txt file.
     filepath = 'datasets/flair/train.txt'
     ## creating the file.

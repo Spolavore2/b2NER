@@ -39,7 +39,6 @@ def import_incremented_data():
                 nms_empresa.append(razao_social)
 
 def permutate_estado_setor_porte(estados_list: list):
-    df_scheme = []
     for estado in estados_list:
         for porte in portes:
             for setor in setores:
@@ -51,8 +50,8 @@ def permutate_estado_setor_porte(estados_list: list):
                 sinonimo_porte = sinonimos_porte[random.randint(0, len(sinonimos_porte) - 1)]
                 sinonimo_setor = sinonimos_setor[random.randint(0, len(sinonimos_setor) - 1)]
                 porte_formated = porte if add_port_word else portes_plural[porte]
-                sentenceAux = ''
-                
+                sentenceAux = ' '
+
                 if add_setor_first:
                     sentenceAux += f'{sinonimo_setor} de {setor}' if add_setor_word else f'de {setor}'
                     sentenceAux += f' de {sinonimo_porte} {porte_formated}' if add_port_word else f' {porte_formated}'
@@ -74,21 +73,17 @@ def permutate_estado_setor_porte(estados_list: list):
                             sentence += f'em {estado} {sentenceAux}' if add_em_in_beggining else f'{sentenceAux} em {estado}'
                         else:
                             sentence += f'em {estado} {sentenceAux}' if add_em_in_beggining else f'{sentenceAux} em {estado}'
-                            sentence += f'chamada {nm_empresa}'
+                            sentence += f' chamada {nm_empresa}'
                     else:
-                        sentence += f' {nm_empresa} '
+                        sentence += f'{nm_empresa} '
                         sentence += f'em {estado} {sentenceAux}' if add_em_in_beggining else f'{sentenceAux} em {estado}'
 
                     df_scheme.append([sentence.lower(), [(estado.lower(), 'LOCALIZACAO'), (porte_formated, 'PORTE'), (setor.lower(), 'SETOR'), (nm_empresa, 'NOME_EMPRESA')]])
                 else:
                     sentence += f'em {estado} {sentenceAux}' if add_em_in_beggining else f'{sentenceAux} em {estado}'
                     df_scheme.append([sentence.lower(), [(estado.lower(), 'LOCALIZACAO'), (porte_formated, 'PORTE'), (setor.lower(), 'SETOR')]])
-    incremented_df = pd.DataFrame(df_scheme, columns=['text', 'annotation'])
-    return incremented_df
-
 
 def increment_funcionarios_entity(estados_nome=None):
-    df_scheme = []
     if(not estados_nome):
         estados_nome = list(estados_to_ufs.keys())
 
@@ -146,13 +141,9 @@ def increment_funcionarios_entity(estados_nome=None):
                 index_sentence_chosen = random.randint(0, len(possible_final_sentences) - 1)
                 mapping[0] = possible_final_sentences[index_sentence_chosen].lower()
                 df_scheme.append(mapping)
-    
-    incremented_df = pd.DataFrame(df_scheme, columns=['text', 'annotation'])
-    return incremented_df
 
 def increment_dataset():
     import_incremented_data()
-    df_scheme = []
     estados_nome = list(estados_to_ufs.keys())
     estados_uf = list(estados_to_ufs.values())
 
@@ -167,13 +158,13 @@ def increment_dataset():
         df_scheme.append([sentence2.lower(), [(porte.lower(), 'PORTE')]])
         
     # Empresa + estado nome + porte + setor
-    df1 = permutate_estado_setor_porte(estados_nome)    
+    permutate_estado_setor_porte(estados_nome)    
     # Empresa + estado uf + porte + setor
-    df2 = permutate_estado_setor_porte(estados_uf)    
+    permutate_estado_setor_porte(estados_uf)    
     # Empresa + nome cidade composto + porte + setor
-    df3 = permutate_estado_setor_porte(cidades_nome_composto[0:150])
+    permutate_estado_setor_porte(cidades_nome_composto[0:150])
 
-    df4 = increment_funcionarios_entity(estados_nome)
+    increment_funcionarios_entity(estados_nome)
 
     # Empresa + setor
     for setor in setores:
@@ -184,6 +175,5 @@ def increment_dataset():
         df_scheme.append([sentence.lower(), [(setor.lower(), 'SETOR')]])
 
         
-    df_end = pd.DataFrame(df_scheme, columns=['text', 'annotation'])
-    incremented_df = pd.concat([df1, df2, df3, df4, df_end])
+    incremented_df = pd.DataFrame(df_scheme, columns=['text', 'annotation'])
     return incremented_df
