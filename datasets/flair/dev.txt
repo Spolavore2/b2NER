@@ -1,0 +1,13311 @@
+firma O
+na O
+seção O
+hidreletricas B-SETOR
+com O
+9593 B-QTD_FUNCIONARIOS
+integrantes O
+
+companhia O
+na O
+esfera O
+cooperativas B-SETOR
+com O
+400 B-QTD_FUNCIONARIOS
+ate O
+6002 B-QTD_FUNCIONARIOS
+funcionarios O
+
+cooperativa O
+de O
+midia B-SETOR
+com O
+5127 B-QTD_FUNCIONARIOS
+servidores O
+
+negócio O
+de O
+capacidade O
+pequeno B-PORTE
+com O
+1415 B-QTD_FUNCIONARIOS
+ate O
+1714 B-QTD_FUNCIONARIOS
+funcionarios O
+distrito B-LOCALIZACAO
+federal I-LOCALIZACAO
+
+empresa O
+na O
+esfera O
+lazer B-SETOR
+com O
+1256 B-QTD_FUNCIONARIOS
+integrantes O
+em O
+minas B-LOCALIZACAO
+gerais I-LOCALIZACAO
+
+cooperativa O
+rio B-LOCALIZACAO
+grande I-LOCALIZACAO
+do I-LOCALIZACAO
+norte I-LOCALIZACAO
+na O
+categoria O
+eventos B-SETOR
+com O
+1125 B-QTD_FUNCIONARIOS
+ate O
+7608 B-QTD_FUNCIONARIOS
+auxiliares O
+
+agência O
+de O
+perfil O
+micro B-PORTE
+acre B-LOCALIZACAO
+com O
+3235 B-QTD_FUNCIONARIOS
+ate O
+5330 B-QTD_FUNCIONARIOS
+auxiliares O
+
+firma O
+com O
+4868 B-QTD_FUNCIONARIOS
+ate O
+7453 B-QTD_FUNCIONARIOS
+servidores O
+
+conglomerado O
+de O
+porte O
+pequeno B-PORTE
+no O
+pólo O
+servicos B-SETOR
+gerais I-SETOR
+com O
+553 B-QTD_FUNCIONARIOS
+ate O
+4121 B-QTD_FUNCIONARIOS
+assistentes O
+
+corporação O
+na O
+esfera O
+tratamento B-SETOR
+de I-SETOR
+agua I-SETOR
+com O
+3432 B-QTD_FUNCIONARIOS
+ate O
+6189 B-QTD_FUNCIONARIOS
+prestadores O
+
+instituição O
+com O
+5545 B-QTD_FUNCIONARIOS
+servidores O
+de O
+dimensão O
+micro B-PORTE
+na O
+área O
+energia B-SETOR
+solar I-SETOR
+
+associação O
+em O
+mato B-LOCALIZACAO
+grosso I-LOCALIZACAO
+com O
+3522 B-QTD_FUNCIONARIOS
+de O
+corpo O
+funcional O
+na O
+categoria O
+servicos B-SETOR
+domesticos I-SETOR
+grande B-PORTE
+
+conglomerado O
+em O
+pernambuco B-LOCALIZACAO
+com O
+3813 B-QTD_FUNCIONARIOS
+ate O
+5487 B-QTD_FUNCIONARIOS
+operários O
+
+emprendimento O
+em O
+santa B-LOCALIZACAO
+catarina I-LOCALIZACAO
+medio B-PORTE
+com O
+916 B-QTD_FUNCIONARIOS
+ate O
+1009 B-QTD_FUNCIONARIOS
+funcionarios O
+
+holding O
+com O
+4067 B-QTD_FUNCIONARIOS
+ate O
+9237 B-QTD_FUNCIONARIOS
+membros O
+da O
+equipe O
+de O
+envergadura O
+grande B-PORTE
+
+indústria O
+com O
+9279 B-QTD_FUNCIONARIOS
+prestadores O
+de O
+estatura O
+medio B-PORTE
+
+firma O
+grande B-PORTE
+de O
+engenharia B-SETOR
+minas B-LOCALIZACAO
+gerais I-LOCALIZACAO
+com O
+3152 B-QTD_FUNCIONARIOS
+ate O
+9119 B-QTD_FUNCIONARIOS
+colaboradores O
+
+conglomerado O
+de I-SETOR
+gestao B-SETOR
+residuos I-SETOR
+dimensão O
+medio B-PORTE
+com O
+1629 B-QTD_FUNCIONARIOS
+ate O
+6600 B-QTD_FUNCIONARIOS
+corpo O
+funcional O
+
+agência O
+com O
+5306 B-QTD_FUNCIONARIOS
+trabalhadores O
+
+entidade O
+com O
+2601 B-QTD_FUNCIONARIOS
+ate O
+8080 B-QTD_FUNCIONARIOS
+empregados O
+espirito B-LOCALIZACAO
+santo I-LOCALIZACAO
+
+sociedade O
+com O
+9819 B-QTD_FUNCIONARIOS
+de O
+staff O
+em O
+bahia B-LOCALIZACAO
+
+consultoria O
+com O
+9618 B-QTD_FUNCIONARIOS
+servidores O
+de O
+ecologia B-SETOR
+
+organização O
+com O
+8640 B-QTD_FUNCIONARIOS
+colaboradores O
+de O
+engenharia B-SETOR
+grande B-PORTE
+
+entidade O
+rio B-LOCALIZACAO
+grande I-LOCALIZACAO
+do I-LOCALIZACAO
+sul I-LOCALIZACAO
+com O
+722 B-QTD_FUNCIONARIOS
+ate O
+4048 B-QTD_FUNCIONARIOS
+pessoas O
+na O
+linha O
+de O
+negócio O
+enfermagem B-SETOR
+
+associação O
+de O
+proporção O
+grande B-PORTE
+em O
+sergipe B-LOCALIZACAO
+com O
+5937 B-QTD_FUNCIONARIOS
+colaboradores O
+
+empresa O
+com O
+371 B-QTD_FUNCIONARIOS
+trabalhadores O
+núcleo O
+esportes B-SETOR
+amazonas B-LOCALIZACAO
+
+corporação O
+com O
+1777 B-QTD_FUNCIONARIOS
+funcionarios O
+tocantins B-LOCALIZACAO
+
+companhia O
+com O
+4047 B-QTD_FUNCIONARIOS
+ate O
+7369 B-QTD_FUNCIONARIOS
+de O
+staff O
+em O
+bahia B-LOCALIZACAO
+streaming B-SETOR
+tipo O
+micro B-PORTE
+
+grupo O
+empresarial O
+com O
+5102 B-QTD_FUNCIONARIOS
+de O
+quadro O
+pessoas O
+
+cooperativa O
+de O
+porte O
+medio B-PORTE
+na O
+zona O
+nuclear B-SETOR
+com O
+6404 B-QTD_FUNCIONARIOS
+staff O
+
+cooperativa O
+com O
+3273 B-QTD_FUNCIONARIOS
+ate O
+5210 B-QTD_FUNCIONARIOS
+colaboradores O
+no O
+ramo O
+odontologia B-SETOR
+acre B-LOCALIZACAO
+
+entidade O
+de O
+engenharia B-SETOR
+biomedica I-SETOR
+com O
+2115 B-QTD_FUNCIONARIOS
+ate O
+5042 B-QTD_FUNCIONARIOS
+pessoas O
+
+firma O
+em O
+ceara B-LOCALIZACAO
+medio B-PORTE
+com O
+9374 B-QTD_FUNCIONARIOS
+trabalhadores O
+
+estabelecimento O
+com O
+4669 B-QTD_FUNCIONARIOS
+funcionarios O
+em O
+espirito B-LOCALIZACAO
+santo I-LOCALIZACAO
+
+sociedade O
+em O
+acre B-LOCALIZACAO
+com O
+2069 B-QTD_FUNCIONARIOS
+ate O
+5098 B-QTD_FUNCIONARIOS
+de O
+staff O
+
+firma O
+com O
+1461 B-QTD_FUNCIONARIOS
+ate O
+4068 B-QTD_FUNCIONARIOS
+funcionarios O
+em O
+ceara B-LOCALIZACAO
+grande B-PORTE
+
+associação O
+com O
+6188 B-QTD_FUNCIONARIOS
+colaboradores O
+de O
+midia B-SETOR
+
+companhia O
+de O
+perfil O
+micro B-PORTE
+com O
+1225 B-QTD_FUNCIONARIOS
+ate O
+9210 B-QTD_FUNCIONARIOS
+assistentes O
+
+grupo O
+empresarial O
+com O
+4547 B-QTD_FUNCIONARIOS
+ate O
+6159 B-QTD_FUNCIONARIOS
+colaboradores O
+na O
+atividade O
+logistica B-SETOR
+
+entidade O
+de O
+meteorologia B-SETOR
+com O
+1800 B-QTD_FUNCIONARIOS
+ate O
+2461 B-QTD_FUNCIONARIOS
+corpo O
+funcional O
+
+firma O
+de O
+classe O
+grande B-PORTE
+com O
+4075 B-QTD_FUNCIONARIOS
+ate O
+6162 B-QTD_FUNCIONARIOS
+servidores O
+
+emprendimento O
+de O
+engenharia B-SETOR
+com O
+2484 B-QTD_FUNCIONARIOS
+ate O
+6556 B-QTD_FUNCIONARIOS
+colaboradores O
+grande B-PORTE
+
+startup O
+com O
+3471 B-QTD_FUNCIONARIOS
+de O
+mão O
+obra O
+medio B-PORTE
+no O
+ramo O
+ensino B-SETOR
+superior I-SETOR
+
+grupo O
+empresarial O
+alagoas B-LOCALIZACAO
+micro B-PORTE
+com O
+579 B-QTD_FUNCIONARIOS
+funcionarios O
+
+corporação O
+com O
+1087 B-QTD_FUNCIONARIOS
+pessoas O
+em O
+mato B-LOCALIZACAO
+grosso I-LOCALIZACAO
+
+agência O
+de O
+tamanho O
+medio B-PORTE
+com O
+4400 B-QTD_FUNCIONARIOS
+ate O
+6875 B-QTD_FUNCIONARIOS
+empregados O
+
+companhia O
+pequeno B-PORTE
+com O
+3573 B-QTD_FUNCIONARIOS
+ate O
+9962 B-QTD_FUNCIONARIOS
+auxiliares O
+de O
+inovacao B-SETOR
+em O
+bahia B-LOCALIZACAO
+
+startup O
+de O
+defesa B-SETOR
+nacional I-SETOR
+com O
+7624 B-QTD_FUNCIONARIOS
+prestadores O
+
+associação O
+no O
+ramo O
+gestao B-SETOR
+ambiental I-SETOR
+em O
+minas B-LOCALIZACAO
+gerais I-LOCALIZACAO
+com O
+9620 B-QTD_FUNCIONARIOS
+membros O
+da O
+equipe O
+de O
+volume O
+grande B-PORTE
+
+sociedade O
+com O
+6933 B-QTD_FUNCIONARIOS
+membros O
+da O
+equipe O
+de O
+capacidade O
+pequeno B-PORTE
+no O
+domínio O
+educacao B-SETOR
+
+companhia O
+em O
+sergipe B-LOCALIZACAO
+com O
+7477 B-QTD_FUNCIONARIOS
+trabalhadores O
+
+instituição O
+de O
+estatura O
+micro B-PORTE
+sergipe B-LOCALIZACAO
+com O
+8912 B-QTD_FUNCIONARIOS
+integrantes O
+
+sociedade O
+em O
+minas B-LOCALIZACAO
+gerais I-LOCALIZACAO
+de O
+porte O
+medio B-PORTE
+com O
+103 B-QTD_FUNCIONARIOS
+corpo O
+funcional O
+energia B-SETOR
+
+conglomerado O
+medio B-PORTE
+com O
+1411 B-QTD_FUNCIONARIOS
+ate O
+1580 B-QTD_FUNCIONARIOS
+de O
+mão O
+obra O
+transporte B-SETOR
+maritimo I-SETOR
+
+emprendimento O
+em O
+rio B-LOCALIZACAO
+grande I-LOCALIZACAO
+do I-LOCALIZACAO
+sul I-LOCALIZACAO
+com O
+1239 B-QTD_FUNCIONARIOS
+profissionais O
+micro B-PORTE
+
+conglomerado O
+na O
+área O
+industria B-SETOR
+naval I-SETOR
+com O
+4530 B-QTD_FUNCIONARIOS
+operários O
+em O
+paraiba B-LOCALIZACAO
+
+corporação O
+com O
+7923 B-QTD_FUNCIONARIOS
+assistentes O
+de O
+nanotecnologia B-SETOR
+
+indústria O
+com O
+2667 B-QTD_FUNCIONARIOS
+ate O
+8272 B-QTD_FUNCIONARIOS
+de O
+mão O
+obra O
+em O
+rondonia B-LOCALIZACAO
+
+startup O
+com O
+277 B-QTD_FUNCIONARIOS
+ate O
+608 B-QTD_FUNCIONARIOS
+membros O
+da O
+equipe O
+medio B-PORTE
+
+sociedade O
+tocantins B-LOCALIZACAO
+com O
+6817 B-QTD_FUNCIONARIOS
+de O
+staff O
+a O
+especialidade O
+defesa B-SETOR
+nacional I-SETOR
+
+conglomerado O
+de O
+vulto O
+grande B-PORTE
+com O
+7762 B-QTD_FUNCIONARIOS
+prestadores O
+
+agência O
+com O
+3135 B-QTD_FUNCIONARIOS
+ate O
+8316 B-QTD_FUNCIONARIOS
+integrantes O
+grande B-PORTE
+
+holding O
+de O
+vulto O
+grande B-PORTE
+sao B-LOCALIZACAO
+paulo I-LOCALIZACAO
+com O
+4408 B-QTD_FUNCIONARIOS
+auxiliares O
+
+firma O
+rio B-LOCALIZACAO
+grande I-LOCALIZACAO
+do I-LOCALIZACAO
+norte I-LOCALIZACAO
+com O
+4549 B-QTD_FUNCIONARIOS
+ate O
+7396 B-QTD_FUNCIONARIOS
+assistentes O
+medio B-PORTE
+
+entidade O
+com O
+1611 B-QTD_FUNCIONARIOS
+prestadores O
+de O
+classe O
+pequeno B-PORTE
+
+estabelecimento O
+medio B-PORTE
+com O
+4562 B-QTD_FUNCIONARIOS
+ate O
+5304 B-QTD_FUNCIONARIOS
+auxiliares O
+
+negócio O
+com O
+5282 B-QTD_FUNCIONARIOS
+empregados O
+medio B-PORTE
+acre B-LOCALIZACAO
+
+estabelecimento O
+com O
+524 B-QTD_FUNCIONARIOS
+ate O
+5944 B-QTD_FUNCIONARIOS
+empregados O
+de O
+estrutura O
+micro B-PORTE
+espirito B-LOCALIZACAO
+santo I-LOCALIZACAO
+
+firma O
+de O
+reciclagem B-SETOR
+com O
+3201 B-QTD_FUNCIONARIOS
+colaboradores O
+
+organização O
+em O
+rio B-LOCALIZACAO
+grande I-LOCALIZACAO
+do I-LOCALIZACAO
+norte I-LOCALIZACAO
+com O
+5250 B-QTD_FUNCIONARIOS
+de O
+corpo O
+funcional O
+composição O
+medio B-PORTE
+no O
+ramo O
+direito B-SETOR
+
+entidade O
+no O
+domínio O
+engenharia B-SETOR
+de I-SETOR
+trafego I-SETOR
+com O
+2466 B-QTD_FUNCIONARIOS
+ate O
+5719 B-QTD_FUNCIONARIOS
+profissionais O
+micro B-PORTE
+
+associação O
+na O
+categoria O
+medicina B-SETOR
+com O
+2828 B-QTD_FUNCIONARIOS
+ate O
+9175 B-QTD_FUNCIONARIOS
+profissionais O
+
+indústria O
+alagoas B-LOCALIZACAO
+com O
+4483 B-QTD_FUNCIONARIOS
+ate O
+7106 B-QTD_FUNCIONARIOS
+servidores O
+micro B-PORTE
+
+instituição O
+de O
+tamanho O
+micro B-PORTE
+com O
+839 B-QTD_FUNCIONARIOS
+ate O
+2458 B-QTD_FUNCIONARIOS
+mão O
+obra O
+
+estabelecimento O
+com O
+4388 B-QTD_FUNCIONARIOS
+ate O
+4865 B-QTD_FUNCIONARIOS
+membros O
+da O
+equipe O
+espirito B-LOCALIZACAO
+santo I-LOCALIZACAO
+no O
+setor O
+policia B-SETOR
+
+corporação O
+de I-SETOR
+desenvolvimento B-SETOR
+software I-SETOR
+piaui B-LOCALIZACAO
+com O
+865 B-QTD_FUNCIONARIOS
+ate O
+4755 B-QTD_FUNCIONARIOS
+mão O
+obra O
+
+conglomerado O
+com O
+4843 B-QTD_FUNCIONARIOS
+empregados O
+de O
+geociencias B-SETOR
+pequeno B-PORTE
+
+empresa O
+em O
+rio B-LOCALIZACAO
+grande I-LOCALIZACAO
+do I-LOCALIZACAO
+sul I-LOCALIZACAO
+de O
+estatura O
+micro B-PORTE
+com O
+7340 B-QTD_FUNCIONARIOS
+prestadores O
+
+negócio O
+de O
+organizacoes B-SETOR
+nao I-SETOR
+governamentais I-SETOR
+medio B-PORTE
+com O
+945 B-QTD_FUNCIONARIOS
+ate O
+9694 B-QTD_FUNCIONARIOS
+empregados O
+rio B-LOCALIZACAO
+grande I-LOCALIZACAO
+do I-LOCALIZACAO
+norte I-LOCALIZACAO
+
+startup O
+em O
+rondonia B-LOCALIZACAO
+com O
+1102 B-QTD_FUNCIONARIOS
+ate O
+9202 B-QTD_FUNCIONARIOS
+pessoas O
+de O
+importância O
+pequeno B-PORTE
+
+companhia O
+com O
+8944 B-QTD_FUNCIONARIOS
+integrantes O
+pequeno B-PORTE
+na O
+unidade O
+oceanografia B-SETOR
+
+emprendimento O
+com O
+4541 B-QTD_FUNCIONARIOS
+membros O
+da O
+equipe O
+
+estabelecimento O
+com O
+3298 B-QTD_FUNCIONARIOS
+ate O
+9913 B-QTD_FUNCIONARIOS
+de O
+quadro O
+pessoas O
+minas B-LOCALIZACAO
+gerais I-LOCALIZACAO
+
+organização O
+de O
+estrutura O
+micro B-PORTE
+na O
+seção O
+relacoes B-SETOR
+publicas I-SETOR
+com O
+1343 B-QTD_FUNCIONARIOS
+operários O
+
+conglomerado O
+roraima B-LOCALIZACAO
+de O
+porte O
+pequeno B-PORTE
+com O
+5360 B-QTD_FUNCIONARIOS
+auxiliares O
+
+estabelecimento O
+com O
+1736 B-QTD_FUNCIONARIOS
+auxiliares O
+pequeno B-PORTE
+rio B-LOCALIZACAO
+grande I-LOCALIZACAO
+do I-LOCALIZACAO
+norte I-LOCALIZACAO
+
+firma O
+com O
+3575 B-QTD_FUNCIONARIOS
+ate O
+6097 B-QTD_FUNCIONARIOS
+prestadores O
+de O
+hardware B-SETOR
+dimensão O
+medio B-PORTE
+em O
+bahia B-LOCALIZACAO
+
+cooperativa O
+em O
+parana B-LOCALIZACAO
+de O
+enfermagem B-SETOR
+tipo O
+medio B-PORTE
+com O
+3606 B-QTD_FUNCIONARIOS
+ate O
+9111 B-QTD_FUNCIONARIOS
+quadro O
+pessoas O
+
+associação O
+no O
+ramo O
+justica B-SETOR
+com O
+393 B-QTD_FUNCIONARIOS
+ate O
+4823 B-QTD_FUNCIONARIOS
+profissionais O
+pequeno B-PORTE
+
+negócio O
+grande B-PORTE
+com O
+8347 B-QTD_FUNCIONARIOS
+prestadores O
+
+grupo O
+empresarial O
+maranhao B-LOCALIZACAO
+com O
+8334 B-QTD_FUNCIONARIOS
+de O
+mão O
+obra O
+
+instituição O
+em O
+rondonia B-LOCALIZACAO
+micro B-PORTE
+no O
+setor O
+turismo B-SETOR
+com O
+4128 B-QTD_FUNCIONARIOS
+ate O
+7730 B-QTD_FUNCIONARIOS
+auxiliares O
+
+consultoria O
+grande B-PORTE
+com O
+8044 B-QTD_FUNCIONARIOS
+funcionarios O
+
+corporação O
+micro B-PORTE
+com O
+5101 B-QTD_FUNCIONARIOS
+integrantes O
+em O
+sergipe B-LOCALIZACAO
+
+cooperativa O
+em O
+parana B-LOCALIZACAO
+com O
+4927 B-QTD_FUNCIONARIOS
+prestadores O
+de O
+classe O
+micro B-PORTE
+
+consultoria O
+de O
+educacao B-SETOR
+infantil I-SETOR
+em O
+amapa B-LOCALIZACAO
+com O
+3560 B-QTD_FUNCIONARIOS
+ate O
+3599 B-QTD_FUNCIONARIOS
+operários O
+
+sociedade O
+com O
+151 B-QTD_FUNCIONARIOS
+ate O
+8896 B-QTD_FUNCIONARIOS
+funcionarios O
+na O
+linha O
+de O
+negócio O
+transporte B-SETOR
+rodoviario I-SETOR
+em O
+sergipe B-LOCALIZACAO
+
+corporação O
+em O
+maranhao B-LOCALIZACAO
+com O
+7242 B-QTD_FUNCIONARIOS
+funcionarios O
+núcleo O
+lazer B-SETOR
+
+associação O
+com O
+682 B-QTD_FUNCIONARIOS
+ate O
+4385 B-QTD_FUNCIONARIOS
+auxiliares O
+de O
+geociencias B-SETOR
+
+entidade O
+com O
+2724 B-QTD_FUNCIONARIOS
+membros O
+da O
+equipe O
+micro B-PORTE
+de O
+ensino B-SETOR
+fundamental I-SETOR
+
+negócio O
+com O
+4362 B-QTD_FUNCIONARIOS
+ate O
+7123 B-QTD_FUNCIONARIOS
+de O
+mão O
+obra O
+
+estabelecimento O
+com O
+586 B-QTD_FUNCIONARIOS
+trabalhadores O
+
+agência O
+em O
+mato B-LOCALIZACAO
+grosso I-LOCALIZACAO
+do I-LOCALIZACAO
+sul I-LOCALIZACAO
+com O
+3735 B-QTD_FUNCIONARIOS
+de O
+corpo O
+funcional O
+
+cooperativa O
+com O
+3623 B-QTD_FUNCIONARIOS
+ate O
+8203 B-QTD_FUNCIONARIOS
+trabalhadores O
+minas B-LOCALIZACAO
+gerais I-LOCALIZACAO
+de O
+vulto O
+medio B-PORTE
+ciberseguranca B-SETOR
+
+entidade O
+com O
+1116 B-QTD_FUNCIONARIOS
+ate O
+5168 B-QTD_FUNCIONARIOS
+de O
+mão O
+obra O
+composição O
+grande B-PORTE
+hidreletricas B-SETOR
+
+firma O
+em O
+sergipe B-LOCALIZACAO
+de O
+pesquisa B-SETOR
+cientifica I-SETOR
+envergadura O
+grande B-PORTE
+com O
+1312 B-QTD_FUNCIONARIOS
+staff O
+
+emprendimento O
+com O
+5540 B-QTD_FUNCIONARIOS
+prestadores O
+pernambuco B-LOCALIZACAO
+
+sociedade O
+de O
+vulto O
+medio B-PORTE
+com O
+2749 B-QTD_FUNCIONARIOS
+ate O
+7842 B-QTD_FUNCIONARIOS
+empregados O
+
+cooperativa O
+em O
+rondonia B-LOCALIZACAO
+de O
+vulto O
+medio B-PORTE
+com O
+1918 B-QTD_FUNCIONARIOS
+membros O
+da O
+equipe O
+ensino B-SETOR
+superior I-SETOR
+
+indústria O
+com O
+3377 B-QTD_FUNCIONARIOS
+ate O
+3523 B-QTD_FUNCIONARIOS
+assistentes O
+de O
+estrutura O
+micro B-PORTE
+
+empresa O
+com O
+3334 B-QTD_FUNCIONARIOS
+colaboradores O
+de O
+marketing B-SETOR
+
+cooperativa O
+com O
+2838 B-QTD_FUNCIONARIOS
+ate O
+2964 B-QTD_FUNCIONARIOS
+prestadores O
+no O
+campo O
+pesca B-SETOR
+
+organização O
+com O
+2415 B-QTD_FUNCIONARIOS
+ate O
+4811 B-QTD_FUNCIONARIOS
+assistentes O
+acre B-LOCALIZACAO
+
+estabelecimento O
+de O
+e-commerce B-SETOR
+em O
+pernambuco B-LOCALIZACAO
+com O
+3076 B-QTD_FUNCIONARIOS
+ate O
+5870 B-QTD_FUNCIONARIOS
+assistentes O
+
+startup O
+com O
+2459 B-QTD_FUNCIONARIOS
+servidores O
+no O
+segmento O
+transporte B-SETOR
+ferroviario I-SETOR
+
+empresa O
+com O
+3906 B-QTD_FUNCIONARIOS
+servidores O
+em O
+rio B-LOCALIZACAO
+grande I-LOCALIZACAO
+do I-LOCALIZACAO
+sul I-LOCALIZACAO
+
+holding O
+sao B-LOCALIZACAO
+paulo I-LOCALIZACAO
+pequeno B-PORTE
+com O
+1562 B-QTD_FUNCIONARIOS
+ate O
+4114 B-QTD_FUNCIONARIOS
+membros O
+da O
+equipe O
+
+corporação O
+amazonas B-LOCALIZACAO
+com O
+196 B-QTD_FUNCIONARIOS
+ate O
+7874 B-QTD_FUNCIONARIOS
+servidores O
+
+entidade O
+com O
+437 B-QTD_FUNCIONARIOS
+pessoas O
+micro B-PORTE
+
+entidade O
+com O
+8329 B-QTD_FUNCIONARIOS
+empregados O
+grande B-PORTE
+no O
+pólo O
+industria B-SETOR
+de I-SETOR
+alimentos I-SETOR
+
+conglomerado O
+com O
+2425 B-QTD_FUNCIONARIOS
+de O
+corpo O
+funcional O
+mato B-LOCALIZACAO
+grosso I-LOCALIZACAO
+do I-LOCALIZACAO
+sul I-LOCALIZACAO
+
+empresa O
+na O
+verticalidade O
+jogos B-SETOR
+digitais I-SETOR
+com O
+5540 B-QTD_FUNCIONARIOS
+de O
+quadro O
+pessoas O
+
+startup O
+rondonia B-LOCALIZACAO
+grande B-PORTE
+com O
+2463 B-QTD_FUNCIONARIOS
+ate O
+6235 B-QTD_FUNCIONARIOS
+de O
+quadro O
+pessoas O
+
+conglomerado O
+com O
+2050 B-QTD_FUNCIONARIOS
+colaboradores O
+
+estabelecimento O
+medio B-PORTE
+em O
+distrito B-LOCALIZACAO
+federal I-LOCALIZACAO
+com O
+2600 B-QTD_FUNCIONARIOS
+ate O
+7980 B-QTD_FUNCIONARIOS
+colaboradores O
+
+corporação O
+medio B-PORTE
+com O
+1526 B-QTD_FUNCIONARIOS
+servidores O
+em O
+acre B-LOCALIZACAO
+
+conglomerado O
+de O
+transporte B-SETOR
+ferroviario I-SETOR
+com O
+953 B-QTD_FUNCIONARIOS
+membros O
+da O
+equipe O
+medio B-PORTE
+
+companhia O
+com O
+5654 B-QTD_FUNCIONARIOS
+colaboradores O
+
+negócio O
+na O
+unidade O
+ciberseguranca B-SETOR
+com O
+1537 B-QTD_FUNCIONARIOS
+ate O
+9395 B-QTD_FUNCIONARIOS
+empregados O
+goias B-LOCALIZACAO
+
+startup O
+de O
+classe O
+micro B-PORTE
+com O
+157 B-QTD_FUNCIONARIOS
+colaboradores O
+
+empresa O
+com O
+3166 B-QTD_FUNCIONARIOS
+ate O
+8135 B-QTD_FUNCIONARIOS
+de O
+corpo O
+funcional O
+
+negócio O
+com O
+3748 B-QTD_FUNCIONARIOS
+ate O
+7966 B-QTD_FUNCIONARIOS
+trabalhadores O
+de O
+startups B-SETOR
+
+empresa O
+com O
+3155 B-QTD_FUNCIONARIOS
+de O
+staff O
+
+startup O
+com O
+5091 B-QTD_FUNCIONARIOS
+de O
+mão O
+obra O
+espirito B-LOCALIZACAO
+santo I-LOCALIZACAO
+
+firma O
+com O
+1857 B-QTD_FUNCIONARIOS
+prestadores O
+de O
+inovacao B-SETOR
+
+estabelecimento O
+rio B-LOCALIZACAO
+de I-LOCALIZACAO
+janeiro I-LOCALIZACAO
+no O
+segmento O
+energia B-SETOR
+solar I-SETOR
+com O
+3685 B-QTD_FUNCIONARIOS
+ate O
+8844 B-QTD_FUNCIONARIOS
+servidores O
+medio B-PORTE
+
+agência O
+com O
+2588 B-QTD_FUNCIONARIOS
+ate O
+3000 B-QTD_FUNCIONARIOS
+trabalhadores O
+de O
+tipo O
+pequeno B-PORTE
+na O
+esfera O
+industria B-SETOR
+automotiva I-SETOR
+
+instituição O
+com O
+2764 B-QTD_FUNCIONARIOS
+ate O
+4947 B-QTD_FUNCIONARIOS
+de O
+staff O
+importância O
+micro B-PORTE
+em O
+sao B-LOCALIZACAO
+paulo I-LOCALIZACAO
+
+corporação O
+em O
+para B-LOCALIZACAO
+com O
+8838 B-QTD_FUNCIONARIOS
+membros O
+da O
+equipe O
+
+startup O
+amazonas B-LOCALIZACAO
+com O
+845 B-QTD_FUNCIONARIOS
+ate O
+3438 B-QTD_FUNCIONARIOS
+de O
+corpo O
+funcional O
+
+indústria O
+com O
+5925 B-QTD_FUNCIONARIOS
+integrantes O
+
+entidade O
+de O
+energia B-SETOR
+solar I-SETOR
+com O
+8522 B-QTD_FUNCIONARIOS
+integrantes O
+
+instituição O
+com O
+3328 B-QTD_FUNCIONARIOS
+membros O
+da O
+equipe O
+na O
+seção O
+publicidade B-SETOR
+rondonia B-LOCALIZACAO
+
+holding O
+com O
+854 B-QTD_FUNCIONARIOS
+auxiliares O
+piaui B-LOCALIZACAO
+grande B-PORTE
+
+companhia O
+com O
+3982 B-QTD_FUNCIONARIOS
+funcionarios O
+rio B-LOCALIZACAO
+de I-LOCALIZACAO
+janeiro I-LOCALIZACAO
+
+estabelecimento O
+de O
+energia B-SETOR
+em O
+sao B-LOCALIZACAO
+paulo I-LOCALIZACAO
+com O
+640 B-QTD_FUNCIONARIOS
+prestadores O
+
+indústria O
+no O
+pólo O
+gestao B-SETOR
+de I-SETOR
+residuos I-SETOR
+com O
+2389 B-QTD_FUNCIONARIOS
+ate O
+5150 B-QTD_FUNCIONARIOS
+funcionarios O
+
+consultoria O
+no O
+segmento O
+veterinaria B-SETOR
+com O
+461 B-QTD_FUNCIONARIOS
+ate O
+5280 B-QTD_FUNCIONARIOS
+integrantes O
+santa B-LOCALIZACAO
+catarina I-LOCALIZACAO
+
+firma O
+com O
+2415 B-QTD_FUNCIONARIOS
+operários O
+
+companhia O
+com O
+9429 B-QTD_FUNCIONARIOS
+profissionais O
+em O
+amazonas B-LOCALIZACAO
+de O
+ecologia B-SETOR
+
+agência O
+na O
+zona O
+agricultura B-SETOR
+com O
+1407 B-QTD_FUNCIONARIOS
+de O
+mão O
+obra O
+distrito B-LOCALIZACAO
+federal I-LOCALIZACAO
+
+entidade O
+de O
+agronegocio B-SETOR
+com O
+2745 B-QTD_FUNCIONARIOS
+ate O
+4553 B-QTD_FUNCIONARIOS
+auxiliares O
+tamanho O
+grande B-PORTE
+
+conglomerado O
+medio B-PORTE
+rio B-LOCALIZACAO
+grande I-LOCALIZACAO
+do I-LOCALIZACAO
+norte I-LOCALIZACAO
+com O
+1360 B-QTD_FUNCIONARIOS
+ate O
+3074 B-QTD_FUNCIONARIOS
+operários O
+
+associação O
+de O
+tamanho O
+pequeno B-PORTE
+em O
+espirito B-LOCALIZACAO
+santo I-LOCALIZACAO
+com O
+3956 B-QTD_FUNCIONARIOS
+staff O
+
+holding O
+com O
+8754 B-QTD_FUNCIONARIOS
+empregados O
+
+sociedade O
+com O
+1193 B-QTD_FUNCIONARIOS
+pessoas O
+
+holding O
+com O
+366 B-QTD_FUNCIONARIOS
+ate O
+7399 B-QTD_FUNCIONARIOS
+integrantes O
+a O
+especialidade O
+transporte B-SETOR
+rodoviario I-SETOR
+de O
+porte O
+grande B-PORTE
+
+emprendimento O
+no O
+segmento O
+servico B-SETOR
+social I-SETOR
+com O
+4814 B-QTD_FUNCIONARIOS
+ate O
+6651 B-QTD_FUNCIONARIOS
+prestadores O
+em O
+pernambuco B-LOCALIZACAO
+
+conglomerado O
+de O
+importância O
+micro B-PORTE
+com O
+4083 B-QTD_FUNCIONARIOS
+ate O
+6882 B-QTD_FUNCIONARIOS
+corpo O
+funcional O
+
+startup O
+com O
+730 B-QTD_FUNCIONARIOS
+ate O
+3405 B-QTD_FUNCIONARIOS
+pessoas O
+de O
+transporte B-SETOR
+aereo I-SETOR
+
+consultoria O
+com O
+3515 B-QTD_FUNCIONARIOS
+ate O
+6818 B-QTD_FUNCIONARIOS
+profissionais O
+na O
+categoria O
+atacado B-SETOR
+rio B-LOCALIZACAO
+de I-LOCALIZACAO
+janeiro I-LOCALIZACAO
+
+entidade O
+com O
+5126 B-QTD_FUNCIONARIOS
+servidores O
+micro B-PORTE
+em O
+alagoas B-LOCALIZACAO
+
+cooperativa O
+com O
+1468 B-QTD_FUNCIONARIOS
+ate O
+6095 B-QTD_FUNCIONARIOS
+empregados O
+na O
+zona O
+telecomunicacoes B-SETOR
+de O
+proporção O
+micro B-PORTE
+em O
+mato B-LOCALIZACAO
+grosso I-LOCALIZACAO
+
+negócio O
+de O
+estatura O
+pequeno B-PORTE
+com O
+2490 B-QTD_FUNCIONARIOS
+assistentes O
+piaui B-LOCALIZACAO
+
+grupo O
+empresarial O
+com O
+3773 B-QTD_FUNCIONARIOS
+ate O
+3899 B-QTD_FUNCIONARIOS
+assistentes O
+em O
+sao B-LOCALIZACAO
+paulo I-LOCALIZACAO
+
+associação O
+paraiba B-LOCALIZACAO
+pequeno B-PORTE
+com O
+4561 B-QTD_FUNCIONARIOS
+de O
+corpo O
+funcional O
+
+instituição O
+no O
+segmento O
+geociencias B-SETOR
+em O
+amapa B-LOCALIZACAO
+com O
+3835 B-QTD_FUNCIONARIOS
+ate O
+6168 B-QTD_FUNCIONARIOS
+trabalhadores O
+
+organização O
+em O
+roraima B-LOCALIZACAO
+de O
+economia B-SETOR
+criativa I-SETOR
+com O
+3166 B-QTD_FUNCIONARIOS
+ate O
+6367 B-QTD_FUNCIONARIOS
+colaboradores O
+grande B-PORTE
+
+conglomerado O
+com O
+3022 B-QTD_FUNCIONARIOS
+ate O
+8814 B-QTD_FUNCIONARIOS
+prestadores O
+na O
+unidade O
+comercio B-SETOR
+parana B-LOCALIZACAO
+
+startup O
+com O
+4145 B-QTD_FUNCIONARIOS
+ate O
+7233 B-QTD_FUNCIONARIOS
+profissionais O
+
+corporação O
+com O
+3641 B-QTD_FUNCIONARIOS
+empregados O
+em O
+bahia B-LOCALIZACAO
+no O
+departamento O
+biotecnologia B-SETOR
+
+emprendimento O
+com O
+3432 B-QTD_FUNCIONARIOS
+empregados O
+pequeno B-PORTE
+
+sociedade O
+de O
+jornalismo B-SETOR
+com O
+5454 B-QTD_FUNCIONARIOS
+trabalhadores O
+
+consultoria O
+em O
+mato B-LOCALIZACAO
+grosso I-LOCALIZACAO
+do I-LOCALIZACAO
+sul I-LOCALIZACAO
+de O
+seguranca B-SETOR
+publica I-SETOR
+com O
+1724 B-QTD_FUNCIONARIOS
+quadro O
+pessoas O
+
+entidade O
+de O
+reciclagem B-SETOR
+em O
+mato B-LOCALIZACAO
+grosso I-LOCALIZACAO
+do I-LOCALIZACAO
+sul I-LOCALIZACAO
+pequeno B-PORTE
+com O
+2176 B-QTD_FUNCIONARIOS
+ate O
+6745 B-QTD_FUNCIONARIOS
+servidores O
+
+associação O
+na O
+linha O
+de O
+negócio O
+economia B-SETOR
+criativa I-SETOR
+com O
+3787 B-QTD_FUNCIONARIOS
+ate O
+9664 B-QTD_FUNCIONARIOS
+corpo O
+funcional O
+medio B-PORTE
+
+companhia O
+com O
+2760 B-QTD_FUNCIONARIOS
+empregados O
+
+negócio O
+rio B-LOCALIZACAO
+de I-LOCALIZACAO
+janeiro I-LOCALIZACAO
+com O
+3515 B-QTD_FUNCIONARIOS
+ate O
+8739 B-QTD_FUNCIONARIOS
+prestadores O
+
+conglomerado O
+ceara B-LOCALIZACAO
+com O
+1357 B-QTD_FUNCIONARIOS
+ate O
+7836 B-QTD_FUNCIONARIOS
+funcionarios O
+
+firma O
+com O
+1954 B-QTD_FUNCIONARIOS
+trabalhadores O
+medio B-PORTE
+
+entidade O
+com O
+9947 B-QTD_FUNCIONARIOS
+profissionais O
+
+estabelecimento O
+de O
+corretoras B-SETOR
+em O
+amapa B-LOCALIZACAO
+com O
+599 B-QTD_FUNCIONARIOS
+ate O
+8549 B-QTD_FUNCIONARIOS
+colaboradores O
+
+emprendimento O
+de O
+escala O
+micro B-PORTE
+com O
+4724 B-QTD_FUNCIONARIOS
+ate O
+5194 B-QTD_FUNCIONARIOS
+auxiliares O
+startups B-SETOR
+
+conglomerado O
+paraiba B-LOCALIZACAO
+com O
+4042 B-QTD_FUNCIONARIOS
+ate O
+5955 B-QTD_FUNCIONARIOS
+integrantes O
+de O
+seguros B-SETOR
+
+indústria O
+de O
+estrutura O
+micro B-PORTE
+com O
+6463 B-QTD_FUNCIONARIOS
+quadro O
+pessoas O
+
+indústria O
+de O
+estrutura O
+medio B-PORTE
+com O
+5042 B-QTD_FUNCIONARIOS
+servidores O
+espirito B-LOCALIZACAO
+santo I-LOCALIZACAO
+
+consultoria O
+mato B-LOCALIZACAO
+grosso I-LOCALIZACAO
+com O
+5918 B-QTD_FUNCIONARIOS
+servidores O
+
+companhia O
+em O
+goias B-LOCALIZACAO
+com O
+2448 B-QTD_FUNCIONARIOS
+integrantes O
+no O
+ramo O
+treinamento B-SETOR
+profissional I-SETOR
+grande B-PORTE
+
+negócio O
+com O
+3193 B-QTD_FUNCIONARIOS
+ate O
+5652 B-QTD_FUNCIONARIOS
+de O
+mão O
+obra O
+
+emprendimento O
+de O
+envergadura O
+grande B-PORTE
+em O
+sao B-LOCALIZACAO
+paulo I-LOCALIZACAO
+com O
+8434 B-QTD_FUNCIONARIOS
+mão O
+obra O
+
+firma O
+na O
+atividade O
+justica B-SETOR
+com O
+2903 B-QTD_FUNCIONARIOS
+profissionais O
+pernambuco B-LOCALIZACAO
+de O
+classe O
+grande B-PORTE
+
+firma O
+com O
+4992 B-QTD_FUNCIONARIOS
+ate O
+7652 B-QTD_FUNCIONARIOS
+prestadores O
+de O
+geociencias B-SETOR
+micro B-PORTE
+
+indústria O
+em O
+mato B-LOCALIZACAO
+grosso I-LOCALIZACAO
+com O
+9103 B-QTD_FUNCIONARIOS
+pessoas O
+
+organização O
+roraima B-LOCALIZACAO
+na O
+área O
+marketing B-SETOR
+com O
+7901 B-QTD_FUNCIONARIOS
+assistentes O
+
+firma O
+de O
+potência O
+grande B-PORTE
+com O
+2835 B-QTD_FUNCIONARIOS
+ate O
+7867 B-QTD_FUNCIONARIOS
+integrantes O
+no O
+ramo O
+medicina B-SETOR
+
+associação O
+com O
+650 B-QTD_FUNCIONARIOS
+colaboradores O
+
+companhia O
+com O
+3163 B-QTD_FUNCIONARIOS
+ate O
+8684 B-QTD_FUNCIONARIOS
+prestadores O
+em O
+santa B-LOCALIZACAO
+catarina I-LOCALIZACAO
+
+corporação O
+com O
+540 B-QTD_FUNCIONARIOS
+colaboradores O
+de O
+varejo B-SETOR
+
+instituição O
+com O
+1657 B-QTD_FUNCIONARIOS
+ate O
+2282 B-QTD_FUNCIONARIOS
+pessoas O
+
+cooperativa O
+rio B-LOCALIZACAO
+de I-LOCALIZACAO
+janeiro I-LOCALIZACAO
+com O
+4641 B-QTD_FUNCIONARIOS
+ate O
+6126 B-QTD_FUNCIONARIOS
+prestadores O
+
+cooperativa O
+com O
+2897 B-QTD_FUNCIONARIOS
+ate O
+7582 B-QTD_FUNCIONARIOS
+membros O
+da O
+equipe O
+
+startup O
+minas B-LOCALIZACAO
+gerais I-LOCALIZACAO
+com O
+98 B-QTD_FUNCIONARIOS
+ate O
+8004 B-QTD_FUNCIONARIOS
+pessoas O
+
+holding O
+de O
+saneamento B-SETOR
+distrito B-LOCALIZACAO
+federal I-LOCALIZACAO
+com O
+1748 B-QTD_FUNCIONARIOS
+colaboradores O
+
+entidade O
+com O
+1816 B-QTD_FUNCIONARIOS
+ate O
+4389 B-QTD_FUNCIONARIOS
+operários O
+rio B-LOCALIZACAO
+grande I-LOCALIZACAO
+do I-LOCALIZACAO
+sul I-LOCALIZACAO
+
+empresa O
+micro B-PORTE
+com O
+1546 B-QTD_FUNCIONARIOS
+ate O
+4838 B-QTD_FUNCIONARIOS
+membros O
+da O
+equipe O
+alagoas B-LOCALIZACAO
+no O
+ramo O
+publicidade B-SETOR
+
+holding O
+de O
+categoria O
+grande I-LOCALIZACAO
+com O
+3994 B-QTD_FUNCIONARIOS
+ate O
+7978 B-QTD_FUNCIONARIOS
+servidores O
+em O
+rio B-LOCALIZACAO
+do I-LOCALIZACAO
+sul I-LOCALIZACAO
+
+sociedade O
+com O
+7919 B-QTD_FUNCIONARIOS
+assistentes O
+na O
+verticalidade O
+energia B-SETOR
+
+consultoria O
+com O
+9907 B-QTD_FUNCIONARIOS
+trabalhadores O
+mato B-LOCALIZACAO
+grosso I-LOCALIZACAO
+do I-LOCALIZACAO
+sul I-LOCALIZACAO
+de O
+perfil O
+grande B-PORTE
+industria B-SETOR
+aeroespacial I-SETOR
+
+firma O
+com O
+8602 B-QTD_FUNCIONARIOS
+profissionais O
+
+emprendimento O
+em O
+alagoas B-LOCALIZACAO
+de O
+pesquisa B-SETOR
+cientifica I-SETOR
+com O
+5365 B-QTD_FUNCIONARIOS
+corpo O
+funcional O
+grande B-PORTE
+
+estabelecimento O
+com O
+2508 B-QTD_FUNCIONARIOS
+ate O
+7068 B-QTD_FUNCIONARIOS
+membros O
+da O
+equipe O
+de O
+perfil O
+pequeno B-PORTE
+midia B-SETOR
+
+negócio O
+minas B-LOCALIZACAO
+gerais I-LOCALIZACAO
+de O
+hardware B-SETOR
+com O
+3198 B-QTD_FUNCIONARIOS
+integrantes O
+
+negócio O
+com O
+7771 B-QTD_FUNCIONARIOS
+de O
+quadro O
+pessoas O
+rio B-LOCALIZACAO
+grande I-LOCALIZACAO
+do I-LOCALIZACAO
+norte I-LOCALIZACAO
+psicologia B-SETOR
+
+estabelecimento O
+com O
+1722 B-QTD_FUNCIONARIOS
+de O
+quadro O
+pessoas O
+ceara B-LOCALIZACAO
+
+firma O
+em O
+rio B-LOCALIZACAO
+de I-LOCALIZACAO
+janeiro I-LOCALIZACAO
+no O
+segmento O
+industria B-SETOR
+textil I-SETOR
+com O
+7818 B-QTD_FUNCIONARIOS
+servidores O
+
+holding O
+de O
+eletronica B-SETOR
+medio B-PORTE
+com O
+3185 B-QTD_FUNCIONARIOS
+ate O
+9624 B-QTD_FUNCIONARIOS
+pessoas O
+
+emprendimento O
+de O
+composição O
+micro B-PORTE
+com O
+4912 B-QTD_FUNCIONARIOS
+ate O
+8617 B-QTD_FUNCIONARIOS
+profissionais O
+
+instituição O
+goias B-LOCALIZACAO
+pequeno B-PORTE
+com O
+7583 B-QTD_FUNCIONARIOS
+de O
+staff O
+
+conglomerado O
+com O
+3852 B-QTD_FUNCIONARIOS
+ate O
+6456 B-QTD_FUNCIONARIOS
+funcionarios O
+mato B-LOCALIZACAO
+grosso I-LOCALIZACAO
+
+organização O
+bahia B-LOCALIZACAO
+com O
+3675 B-QTD_FUNCIONARIOS
+ate O
+8086 B-QTD_FUNCIONARIOS
+operários O
+medio B-PORTE
+
+estabelecimento O
+de O
+composição O
+micro B-PORTE
+administracao B-SETOR
+publica I-SETOR
+com O
+8975 B-QTD_FUNCIONARIOS
+integrantes O
+
+corporação O
+em O
+sao B-LOCALIZACAO
+paulo I-LOCALIZACAO
+com O
+7899 B-QTD_FUNCIONARIOS
+operários O
+
+holding O
+em O
+roraima B-LOCALIZACAO
+pequeno B-PORTE
+com O
+6391 B-QTD_FUNCIONARIOS
+empregados O
+
+grupo O
+empresarial O
+mato B-LOCALIZACAO
+grosso I-LOCALIZACAO
+de I-SETOR
+tipo O
+micro B-PORTE
+engenharia B-SETOR
+producao I-SETOR
+com O
+2616 B-QTD_FUNCIONARIOS
+corpo O
+funcional O
+
+instituição O
+com O
+4101 B-QTD_FUNCIONARIOS
+ate O
+9458 B-QTD_FUNCIONARIOS
+membros O
+da O
+equipe O
+
+conglomerado O
+de O
+enfermagem B-SETOR
+em O
+amapa B-LOCALIZACAO
+com O
+3874 B-QTD_FUNCIONARIOS
+ate O
+8406 B-QTD_FUNCIONARIOS
+trabalhadores O
+
+emprendimento O
+em O
+ceara B-LOCALIZACAO
+com O
+3352 B-QTD_FUNCIONARIOS
+integrantes O
+pequeno B-PORTE
+
+corporação O
+com O
+3849 B-QTD_FUNCIONARIOS
+de O
+staff O
+pequeno B-PORTE
+em O
+paraiba B-LOCALIZACAO
+
+organização O
+na O
+atividade O
+reciclagem B-SETOR
+em O
+mato B-LOCALIZACAO
+grosso I-LOCALIZACAO
+do I-LOCALIZACAO
+sul I-LOCALIZACAO
+com O
+4923 B-QTD_FUNCIONARIOS
+assistentes O
+
+grupo O
+empresarial O
+de O
+dimensão O
+medio B-PORTE
+com O
+3961 B-QTD_FUNCIONARIOS
+ate O
+7418 B-QTD_FUNCIONARIOS
+servidores O
+
+firma O
+com O
+3577 B-QTD_FUNCIONARIOS
+ate O
+6783 B-QTD_FUNCIONARIOS
+colaboradores O
+no O
+segmento O
+agricultura B-SETOR
+em O
+para B-LOCALIZACAO
+medio B-PORTE
+
+corporação O
+com O
+1936 B-QTD_FUNCIONARIOS
+ate O
+2198 B-QTD_FUNCIONARIOS
+servidores O
+em O
+roraima B-LOCALIZACAO
+
+indústria O
+com O
+3815 B-QTD_FUNCIONARIOS
+ate O
+8303 B-QTD_FUNCIONARIOS
+funcionarios O
+pequeno B-PORTE
+
+firma O
+na O
+verticalidade O
+reciclagem B-SETOR
+com O
+659 B-QTD_FUNCIONARIOS
+trabalhadores O
+
+firma O
+em O
+tocantins B-LOCALIZACAO
+medio B-PORTE
+com O
+278 B-QTD_FUNCIONARIOS
+empregados O
+na O
+esfera O
+economia B-SETOR
+criativa I-SETOR
+
+conglomerado O
+pequeno B-PORTE
+para B-LOCALIZACAO
+na O
+divisão O
+educacao B-SETOR
+corporativa I-SETOR
+com O
+988 B-QTD_FUNCIONARIOS
+ate O
+2357 B-QTD_FUNCIONARIOS
+prestadores O
+
+entidade O
+de O
+potência O
+grande B-PORTE
+com O
+4542 B-QTD_FUNCIONARIOS
+ate O
+5934 B-QTD_FUNCIONARIOS
+servidores O
+
+cooperativa O
+com O
+958 B-QTD_FUNCIONARIOS
+profissionais O
+na O
+seção O
+blockchain B-SETOR
+
+indústria O
+com O
+2992 B-QTD_FUNCIONARIOS
+ate O
+3718 B-QTD_FUNCIONARIOS
+servidores O
+na O
+linha O
+de O
+negócio O
+seguros B-SETOR
+parana B-LOCALIZACAO
+
+negócio O
+de O
+importância O
+medio B-PORTE
+goias B-LOCALIZACAO
+com O
+9078 B-QTD_FUNCIONARIOS
+corpo O
+funcional O
+
+startup O
+de O
+composição O
+pequeno B-PORTE
+pesca B-SETOR
+em O
+goias B-LOCALIZACAO
+com O
+3741 B-QTD_FUNCIONARIOS
+ate O
+3898 B-QTD_FUNCIONARIOS
+staff O
+
+estabelecimento O
+com O
+824 B-QTD_FUNCIONARIOS
+auxiliares O
+medio B-PORTE
+
+entidade O
+com O
+7359 B-QTD_FUNCIONARIOS
+trabalhadores O
+grande B-PORTE
+na O
+seção O
+recursos B-SETOR
+humanos I-SETOR
+
+corporação O
+espirito B-LOCALIZACAO
+santo I-LOCALIZACAO
+com O
+114 B-QTD_FUNCIONARIOS
+membros O
+da O
+equipe O
+pequeno B-PORTE
+
+estabelecimento O
+de O
+eventos B-SETOR
+tocantins B-LOCALIZACAO
+pequeno B-PORTE
+com O
+1157 B-QTD_FUNCIONARIOS
+mão O
+obra O
+
+startup O
+com O
+5198 B-QTD_FUNCIONARIOS
+de O
+quadro O
+pessoas O
+pequeno B-PORTE
+na O
+seção O
+industria B-SETOR
+automotiva I-SETOR
+
+sociedade O
+com O
+3798 B-QTD_FUNCIONARIOS
+servidores O
+de O
+estrutura O
+pequeno B-PORTE
+
+empresa O
+com O
+916 B-QTD_FUNCIONARIOS
+profissionais O
+no O
+segmento O
+agronegocio B-SETOR
+em O
+santa B-LOCALIZACAO
+catarina I-LOCALIZACAO
+
+empresa O
+com O
+2661 B-QTD_FUNCIONARIOS
+ate O
+9428 B-QTD_FUNCIONARIOS
+colaboradores O
+
+cooperativa O
+com O
+5598 B-QTD_FUNCIONARIOS
+empregados O
+de O
+categoria O
+pequeno B-PORTE
+
+agência O
+com O
+1202 B-QTD_FUNCIONARIOS
+ate O
+1300 B-QTD_FUNCIONARIOS
+empregados O
+em O
+espirito B-LOCALIZACAO
+santo I-LOCALIZACAO
+
+firma O
+de O
+tamanho O
+micro B-PORTE
+com O
+5499 B-QTD_FUNCIONARIOS
+prestadores O
+tecnologia B-SETOR
+da I-SETOR
+informacao I-SETOR
+
+instituição O
+com O
+2129 B-QTD_FUNCIONARIOS
+colaboradores O
+de O
+classe O
+pequeno B-PORTE
+
+companhia O
+com O
+1084 B-QTD_FUNCIONARIOS
+ate O
+6526 B-QTD_FUNCIONARIOS
+auxiliares O
+de O
+policia B-SETOR
+em O
+acre B-LOCALIZACAO
+
+consultoria O
+de O
+e-commerce B-SETOR
+potência O
+micro B-PORTE
+com O
+1447 B-QTD_FUNCIONARIOS
+ate O
+9851 B-QTD_FUNCIONARIOS
+mão O
+obra O
+
+consultoria O
+com O
+3403 B-QTD_FUNCIONARIOS
+ate O
+7661 B-QTD_FUNCIONARIOS
+prestadores O
+
+cooperativa O
+em O
+rio B-LOCALIZACAO
+grande I-LOCALIZACAO
+do I-LOCALIZACAO
+sul I-LOCALIZACAO
+com O
+282 B-QTD_FUNCIONARIOS
+ate O
+6601 B-QTD_FUNCIONARIOS
+empregados O
+
+grupo O
+empresarial O
+com O
+3756 B-QTD_FUNCIONARIOS
+trabalhadores O
+em O
+espirito B-LOCALIZACAO
+santo I-LOCALIZACAO
+
+organização O
+roraima B-LOCALIZACAO
+com O
+2588 B-QTD_FUNCIONARIOS
+servidores O
+medio B-PORTE
+
+entidade O
+parana B-LOCALIZACAO
+com O
+324 B-QTD_FUNCIONARIOS
+ate O
+9393 B-QTD_FUNCIONARIOS
+profissionais O
+pequeno B-PORTE
+de O
+ciberseguranca B-SETOR
+
+estabelecimento O
+grande B-PORTE
+com O
+2898 B-QTD_FUNCIONARIOS
+ate O
+5992 B-QTD_FUNCIONARIOS
+funcionarios O
+de O
+comercio B-SETOR
+
+instituição O
+com O
+1319 B-QTD_FUNCIONARIOS
+ate O
+6964 B-QTD_FUNCIONARIOS
+auxiliares O
+maranhao B-LOCALIZACAO
+de O
+educacao B-SETOR
+
+startup O
+medio B-PORTE
+com O
+2668 B-QTD_FUNCIONARIOS
+assistentes O
+na O
+esfera O
+eletronica B-SETOR
+
+consultoria O
+com O
+3985 B-QTD_FUNCIONARIOS
+ate O
+6270 B-QTD_FUNCIONARIOS
+assistentes O
+de O
+envergadura O
+micro B-PORTE
+
+consultoria O
+com O
+5998 B-QTD_FUNCIONARIOS
+prestadores O
+
+organização O
+com O
+466 B-QTD_FUNCIONARIOS
+ate O
+3227 B-QTD_FUNCIONARIOS
+assistentes O
+de O
+industria B-SETOR
+farmaceutica I-SETOR
+pernambuco B-LOCALIZACAO
+
+emprendimento O
+com O
+8501 B-QTD_FUNCIONARIOS
+funcionarios O
+
+indústria O
+pequeno B-PORTE
+com O
+236 B-QTD_FUNCIONARIOS
+ate O
+6114 B-QTD_FUNCIONARIOS
+trabalhadores O
+
+corporação O
+com O
+8427 B-QTD_FUNCIONARIOS
+de O
+staff O
+
+cooperativa O
+na O
+atividade O
+treinamento B-SETOR
+profissional I-SETOR
+com O
+9942 B-QTD_FUNCIONARIOS
+trabalhadores O
+em O
+distrito B-LOCALIZACAO
+federal I-LOCALIZACAO
+
+entidade O
+com O
+3387 B-QTD_FUNCIONARIOS
+operários O
+na O
+esfera O
+empreendedorismo B-SETOR
+
+consultoria O
+com O
+6842 B-QTD_FUNCIONARIOS
+operários O
+micro B-PORTE
+
+firma O
+santa B-LOCALIZACAO
+catarina I-LOCALIZACAO
+com O
+5027 B-QTD_FUNCIONARIOS
+colaboradores O
+medio B-PORTE
+
+startup O
+em O
+bahia B-LOCALIZACAO
+com O
+2135 B-QTD_FUNCIONARIOS
+ate O
+3743 B-QTD_FUNCIONARIOS
+assistentes O
+
+cooperativa O
+com O
+2764 B-QTD_FUNCIONARIOS
+ate O
+5613 B-QTD_FUNCIONARIOS
+funcionarios O
+alagoas B-LOCALIZACAO
+
+companhia O
+com O
+8818 B-QTD_FUNCIONARIOS
+servidores O
+em O
+espirito B-LOCALIZACAO
+santo I-LOCALIZACAO
+no O
+setor O
+recursos B-SETOR
+humanos I-SETOR
+
+cooperativa O
+com O
+3877 B-QTD_FUNCIONARIOS
+pessoas O
+pequeno B-PORTE
+
+sociedade O
+de O
+medicina B-SETOR
+com O
+89 B-QTD_FUNCIONARIOS
+auxiliares O
+
+emprendimento O
+espirito B-LOCALIZACAO
+santo I-LOCALIZACAO
+com O
+3295 B-QTD_FUNCIONARIOS
+de O
+mão O
+obra O
+
+companhia O
+com O
+2663 B-QTD_FUNCIONARIOS
+ate O
+5997 B-QTD_FUNCIONARIOS
+de O
+staff O
+energia B-SETOR
+eolica I-SETOR
+
+sociedade O
+em O
+goias B-LOCALIZACAO
+com O
+4837 B-QTD_FUNCIONARIOS
+funcionarios O
+de O
+escala O
+grande B-PORTE
+núcleo O
+energia B-SETOR
+renovavel I-SETOR
+
+startup O
+com O
+7330 B-QTD_FUNCIONARIOS
+de O
+quadro O
+pessoas O
+
+empresa O
+de O
+categoria O
+grande B-PORTE
+paraiba B-LOCALIZACAO
+na O
+área O
+inteligencia B-SETOR
+artificial I-SETOR
+com O
+4062 B-QTD_FUNCIONARIOS
+ate O
+6888 B-QTD_FUNCIONARIOS
+pessoas O
+
+grupo O
+empresarial O
+grande B-PORTE
+com O
+8243 B-QTD_FUNCIONARIOS
+funcionarios O
+pernambuco B-LOCALIZACAO
+
+cooperativa O
+com O
+5268 B-QTD_FUNCIONARIOS
+profissionais O
+
+cooperativa O
+com O
+9351 B-QTD_FUNCIONARIOS
+de O
+corpo O
+funcional O
+composição O
+micro B-PORTE
+
+instituição O
+com O
+4364 B-QTD_FUNCIONARIOS
+trabalhadores O
+de I-SETOR
+gestao B-SETOR
+residuos I-SETOR
+
+companhia O
+na O
+seção O
+seguranca B-SETOR
+publica I-SETOR
+com O
+8059 B-QTD_FUNCIONARIOS
+auxiliares O
+em O
+sergipe B-LOCALIZACAO
+
+organização O
+com O
+9085 B-QTD_FUNCIONARIOS
+de O
+corpo O
+funcional O
+em O
+espirito B-LOCALIZACAO
+santo I-LOCALIZACAO
+
+agência O
+com O
+8094 B-QTD_FUNCIONARIOS
+funcionarios O
+
+agência O
+de I-LOCALIZACAO
+composição O
+micro B-PORTE
+em O
+rio B-LOCALIZACAO
+janeiro I-LOCALIZACAO
+com O
+2013 B-QTD_FUNCIONARIOS
+servidores O
+
+emprendimento O
+com O
+6179 B-QTD_FUNCIONARIOS
+membros O
+da O
+equipe O
+
+agência O
+no O
+segmento O
+mineracao B-SETOR
+goias B-LOCALIZACAO
+de O
+envergadura O
+micro B-PORTE
+com O
+2721 B-QTD_FUNCIONARIOS
+colaboradores O
+
+startup O
+roraima B-LOCALIZACAO
+com O
+1095 B-QTD_FUNCIONARIOS
+ate O
+6087 B-QTD_FUNCIONARIOS
+de O
+mão O
+obra O
+
+indústria O
+com O
+964 B-QTD_FUNCIONARIOS
+funcionarios O
+rio B-LOCALIZACAO
+de I-LOCALIZACAO
+janeiro I-LOCALIZACAO
+na O
+divisão O
+transporte B-SETOR
+maritimo I-SETOR
+
+consultoria O
+com O
+547 B-QTD_FUNCIONARIOS
+ate O
+7841 B-QTD_FUNCIONARIOS
+de O
+mão O
+obra O
+grande I-LOCALIZACAO
+rio B-LOCALIZACAO
+do I-LOCALIZACAO
+norte I-LOCALIZACAO
+
+companhia O
+com O
+1832 B-QTD_FUNCIONARIOS
+empregados O
+de O
+organizacoes B-SETOR
+nao I-SETOR
+governamentais I-SETOR
+importância O
+grande B-PORTE
+
+companhia O
+de O
+odontologia B-SETOR
+pequeno B-PORTE
+com O
+7946 B-QTD_FUNCIONARIOS
+prestadores O
+
+holding O
+com O
+8369 B-QTD_FUNCIONARIOS
+auxiliares O
+de O
+musica B-SETOR
+vulto O
+grande B-PORTE
+
+associação O
+em O
+ceara B-LOCALIZACAO
+com O
+536 B-QTD_FUNCIONARIOS
+ate O
+2548 B-QTD_FUNCIONARIOS
+servidores O
+
+negócio O
+com O
+5617 B-QTD_FUNCIONARIOS
+membros O
+da O
+equipe O
+
+firma O
+de O
+potência O
+micro B-PORTE
+com O
+2267 B-QTD_FUNCIONARIOS
+ate O
+6782 B-QTD_FUNCIONARIOS
+profissionais O
+
+associação O
+com O
+a O
+especialidade O
+enfermagem B-SETOR
+em O
+distrito B-LOCALIZACAO
+federal I-LOCALIZACAO
+4749 B-QTD_FUNCIONARIOS
+pessoas O
+
+indústria O
+em O
+maranhao B-LOCALIZACAO
+com O
+4543 B-QTD_FUNCIONARIOS
+ate O
+4593 B-QTD_FUNCIONARIOS
+colaboradores O
+de O
+saneamento B-SETOR
+escala O
+grande B-PORTE
+
+conglomerado O
+com O
+9341 B-QTD_FUNCIONARIOS
+funcionarios O
+
+holding O
+grande B-PORTE
+com O
+4882 B-QTD_FUNCIONARIOS
+ate O
+8589 B-QTD_FUNCIONARIOS
+integrantes O
+
+firma O
+rio B-LOCALIZACAO
+de I-LOCALIZACAO
+janeiro I-LOCALIZACAO
+com O
+6020 B-QTD_FUNCIONARIOS
+prestadores O
+
+agência O
+com O
+1173 B-QTD_FUNCIONARIOS
+empregados O
+roraima B-LOCALIZACAO
+de O
+envergadura O
+pequeno B-PORTE
+
+empresa O
+de O
+educacao B-SETOR
+infantil I-SETOR
+micro B-PORTE
+com O
+1333 B-QTD_FUNCIONARIOS
+ate O
+8470 B-QTD_FUNCIONARIOS
+membros O
+da O
+equipe O
+
+conglomerado O
+para B-LOCALIZACAO
+com O
+7975 B-QTD_FUNCIONARIOS
+integrantes O
+
+emprendimento O
+micro B-PORTE
+de O
+empreendedorismo B-SETOR
+com O
+3312 B-QTD_FUNCIONARIOS
+mão O
+obra O
+
+agência O
+com O
+4201 B-QTD_FUNCIONARIOS
+assistentes O
+mato B-LOCALIZACAO
+grosso I-LOCALIZACAO
+
+corporação O
+com O
+5760 B-QTD_FUNCIONARIOS
+servidores O
+de O
+volume O
+pequeno B-PORTE
+
+cooperativa O
+no O
+setor O
+economia B-SETOR
+criativa I-SETOR
+pequeno B-PORTE
+com O
+3613 B-QTD_FUNCIONARIOS
+ate O
+8984 B-QTD_FUNCIONARIOS
+colaboradores O
+
+grupo O
+empresarial O
+de O
+bancos B-SETOR
+com O
+4859 B-QTD_FUNCIONARIOS
+servidores O
+tamanho O
+micro B-PORTE
+
+holding O
+de O
+potência O
+micro B-PORTE
+com O
+311 B-QTD_FUNCIONARIOS
+funcionarios O
+no O
+domínio O
+engenharia B-SETOR
+ambiental I-SETOR
+alagoas B-LOCALIZACAO
+
+grupo O
+empresarial O
+com O
+89 B-QTD_FUNCIONARIOS
+ate O
+2203 B-QTD_FUNCIONARIOS
+auxiliares O
+sergipe B-LOCALIZACAO
+
+firma O
+no O
+setor O
+justica B-SETOR
+com O
+1256 B-QTD_FUNCIONARIOS
+ate O
+5076 B-QTD_FUNCIONARIOS
+pessoas O
+
+agência O
+de O
+varejo B-SETOR
+em O
+sao B-LOCALIZACAO
+paulo I-LOCALIZACAO
+com O
+175 B-QTD_FUNCIONARIOS
+ate O
+1847 B-QTD_FUNCIONARIOS
+pessoas O
+
+sociedade O
+em O
+mato B-LOCALIZACAO
+grosso I-LOCALIZACAO
+do I-LOCALIZACAO
+sul I-LOCALIZACAO
+no O
+pólo O
+inteligencia B-SETOR
+artificial I-SETOR
+com O
+693 B-QTD_FUNCIONARIOS
+trabalhadores O
+
+startup O
+em O
+amazonas B-LOCALIZACAO
+com O
+1853 B-QTD_FUNCIONARIOS
+ate O
+4585 B-QTD_FUNCIONARIOS
+prestadores O
+de O
+vulto O
+micro B-PORTE
+
+startup O
+com O
+9866 B-QTD_FUNCIONARIOS
+prestadores O
+
+associação O
+com O
+7199 B-QTD_FUNCIONARIOS
+integrantes O
+
+corporação O
+em O
+rio B-LOCALIZACAO
+de I-LOCALIZACAO
+janeiro I-LOCALIZACAO
+perfil O
+medio B-PORTE
+com O
+491 B-QTD_FUNCIONARIOS
+corpo O
+funcional O
+
+grupo O
+empresarial O
+com O
+8818 B-QTD_FUNCIONARIOS
+de O
+staff O
+em O
+piaui B-LOCALIZACAO
+
+consultoria O
+com O
+a O
+especialidade O
+psicologia B-SETOR
+4733 B-QTD_FUNCIONARIOS
+ate O
+8144 B-QTD_FUNCIONARIOS
+de O
+staff O
+grande B-PORTE
+
+cooperativa O
+de O
+gastronomia B-SETOR
+com O
+4350 B-QTD_FUNCIONARIOS
+ate O
+9475 B-QTD_FUNCIONARIOS
+funcionarios O
+
+consultoria O
+na O
+linha O
+de O
+negócio O
+logistica B-SETOR
+com O
+477 B-QTD_FUNCIONARIOS
+ate O
+7754 B-QTD_FUNCIONARIOS
+operários O
+micro B-PORTE
+
+sociedade O
+ceara B-LOCALIZACAO
+de O
+tipo O
+pequeno B-PORTE
+com O
+4430 B-QTD_FUNCIONARIOS
+ate O
+8276 B-QTD_FUNCIONARIOS
+auxiliares O
+
+emprendimento O
+em O
+goias B-LOCALIZACAO
+de O
+proporção O
+medio B-PORTE
+inteligencia B-SETOR
+artificial I-SETOR
+com O
+897 B-QTD_FUNCIONARIOS
+funcionarios O
+
+empresa O
+na O
+linha O
+de O
+negócio O
+robotica B-SETOR
+tipo O
+pequeno B-PORTE
+maranhao B-LOCALIZACAO
+com O
+1232 B-QTD_FUNCIONARIOS
+assistentes O
+
+agência O
+de O
+empreendedorismo B-SETOR
+com O
+1595 B-QTD_FUNCIONARIOS
+ate O
+5241 B-QTD_FUNCIONARIOS
+mão O
+obra O
+
+corporação O
+com O
+4335 B-QTD_FUNCIONARIOS
+ate O
+8970 B-QTD_FUNCIONARIOS
+de O
+mão O
+obra O
+
+agência O
+com O
+1824 B-QTD_FUNCIONARIOS
+ate O
+3839 B-QTD_FUNCIONARIOS
+membros O
+da O
+equipe O
+de O
+servicos B-SETOR
+tecnicos I-SETOR
+
+startup O
+com O
+1280 B-QTD_FUNCIONARIOS
+ate O
+8380 B-QTD_FUNCIONARIOS
+profissionais O
+de O
+eletronica B-SETOR
+
+entidade O
+na O
+zona O
+startups B-SETOR
+sao B-LOCALIZACAO
+paulo I-LOCALIZACAO
+com O
+2710 B-QTD_FUNCIONARIOS
+funcionarios O
+de O
+volume O
+medio B-PORTE
+
+consultoria O
+distrito B-LOCALIZACAO
+federal I-LOCALIZACAO
+com O
+811 B-QTD_FUNCIONARIOS
+empregados O
+de O
+perfil O
+micro B-PORTE
+
+organização O
+grande B-PORTE
+na O
+divisão O
+blockchain B-SETOR
+com O
+565 B-QTD_FUNCIONARIOS
+de O
+corpo O
+funcional O
+
+estabelecimento O
+de O
+engenharia B-SETOR
+ambiental I-SETOR
+com O
+7967 B-QTD_FUNCIONARIOS
+assistentes O
+
+emprendimento O
+na O
+zona O
+comercio B-SETOR
+com O
+2472 B-QTD_FUNCIONARIOS
+ate O
+4291 B-QTD_FUNCIONARIOS
+trabalhadores O
+em O
+ceara B-LOCALIZACAO
+de O
+tipo O
+grande B-PORTE
+
+instituição O
+com O
+9301 B-QTD_FUNCIONARIOS
+colaboradores O
+goias B-LOCALIZACAO
+
+holding O
+com O
+4034 B-QTD_FUNCIONARIOS
+ate O
+4239 B-QTD_FUNCIONARIOS
+integrantes O
+roraima B-LOCALIZACAO
+grande B-PORTE
+
+agência O
+com O
+núcleo O
+publicidade B-SETOR
+1325 B-QTD_FUNCIONARIOS
+ate O
+4592 B-QTD_FUNCIONARIOS
+servidores O
+
+organização O
+com O
+9039 B-QTD_FUNCIONARIOS
+de O
+quadro O
+pessoas O
+
+instituição O
+com O
+3235 B-QTD_FUNCIONARIOS
+ate O
+3711 B-QTD_FUNCIONARIOS
+assistentes O
+na O
+linha O
+de O
+negócio O
+defesa B-SETOR
+nacional I-SETOR
+rondonia B-LOCALIZACAO
+
+cooperativa O
+com O
+7284 B-QTD_FUNCIONARIOS
+de O
+staff O
+medio B-PORTE
+no O
+setor O
+logistica B-SETOR
+
+conglomerado O
+pequeno B-PORTE
+com O
+4163 B-QTD_FUNCIONARIOS
+ate O
+5401 B-QTD_FUNCIONARIOS
+de O
+corpo O
+funcional O
+
+agência O
+em O
+mato B-LOCALIZACAO
+grosso I-LOCALIZACAO
+do I-LOCALIZACAO
+sul I-LOCALIZACAO
+com O
+14 B-QTD_FUNCIONARIOS
+ate O
+9567 B-QTD_FUNCIONARIOS
+de O
+corpo O
+funcional O
+
+emprendimento O
+com O
+4423 B-QTD_FUNCIONARIOS
+ate O
+8940 B-QTD_FUNCIONARIOS
+pessoas O
+de O
+justica B-SETOR
+
+organização O
+com O
+1699 B-QTD_FUNCIONARIOS
+ate O
+2603 B-QTD_FUNCIONARIOS
+pessoas O
+parana B-LOCALIZACAO
+
+associação O
+pequeno B-PORTE
+na O
+categoria O
+contabilidade B-SETOR
+com O
+828 B-QTD_FUNCIONARIOS
+de O
+corpo O
+funcional O
+
+entidade O
+com O
+4368 B-QTD_FUNCIONARIOS
+ate O
+6720 B-QTD_FUNCIONARIOS
+auxiliares O
+tocantins B-LOCALIZACAO
+de I-SETOR
+tratamento B-SETOR
+agua I-SETOR
+
+empresa O
+com O
+2736 B-QTD_FUNCIONARIOS
+ate O
+4911 B-QTD_FUNCIONARIOS
+profissionais O
+núcleo O
+gestao B-SETOR
+de I-SETOR
+residuos I-SETOR
+pernambuco B-LOCALIZACAO
+
+cooperativa O
+com O
+3955 B-QTD_FUNCIONARIOS
+ate O
+5033 B-QTD_FUNCIONARIOS
+de O
+staff O
+
+empresa O
+de O
+classe O
+micro B-PORTE
+no O
+domínio O
+gastronomia B-SETOR
+com O
+4178 B-QTD_FUNCIONARIOS
+funcionarios O
+
+instituição O
+de O
+volume O
+pequeno B-PORTE
+com O
+523 B-QTD_FUNCIONARIOS
+prestadores O
+minas B-LOCALIZACAO
+gerais I-LOCALIZACAO
+
+sociedade O
+com O
+3953 B-QTD_FUNCIONARIOS
+de O
+staff O
+proporção O
+pequeno B-PORTE
+
+companhia O
+com O
+2652 B-QTD_FUNCIONARIOS
+ate O
+7079 B-QTD_FUNCIONARIOS
+integrantes O
+de O
+porte O
+pequeno B-PORTE
+alagoas B-LOCALIZACAO
+
+firma O
+com O
+1643 B-QTD_FUNCIONARIOS
+profissionais O
+distrito B-LOCALIZACAO
+federal I-LOCALIZACAO
+de O
+importância O
+micro B-PORTE
+
+grupo O
+empresarial O
+de O
+engenharia B-SETOR
+biomedica I-SETOR
+classe O
+pequeno B-PORTE
+acre B-LOCALIZACAO
+com O
+3365 B-QTD_FUNCIONARIOS
+assistentes O
+
+associação O
+micro B-PORTE
+alagoas B-LOCALIZACAO
+de I-SETOR
+desenvolvimento B-SETOR
+software I-SETOR
+com O
+1914 B-QTD_FUNCIONARIOS
+assistentes O
+
+startup O
+com O
+4100 B-QTD_FUNCIONARIOS
+ate O
+7681 B-QTD_FUNCIONARIOS
+auxiliares O
+medio B-PORTE
+
+companhia O
+em O
+sergipe B-LOCALIZACAO
+pequeno B-PORTE
+com O
+2947 B-QTD_FUNCIONARIOS
+ate O
+8673 B-QTD_FUNCIONARIOS
+de O
+quadro O
+pessoas O
+no O
+segmento O
+educacao B-SETOR
+infantil I-SETOR
+
+conglomerado O
+de O
+educacao B-SETOR
+corporativa I-SETOR
+maranhao B-LOCALIZACAO
+estatura O
+grande B-PORTE
+com O
+9307 B-QTD_FUNCIONARIOS
+integrantes O
+
+cooperativa O
+de O
+composição O
+medio B-PORTE
+com O
+2239 B-QTD_FUNCIONARIOS
+ate O
+8870 B-QTD_FUNCIONARIOS
+mão O
+obra O
+
+companhia O
+com O
+612 B-QTD_FUNCIONARIOS
+ate O
+6637 B-QTD_FUNCIONARIOS
+colaboradores O
+de O
+ensino B-SETOR
+medio I-SETOR
+
+associação O
+com O
+1698 B-QTD_FUNCIONARIOS
+ate O
+1830 B-QTD_FUNCIONARIOS
+prestadores O
+núcleo O
+planejamento B-SETOR
+urbano I-SETOR
+
+corporação O
+de O
+comercio B-SETOR
+importância O
+medio B-PORTE
+com O
+2435 B-QTD_FUNCIONARIOS
+ate O
+4078 B-QTD_FUNCIONARIOS
+profissionais O
+
+startup O
+com O
+5256 B-QTD_FUNCIONARIOS
+empregados O
+
+negócio O
+pequeno B-PORTE
+com O
+375 B-QTD_FUNCIONARIOS
+ate O
+8077 B-QTD_FUNCIONARIOS
+pessoas O
+na O
+linha O
+de O
+ensino B-SETOR
+superior I-SETOR
+
+startup O
+de O
+tamanho O
+pequeno B-PORTE
+com O
+3109 B-QTD_FUNCIONARIOS
+ate O
+6874 B-QTD_FUNCIONARIOS
+servidores O
+
+corporação O
+pequeno B-PORTE
+piaui B-LOCALIZACAO
+com O
+1014 B-QTD_FUNCIONARIOS
+ate O
+6702 B-QTD_FUNCIONARIOS
+membros O
+da O
+equipe O
+
+emprendimento O
+com O
+250 B-QTD_FUNCIONARIOS
+ate O
+435 B-QTD_FUNCIONARIOS
+trabalhadores O
+
+cooperativa O
+com O
+3428 B-QTD_FUNCIONARIOS
+ate O
+5045 B-QTD_FUNCIONARIOS
+empregados O
+sergipe B-LOCALIZACAO
+
+corporação O
+na O
+verticalidade O
+reciclagem B-SETOR
+pequeno B-PORTE
+com O
+1140 B-QTD_FUNCIONARIOS
+ate O
+5401 B-QTD_FUNCIONARIOS
+empregados O
+
+negócio O
+grande B-PORTE
+com O
+4458 B-QTD_FUNCIONARIOS
+ate O
+6203 B-QTD_FUNCIONARIOS
+integrantes O
+
+corporação O
+micro B-PORTE
+com O
+8999 B-QTD_FUNCIONARIOS
+de O
+quadro O
+pessoas O
+
+consultoria O
+bahia B-LOCALIZACAO
+com O
+7534 B-QTD_FUNCIONARIOS
+trabalhadores O
+
+instituição O
+com O
+4904 B-QTD_FUNCIONARIOS
+servidores O
+em O
+sergipe B-LOCALIZACAO
+grande B-PORTE
+de O
+corretoras B-SETOR
+
+empresa O
+com O
+3370 B-QTD_FUNCIONARIOS
+ate O
+9146 B-QTD_FUNCIONARIOS
+de O
+corpo O
+funcional O
+grande B-PORTE
+consultoria B-SETOR
+
+empresa O
+grande B-PORTE
+com O
+7285 B-QTD_FUNCIONARIOS
+profissionais O
+
+emprendimento O
+em O
+piaui B-LOCALIZACAO
+de O
+estrutura O
+micro B-PORTE
+com O
+126 B-QTD_FUNCIONARIOS
+ate O
+9999 B-QTD_FUNCIONARIOS
+membros O
+da O
+equipe O
+
+entidade O
+com O
+núcleo O
+varejo B-SETOR
+3205 B-QTD_FUNCIONARIOS
+de O
+quadro O
+pessoas O
+piaui B-LOCALIZACAO
+micro B-PORTE
+
+estabelecimento O
+grande B-PORTE
+com O
+6450 B-QTD_FUNCIONARIOS
+colaboradores O
+
+associação O
+de O
+perfil O
+medio B-PORTE
+com O
+888 B-QTD_FUNCIONARIOS
+prestadores O
+
+consultoria O
+com O
+2123 B-QTD_FUNCIONARIOS
+ate O
+6565 B-QTD_FUNCIONARIOS
+empregados O
+grande B-PORTE
+acre B-LOCALIZACAO
+
+negócio O
+de O
+atacado B-SETOR
+distrito B-LOCALIZACAO
+federal I-LOCALIZACAO
+com O
+7853 B-QTD_FUNCIONARIOS
+membros O
+da O
+equipe O
+
+sociedade O
+de O
+engenharia B-SETOR
+biomedica I-SETOR
+com O
+125 B-QTD_FUNCIONARIOS
+ate O
+1309 B-QTD_FUNCIONARIOS
+prestadores O
+
+consultoria O
+grande B-PORTE
+com O
+680 B-QTD_FUNCIONARIOS
+colaboradores O
+de O
+servicos B-SETOR
+tecnicos I-SETOR
+
+startup O
+com O
+1301 B-QTD_FUNCIONARIOS
+servidores O
+de O
+capacidade O
+medio B-PORTE
+economia B-SETOR
+criativa I-SETOR
+parana B-LOCALIZACAO
+
+cooperativa O
+com O
+2631 B-QTD_FUNCIONARIOS
+ate O
+3876 B-QTD_FUNCIONARIOS
+de O
+quadro O
+pessoas O
+envergadura O
+grande B-PORTE
+em O
+mato B-LOCALIZACAO
+grosso I-LOCALIZACAO
+no O
+segmento O
+educacao B-SETOR
+corporativa I-SETOR
+
+estabelecimento O
+com O
+6649 B-QTD_FUNCIONARIOS
+servidores O
+em O
+ceara B-LOCALIZACAO
+
+firma O
+com O
+3597 B-QTD_FUNCIONARIOS
+ate O
+5576 B-QTD_FUNCIONARIOS
+de O
+staff O
+
+associação O
+com O
+7943 B-QTD_FUNCIONARIOS
+colaboradores O
+pequeno B-PORTE
+
+negócio O
+com O
+1331 B-QTD_FUNCIONARIOS
+ate O
+6432 B-QTD_FUNCIONARIOS
+empregados O
+mato B-LOCALIZACAO
+grosso I-LOCALIZACAO
+de O
+composição O
+micro B-PORTE
+na O
+área O
+seguranca B-SETOR
+publica I-SETOR
+
+cooperativa O
+com O
+4273 B-QTD_FUNCIONARIOS
+operários O
+na O
+linha O
+de O
+negócio O
+educacao B-SETOR
+corporativa I-SETOR
+
+cooperativa O
+com O
+3270 B-QTD_FUNCIONARIOS
+ate O
+4553 B-QTD_FUNCIONARIOS
+pessoas O
+de O
+industria B-SETOR
+aeroespacial I-SETOR
+
+entidade O
+no O
+setor O
+meteorologia B-SETOR
+de O
+capacidade O
+medio B-PORTE
+com O
+8150 B-QTD_FUNCIONARIOS
+quadro O
+pessoas O
+
+consultoria O
+com O
+6062 B-QTD_FUNCIONARIOS
+funcionarios O
+de O
+potência O
+micro B-PORTE
+em O
+tocantins B-LOCALIZACAO
+
+consultoria O
+com O
+4442 B-QTD_FUNCIONARIOS
+ate O
+8093 B-QTD_FUNCIONARIOS
+de O
+corpo O
+funcional O
+na O
+divisão O
+streaming B-SETOR
+
+entidade O
+de O
+startups B-SETOR
+com O
+1173 B-QTD_FUNCIONARIOS
+ate O
+9465 B-QTD_FUNCIONARIOS
+quadro O
+pessoas O
+em O
+rio B-LOCALIZACAO
+grande I-LOCALIZACAO
+do I-LOCALIZACAO
+norte I-LOCALIZACAO
+
+empresa O
+com O
+515 B-QTD_FUNCIONARIOS
+ate O
+4876 B-QTD_FUNCIONARIOS
+assistentes O
+
+negócio O
+com O
+1398 B-QTD_FUNCIONARIOS
+ate O
+2484 B-QTD_FUNCIONARIOS
+de O
+corpo O
+funcional O
+
+conglomerado O
+de O
+tipo O
+pequeno B-PORTE
+em O
+sao B-LOCALIZACAO
+paulo I-LOCALIZACAO
+com O
+8132 B-QTD_FUNCIONARIOS
+membros O
+da O
+equipe O
+
+sociedade O
+com O
+1014 B-QTD_FUNCIONARIOS
+ate O
+3984 B-QTD_FUNCIONARIOS
+integrantes O
+em O
+roraima B-LOCALIZACAO
+micro B-PORTE
+na O
+verticalidade O
+mineracao B-SETOR
+
+emprendimento O
+com O
+3011 B-QTD_FUNCIONARIOS
+de O
+mão O
+obra O
+rio B-LOCALIZACAO
+grande I-LOCALIZACAO
+do I-LOCALIZACAO
+norte I-LOCALIZACAO
+
+firma O
+de O
+midia B-SETOR
+piaui B-LOCALIZACAO
+estatura O
+grande B-PORTE
+com O
+2966 B-QTD_FUNCIONARIOS
+quadro O
+pessoas O
+
+companhia O
+amapa B-LOCALIZACAO
+com O
+3601 B-QTD_FUNCIONARIOS
+ate O
+7648 B-QTD_FUNCIONARIOS
+auxiliares O
+de O
+saude B-SETOR
+
+grupo O
+empresarial O
+com O
+2249 B-QTD_FUNCIONARIOS
+ate O
+8137 B-QTD_FUNCIONARIOS
+de O
+mão O
+obra O
+em O
+sergipe B-LOCALIZACAO
+
+instituição O
+de O
+estatura O
+pequeno B-PORTE
+em O
+espirito B-LOCALIZACAO
+santo I-LOCALIZACAO
+com O
+7750 B-QTD_FUNCIONARIOS
+pessoas O
+
+holding O
+de O
+industria B-SETOR
+automotiva I-SETOR
+acre B-LOCALIZACAO
+com O
+2014 B-QTD_FUNCIONARIOS
+empregados O
+
+empresa O
+com O
+1126 B-QTD_FUNCIONARIOS
+ate O
+9830 B-QTD_FUNCIONARIOS
+profissionais O
+em O
+rio B-LOCALIZACAO
+grande I-LOCALIZACAO
+do I-LOCALIZACAO
+norte I-LOCALIZACAO
+
+agência O
+no O
+segmento O
+gastronomia B-SETOR
+com O
+2697 B-QTD_FUNCIONARIOS
+ate O
+7682 B-QTD_FUNCIONARIOS
+de O
+mão O
+obra O
+estrutura O
+pequeno B-PORTE
+
+corporação O
+com O
+6279 B-QTD_FUNCIONARIOS
+de O
+corpo O
+funcional O
+servicos B-SETOR
+tecnicos I-SETOR
+
+emprendimento O
+de I-SETOR
+estatura O
+medio B-PORTE
+em O
+amapa B-LOCALIZACAO
+com O
+2679 B-QTD_FUNCIONARIOS
+servidores O
+desenvolvimento B-SETOR
+software I-SETOR
+
+corporação O
+em O
+amazonas B-LOCALIZACAO
+pequeno B-PORTE
+com O
+6278 B-QTD_FUNCIONARIOS
+auxiliares O
+
+consultoria O
+de O
+composição O
+micro B-PORTE
+em O
+ceara B-LOCALIZACAO
+com O
+70 B-QTD_FUNCIONARIOS
+ate O
+9452 B-QTD_FUNCIONARIOS
+quadro O
+pessoas O
+
+emprendimento O
+no O
+departamento O
+esportes B-SETOR
+pequeno B-PORTE
+com O
+801 B-QTD_FUNCIONARIOS
+ate O
+3566 B-QTD_FUNCIONARIOS
+de O
+corpo O
+funcional O
+
+grupo O
+empresarial O
+parana B-LOCALIZACAO
+com O
+8504 B-QTD_FUNCIONARIOS
+funcionarios O
+
+indústria O
+grande B-PORTE
+com O
+6342 B-QTD_FUNCIONARIOS
+pessoas O
+na O
+seção O
+pecuaria B-SETOR
+
+firma O
+no O
+campo O
+silvicultura B-SETOR
+grande B-PORTE
+com O
+9549 B-QTD_FUNCIONARIOS
+profissionais O
+
+agência O
+com O
+4402 B-QTD_FUNCIONARIOS
+ate O
+8228 B-QTD_FUNCIONARIOS
+servidores O
+no O
+pólo O
+desenvolvimento B-SETOR
+de I-SETOR
+software I-SETOR
+
+cooperativa O
+com O
+1013 B-QTD_FUNCIONARIOS
+de O
+quadro O
+pessoas O
+importância O
+micro B-PORTE
+piaui B-LOCALIZACAO
+
+firma O
+com O
+722 B-QTD_FUNCIONARIOS
+ate O
+8204 B-QTD_FUNCIONARIOS
+assistentes O
+de O
+transporte B-SETOR
+maritimo I-SETOR
+grande B-PORTE
+
+instituição O
+com O
+943 B-QTD_FUNCIONARIOS
+operários O
+
+emprendimento O
+parana B-LOCALIZACAO
+grande B-PORTE
+com O
+830 B-QTD_FUNCIONARIOS
+ate O
+8233 B-QTD_FUNCIONARIOS
+integrantes O
+
+estabelecimento O
+em O
+roraima B-LOCALIZACAO
+pequeno B-PORTE
+com O
+1725 B-QTD_FUNCIONARIOS
+ate O
+9851 B-QTD_FUNCIONARIOS
+trabalhadores O
+na O
+zona O
+bombeiros B-SETOR
+
+negócio O
+com O
+3787 B-QTD_FUNCIONARIOS
+pessoas O
+
+cooperativa O
+com O
+5227 B-QTD_FUNCIONARIOS
+de O
+staff O
+pequeno B-PORTE
+piaui B-LOCALIZACAO
+
+empresa O
+de I-SETOR
+industria B-SETOR
+alimentos I-SETOR
+em O
+amapa B-LOCALIZACAO
+com O
+3395 B-QTD_FUNCIONARIOS
+ate O
+9179 B-QTD_FUNCIONARIOS
+empregados O
+
+associação O
+pequeno B-PORTE
+com O
+8075 B-QTD_FUNCIONARIOS
+servidores O
+
+organização O
+micro B-PORTE
+com O
+6022 B-QTD_FUNCIONARIOS
+pessoas O
+
+entidade O
+com O
+6596 B-QTD_FUNCIONARIOS
+de O
+mão O
+obra O
+
+firma O
+em O
+sergipe B-LOCALIZACAO
+de O
+estatura O
+pequeno B-PORTE
+com O
+2157 B-QTD_FUNCIONARIOS
+ate O
+5689 B-QTD_FUNCIONARIOS
+quadro O
+pessoas O
+
+cooperativa O
+com O
+385 B-QTD_FUNCIONARIOS
+ate O
+774 B-QTD_FUNCIONARIOS
+colaboradores O
+em O
+rio B-LOCALIZACAO
+grande I-LOCALIZACAO
+do I-LOCALIZACAO
+sul I-LOCALIZACAO
+
+indústria O
+com O
+5988 B-QTD_FUNCIONARIOS
+de O
+staff O
+nuclear B-SETOR
+
+emprendimento O
+de O
+capacidade O
+micro B-PORTE
+com O
+4747 B-QTD_FUNCIONARIOS
+ate O
+6750 B-QTD_FUNCIONARIOS
+empregados O
+
+corporação O
+com O
+1461 B-QTD_FUNCIONARIOS
+auxiliares O
+em O
+roraima B-LOCALIZACAO
+
+emprendimento O
+em O
+goias B-LOCALIZACAO
+de O
+tecnologia B-SETOR
+assistiva I-SETOR
+com O
+473 B-QTD_FUNCIONARIOS
+ate O
+5209 B-QTD_FUNCIONARIOS
+staff O
+
+instituição O
+com O
+710 B-QTD_FUNCIONARIOS
+ate O
+5314 B-QTD_FUNCIONARIOS
+auxiliares O
+na O
+área O
+atacado B-SETOR
+medio B-PORTE
+
+emprendimento O
+com O
+2576 B-QTD_FUNCIONARIOS
+ate O
+4475 B-QTD_FUNCIONARIOS
+membros O
+da O
+equipe O
+micro B-PORTE
+em O
+paraiba B-LOCALIZACAO
+
+associação O
+com O
+4497 B-QTD_FUNCIONARIOS
+ate O
+5920 B-QTD_FUNCIONARIOS
+de O
+corpo O
+funcional O
+
+entidade O
+de O
+capacidade O
+medio B-PORTE
+com O
+3883 B-QTD_FUNCIONARIOS
+funcionarios O
+
+negócio O
+com O
+2473 B-QTD_FUNCIONARIOS
+ate O
+5619 B-QTD_FUNCIONARIOS
+de O
+corpo O
+funcional O
+composição O
+grande B-PORTE
+
+grupo O
+empresarial O
+com O
+3315 B-QTD_FUNCIONARIOS
+prestadores O
+espirito B-LOCALIZACAO
+santo I-LOCALIZACAO
+
+associação O
+com O
+9020 B-QTD_FUNCIONARIOS
+de O
+corpo O
+funcional O
+em O
+rondonia B-LOCALIZACAO
+na O
+verticalidade O
+pecuaria B-SETOR
+envergadura O
+grande B-PORTE
+
+estabelecimento O
+com O
+4154 B-QTD_FUNCIONARIOS
+ate O
+7917 B-QTD_FUNCIONARIOS
+de O
+corpo O
+funcional O
+na O
+linha O
+negócio O
+industria B-SETOR
+naval I-SETOR
+
+sociedade O
+em O
+goias B-LOCALIZACAO
+de O
+ecologia B-SETOR
+com O
+4469 B-QTD_FUNCIONARIOS
+ate O
+6309 B-QTD_FUNCIONARIOS
+integrantes O
+
+holding O
+medio B-PORTE
+com O
+7213 B-QTD_FUNCIONARIOS
+operários O
+na O
+zona O
+telecomunicacoes B-SETOR
+
+corporação O
+na O
+categoria O
+inteligencia B-SETOR
+artificial I-SETOR
+com O
+3273 B-QTD_FUNCIONARIOS
+ate O
+9627 B-QTD_FUNCIONARIOS
+funcionarios O
+pequeno B-PORTE
+em O
+sergipe B-LOCALIZACAO
+
+cooperativa O
+em O
+bahia B-LOCALIZACAO
+com O
+2193 B-QTD_FUNCIONARIOS
+funcionarios O
+
+grupo O
+empresarial O
+pequeno B-PORTE
+com O
+224 B-QTD_FUNCIONARIOS
+trabalhadores O
+
+instituição O
+com O
+9151 B-QTD_FUNCIONARIOS
+de O
+corpo O
+funcional O
+paraiba B-LOCALIZACAO
+no O
+pólo O
+corretoras B-SETOR
+
+instituição O
+com O
+5902 B-QTD_FUNCIONARIOS
+membros O
+da O
+equipe O
+micro B-PORTE
+de O
+geociencias B-SETOR
+
+firma O
+com O
+800 B-QTD_FUNCIONARIOS
+ate O
+3753 B-QTD_FUNCIONARIOS
+funcionarios O
+
+organização O
+com O
+1612 B-QTD_FUNCIONARIOS
+auxiliares O
+em O
+rondonia B-LOCALIZACAO
+
+negócio O
+com O
+6176 B-QTD_FUNCIONARIOS
+servidores O
+pequeno B-PORTE
+sao B-LOCALIZACAO
+paulo I-LOCALIZACAO
+
+organização O
+de O
+volume O
+grande B-PORTE
+industria B-SETOR
+quimica I-SETOR
+com O
+1894 B-QTD_FUNCIONARIOS
+ate O
+4692 B-QTD_FUNCIONARIOS
+pessoas O
+
+empresa O
+de O
+potência O
+grande B-PORTE
+com O
+2167 B-QTD_FUNCIONARIOS
+prestadores O
+tocantins B-LOCALIZACAO
+
+sociedade O
+com O
+2234 B-QTD_FUNCIONARIOS
+de O
+staff O
+em O
+acre B-LOCALIZACAO
+
+agência O
+micro B-PORTE
+com O
+7235 B-QTD_FUNCIONARIOS
+trabalhadores O
+de I-LOCALIZACAO
+tecnologia B-SETOR
+da I-SETOR
+informacao I-SETOR
+em O
+rio B-LOCALIZACAO
+janeiro I-LOCALIZACAO
+
+grupo O
+empresarial O
+com O
+4766 B-QTD_FUNCIONARIOS
+ate O
+6823 B-QTD_FUNCIONARIOS
+membros O
+da O
+equipe O
+
+empresa O
+com O
+2612 B-QTD_FUNCIONARIOS
+integrantes O
+
+cooperativa O
+paraiba B-LOCALIZACAO
+com O
+3605 B-QTD_FUNCIONARIOS
+ate O
+8767 B-QTD_FUNCIONARIOS
+pessoas O
+grande B-PORTE
+
+entidade O
+em O
+santa B-LOCALIZACAO
+catarina I-LOCALIZACAO
+com O
+1332 B-QTD_FUNCIONARIOS
+ate O
+3138 B-QTD_FUNCIONARIOS
+de O
+quadro O
+pessoas O
+
+instituição O
+de O
+streaming B-SETOR
+com O
+1517 B-QTD_FUNCIONARIOS
+ate O
+9826 B-QTD_FUNCIONARIOS
+empregados O
+
+entidade O
+com O
+3279 B-QTD_FUNCIONARIOS
+ate O
+9709 B-QTD_FUNCIONARIOS
+de O
+quadro O
+pessoas O
+
+negócio O
+parana B-LOCALIZACAO
+com O
+6592 B-QTD_FUNCIONARIOS
+auxiliares O
+
+instituição O
+grande B-PORTE
+com O
+4682 B-QTD_FUNCIONARIOS
+ate O
+6112 B-QTD_FUNCIONARIOS
+de O
+staff O
+
+corporação O
+grande B-PORTE
+com O
+5974 B-QTD_FUNCIONARIOS
+de O
+quadro O
+pessoas O
+
+firma O
+no O
+departamento O
+reciclagem B-SETOR
+com O
+1334 B-QTD_FUNCIONARIOS
+ate O
+9826 B-QTD_FUNCIONARIOS
+de O
+corpo O
+funcional O
+
+associação O
+na O
+linha O
+de O
+negócio O
+atacado B-SETOR
+com O
+763 B-QTD_FUNCIONARIOS
+ate O
+8794 B-QTD_FUNCIONARIOS
+empregados O
+proporção O
+medio B-PORTE
+tocantins B-LOCALIZACAO
+
+emprendimento O
+medio B-PORTE
+com O
+3195 B-QTD_FUNCIONARIOS
+ate O
+8329 B-QTD_FUNCIONARIOS
+assistentes O
+
+entidade O
+em O
+sergipe B-LOCALIZACAO
+com O
+4515 B-QTD_FUNCIONARIOS
+ate O
+9648 B-QTD_FUNCIONARIOS
+trabalhadores O
+
+firma O
+com O
+860 B-QTD_FUNCIONARIOS
+ate O
+9099 B-QTD_FUNCIONARIOS
+trabalhadores O
+grande B-PORTE
+
+cooperativa O
+na O
+esfera O
+tecnologia B-SETOR
+assistiva I-SETOR
+em O
+rio B-LOCALIZACAO
+de I-LOCALIZACAO
+janeiro I-LOCALIZACAO
+com O
+8416 B-QTD_FUNCIONARIOS
+assistentes O
+pequeno B-PORTE
+
+emprendimento O
+de O
+potência O
+micro B-PORTE
+na O
+esfera O
+consultoria B-SETOR
+com O
+8107 B-QTD_FUNCIONARIOS
+prestadores O
+pernambuco B-LOCALIZACAO
+
+sociedade O
+com O
+910 B-QTD_FUNCIONARIOS
+ate O
+1956 B-QTD_FUNCIONARIOS
+funcionarios O
+mato B-LOCALIZACAO
+grosso I-LOCALIZACAO
+do I-LOCALIZACAO
+sul I-LOCALIZACAO
+pequeno B-PORTE
+
+associação O
+de I-LOCALIZACAO
+industria B-SETOR
+farmaceutica I-SETOR
+com O
+1755 B-QTD_FUNCIONARIOS
+ate O
+4213 B-QTD_FUNCIONARIOS
+assistentes O
+rio B-LOCALIZACAO
+janeiro I-LOCALIZACAO
+
+emprendimento O
+no O
+departamento O
+streaming B-SETOR
+com O
+4284 B-QTD_FUNCIONARIOS
+ate O
+6398 B-QTD_FUNCIONARIOS
+pessoas O
+
+instituição O
+com O
+8694 B-QTD_FUNCIONARIOS
+trabalhadores O
+
+associação O
+de O
+volume O
+medio B-PORTE
+com O
+5646 B-QTD_FUNCIONARIOS
+trabalhadores O
+
+holding O
+com O
+3628 B-QTD_FUNCIONARIOS
+operários O
+rio B-LOCALIZACAO
+grande I-LOCALIZACAO
+do I-LOCALIZACAO
+sul I-LOCALIZACAO
+de O
+proporção O
+
+negócio O
+de O
+reciclagem B-SETOR
+com O
+2909 B-QTD_FUNCIONARIOS
+ate O
+4024 B-QTD_FUNCIONARIOS
+profissionais O
+
+companhia O
+medio B-PORTE
+com O
+1422 B-QTD_FUNCIONARIOS
+ate O
+4703 B-QTD_FUNCIONARIOS
+pessoas O
+na O
+esfera O
+engenharia B-SETOR
+biomedica I-SETOR
+sergipe B-LOCALIZACAO
+
+companhia O
+com O
+1976 B-QTD_FUNCIONARIOS
+ate O
+9214 B-QTD_FUNCIONARIOS
+de O
+mão O
+obra O
+na O
+esfera O
+engenharia B-SETOR
+biomedica I-SETOR
+
+associação O
+com O
+4702 B-QTD_FUNCIONARIOS
+ate O
+7593 B-QTD_FUNCIONARIOS
+integrantes O
+
+organização O
+com O
+1522 B-QTD_FUNCIONARIOS
+colaboradores O
+em O
+parana B-LOCALIZACAO
+
+entidade O
+com O
+5532 B-QTD_FUNCIONARIOS
+de O
+corpo O
+funcional O
+no O
+ramo O
+treinamento B-SETOR
+profissional I-SETOR
+em O
+mato B-LOCALIZACAO
+grosso I-LOCALIZACAO
+pequeno B-PORTE
+
+consultoria O
+em O
+maranhao B-LOCALIZACAO
+micro B-PORTE
+com O
+1754 B-QTD_FUNCIONARIOS
+prestadores O
+
+cooperativa O
+de O
+enfermagem B-SETOR
+com O
+9519 B-QTD_FUNCIONARIOS
+corpo O
+funcional O
+micro B-PORTE
+rio B-LOCALIZACAO
+grande I-LOCALIZACAO
+do I-LOCALIZACAO
+norte I-LOCALIZACAO
+
+organização O
+com O
+1765 B-QTD_FUNCIONARIOS
+ate O
+9866 B-QTD_FUNCIONARIOS
+de O
+quadro O
+pessoas O
+
+entidade O
+grande B-PORTE
+em O
+parana B-LOCALIZACAO
+com O
+4186 B-QTD_FUNCIONARIOS
+de O
+mão O
+obra O
+
+cooperativa O
+na O
+unidade O
+nanotecnologia B-SETOR
+com O
+9623 B-QTD_FUNCIONARIOS
+de I-LOCALIZACAO
+quadro O
+pessoas O
+grande B-PORTE
+em O
+rio B-LOCALIZACAO
+janeiro I-LOCALIZACAO
+
+consultoria B-SETOR
+de O
+tamanho O
+grande B-PORTE
+paraiba B-LOCALIZACAO
+com O
+7130 B-QTD_FUNCIONARIOS
+quadro O
+pessoas O
+
+estabelecimento O
+com O
+4471 B-QTD_FUNCIONARIOS
+colaboradores O
+de O
+musica B-SETOR
+
+emprendimento O
+grande B-PORTE
+com O
+3608 B-QTD_FUNCIONARIOS
+ate O
+5820 B-QTD_FUNCIONARIOS
+membros O
+da O
+equipe O
+
+estabelecimento O
+pequeno B-PORTE
+com O
+2148 B-QTD_FUNCIONARIOS
+ate O
+5086 B-QTD_FUNCIONARIOS
+assistentes O
+
+conglomerado O
+ceara B-LOCALIZACAO
+no O
+departamento O
+pesca B-SETOR
+com O
+1800 B-QTD_FUNCIONARIOS
+profissionais O
+
+negócio O
+na O
+divisão O
+jornalismo B-SETOR
+de O
+potência O
+micro B-PORTE
+com O
+4926 B-QTD_FUNCIONARIOS
+ate O
+7004 B-QTD_FUNCIONARIOS
+quadro O
+pessoas O
+em O
+maranhao B-LOCALIZACAO
+
+indústria O
+com O
+2481 B-QTD_FUNCIONARIOS
+auxiliares O
+de I-LOCALIZACAO
+tipo O
+grande B-PORTE
+em O
+rio B-LOCALIZACAO
+janeiro I-LOCALIZACAO
+criptomoedas B-SETOR
+
+holding O
+com O
+4895 B-QTD_FUNCIONARIOS
+ate O
+8604 B-QTD_FUNCIONARIOS
+de O
+quadro O
+pessoas O
+meio B-SETOR
+ambiente I-SETOR
+
+organização O
+com O
+4703 B-QTD_FUNCIONARIOS
+ate O
+8428 B-QTD_FUNCIONARIOS
+integrantes O
+micro B-PORTE
+na O
+esfera O
+gastronomia B-SETOR
+em O
+santa B-LOCALIZACAO
+catarina I-LOCALIZACAO
+
+agência O
+com O
+314 B-QTD_FUNCIONARIOS
+ate O
+8165 B-QTD_FUNCIONARIOS
+de O
+quadro O
+pessoas O
+escala O
+pequeno B-PORTE
+energia B-SETOR
+
+emprendimento O
+com O
+1817 B-QTD_FUNCIONARIOS
+membros O
+da O
+equipe O
+
+holding O
+com O
+1879 B-QTD_FUNCIONARIOS
+ate O
+3249 B-QTD_FUNCIONARIOS
+prestadores O
+de O
+porte O
+medio B-PORTE
+em O
+rondonia B-LOCALIZACAO
+
+companhia O
+com O
+2744 B-QTD_FUNCIONARIOS
+colaboradores O
+
+associação O
+com O
+4864 B-QTD_FUNCIONARIOS
+de O
+corpo O
+funcional O
+micro B-PORTE
+
+companhia O
+com O
+2724 B-QTD_FUNCIONARIOS
+integrantes O
+em O
+tocantins B-LOCALIZACAO
+no O
+ramo O
+educacao B-SETOR
+infantil I-SETOR
+
+associação O
+em O
+pernambuco B-LOCALIZACAO
+no O
+ramo O
+inteligencia B-SETOR
+artificial I-SETOR
+com O
+1824 B-QTD_FUNCIONARIOS
+ate O
+5274 B-QTD_FUNCIONARIOS
+pessoas O
+grande B-PORTE
+
+corporação O
+de O
+potência O
+pequeno B-PORTE
+com O
+7313 B-QTD_FUNCIONARIOS
+auxiliares O
+
+consultoria O
+com O
+2988 B-QTD_FUNCIONARIOS
+ate O
+5540 B-QTD_FUNCIONARIOS
+auxiliares O
+medio B-PORTE
+
+negócio O
+com O
+5234 B-QTD_FUNCIONARIOS
+de O
+staff O
+no O
+segmento O
+economia B-SETOR
+circular I-SETOR
+piaui B-LOCALIZACAO
+
+companhia O
+em O
+maranhao B-LOCALIZACAO
+medio B-PORTE
+com O
+3105 B-QTD_FUNCIONARIOS
+ate O
+3234 B-QTD_FUNCIONARIOS
+membros O
+da O
+equipe O
+no O
+segmento O
+servicos B-SETOR
+tecnicos I-SETOR
+
+grupo O
+empresarial O
+com O
+2375 B-QTD_FUNCIONARIOS
+ate O
+4884 B-QTD_FUNCIONARIOS
+integrantes O
+na O
+área O
+meteorologia B-SETOR
+
+estabelecimento O
+de O
+defesa B-SETOR
+nacional I-SETOR
+com O
+4213 B-QTD_FUNCIONARIOS
+ate O
+4356 B-QTD_FUNCIONARIOS
+auxiliares O
+
+companhia O
+de O
+tipo O
+grande I-LOCALIZACAO
+rio B-LOCALIZACAO
+do I-LOCALIZACAO
+sul I-LOCALIZACAO
+com O
+96 B-QTD_FUNCIONARIOS
+ate O
+4522 B-QTD_FUNCIONARIOS
+profissionais O
+
+cooperativa O
+com O
+856 B-QTD_FUNCIONARIOS
+ate O
+4448 B-QTD_FUNCIONARIOS
+de O
+staff O
+alagoas B-LOCALIZACAO
+
+instituição O
+roraima B-LOCALIZACAO
+de O
+envergadura O
+pequeno B-PORTE
+na O
+verticalidade O
+transporte B-SETOR
+rodoviario I-SETOR
+com O
+601 B-QTD_FUNCIONARIOS
+ate O
+8869 B-QTD_FUNCIONARIOS
+corpo O
+funcional O
+
+firma O
+com O
+3097 B-QTD_FUNCIONARIOS
+ate O
+3324 B-QTD_FUNCIONARIOS
+membros O
+da O
+equipe O
+no O
+segmento O
+oceanografia B-SETOR
+
+negócio O
+com O
+1728 B-QTD_FUNCIONARIOS
+integrantes O
+medio B-PORTE
+
+corporação O
+com O
+2310 B-QTD_FUNCIONARIOS
+ate O
+3298 B-QTD_FUNCIONARIOS
+integrantes O
+espirito B-LOCALIZACAO
+santo I-LOCALIZACAO
+
+entidade O
+com O
+3356 B-QTD_FUNCIONARIOS
+ate O
+8884 B-QTD_FUNCIONARIOS
+colaboradores O
+pequeno B-PORTE
+no O
+pólo O
+contabilidade B-SETOR
+
+estabelecimento O
+de O
+composição O
+medio B-PORTE
+com O
+3518 B-QTD_FUNCIONARIOS
+ate O
+9104 B-QTD_FUNCIONARIOS
+empregados O
+
+holding O
+com O
+3583 B-QTD_FUNCIONARIOS
+ate O
+7732 B-QTD_FUNCIONARIOS
+membros O
+da O
+equipe O
+
+entidade O
+com O
+2676 B-QTD_FUNCIONARIOS
+ate O
+5694 B-QTD_FUNCIONARIOS
+colaboradores O
+em O
+paraiba B-LOCALIZACAO
+de O
+nuclear B-SETOR
+
+companhia O
+na O
+unidade O
+desenvolvimento B-SETOR
+de I-SETOR
+software I-SETOR
+com O
+43 B-QTD_FUNCIONARIOS
+ate O
+9716 B-QTD_FUNCIONARIOS
+trabalhadores O
+
+conglomerado O
+de O
+porte O
+grande B-PORTE
+paraiba B-LOCALIZACAO
+com O
+1189 B-QTD_FUNCIONARIOS
+ate O
+3187 B-QTD_FUNCIONARIOS
+operários O
+
+firma O
+com O
+8291 B-QTD_FUNCIONARIOS
+profissionais O
+em O
+roraima B-LOCALIZACAO
+no O
+ramo O
+odontologia B-SETOR
+
+corporação O
+com O
+2821 B-QTD_FUNCIONARIOS
+ate O
+8994 B-QTD_FUNCIONARIOS
+trabalhadores O
+na O
+linha O
+de O
+negócio O
+educacao B-SETOR
+micro B-PORTE
+
+sociedade O
+em O
+piaui B-LOCALIZACAO
+de O
+categoria O
+grande B-PORTE
+com O
+2769 B-QTD_FUNCIONARIOS
+ate O
+5848 B-QTD_FUNCIONARIOS
+operários O
+
+corporação O
+na O
+seção O
+gastronomia B-SETOR
+com O
+3823 B-QTD_FUNCIONARIOS
+assistentes O
+de O
+estatura O
+pequeno B-PORTE
+
+associação O
+mato B-LOCALIZACAO
+grosso I-LOCALIZACAO
+do I-LOCALIZACAO
+sul I-LOCALIZACAO
+de O
+mineracao B-SETOR
+com O
+1361 B-QTD_FUNCIONARIOS
+ate O
+3138 B-QTD_FUNCIONARIOS
+empregados O
+perfil O
+micro B-PORTE
+
+grupo O
+empresarial O
+com O
+4876 B-QTD_FUNCIONARIOS
+ate O
+5300 B-QTD_FUNCIONARIOS
+colaboradores O
+
+holding O
+com O
+4244 B-QTD_FUNCIONARIOS
+pessoas O
+
+cooperativa O
+com O
+4799 B-QTD_FUNCIONARIOS
+ate O
+5632 B-QTD_FUNCIONARIOS
+de O
+staff O
+pequeno B-PORTE
+
+negócio O
+com O
+4172 B-QTD_FUNCIONARIOS
+ate O
+8359 B-QTD_FUNCIONARIOS
+operários O
+de O
+ensino B-SETOR
+fundamental I-SETOR
+
+instituição O
+sergipe B-LOCALIZACAO
+com O
+2694 B-QTD_FUNCIONARIOS
+empregados O
+na O
+esfera O
+transporte B-SETOR
+aereo I-SETOR
+
+conglomerado O
+com O
+4196 B-QTD_FUNCIONARIOS
+prestadores O
+em O
+roraima B-LOCALIZACAO
+na O
+zona O
+tecnologia B-SETOR
+da I-SETOR
+informacao I-SETOR
+
+cooperativa O
+de O
+pesquisa B-SETOR
+cientifica I-SETOR
+com O
+4489 B-QTD_FUNCIONARIOS
+funcionarios O
+volume O
+pequeno B-PORTE
+
+estabelecimento O
+com O
+3888 B-QTD_FUNCIONARIOS
+pessoas O
+amapa B-LOCALIZACAO
+grande B-PORTE
+
+associação O
+em O
+goias B-LOCALIZACAO
+com O
+587 B-QTD_FUNCIONARIOS
+ate O
+2103 B-QTD_FUNCIONARIOS
+assistentes O
+grande B-PORTE
+
+organização O
+com O
+6877 B-QTD_FUNCIONARIOS
+de O
+staff O
+bahia B-LOCALIZACAO
+teatro B-SETOR
+potência O
+micro B-PORTE
+
+conglomerado O
+micro B-PORTE
+na O
+unidade O
+transporte B-SETOR
+maritimo I-SETOR
+com O
+602 B-QTD_FUNCIONARIOS
+ate O
+8889 B-QTD_FUNCIONARIOS
+membros O
+da O
+equipe O
+
+grupo O
+empresarial O
+de O
+proporção O
+pequeno B-PORTE
+na O
+categoria O
+arquitetura B-SETOR
+com O
+6903 B-QTD_FUNCIONARIOS
+profissionais O
+
+entidade O
+mato B-LOCALIZACAO
+grosso I-LOCALIZACAO
+do I-LOCALIZACAO
+sul I-LOCALIZACAO
+com O
+3426 B-QTD_FUNCIONARIOS
+auxiliares O
+pequeno B-PORTE
+
+negócio O
+com O
+4648 B-QTD_FUNCIONARIOS
+ate O
+4968 B-QTD_FUNCIONARIOS
+assistentes O
+
+startup O
+de O
+envergadura O
+medio B-PORTE
+com O
+2608 B-QTD_FUNCIONARIOS
+ate O
+7909 B-QTD_FUNCIONARIOS
+quadro O
+pessoas O
+
+sociedade O
+com O
+4338 B-QTD_FUNCIONARIOS
+prestadores O
+roraima B-LOCALIZACAO
+pequeno B-PORTE
+
+grupo O
+empresarial O
+com O
+7579 B-QTD_FUNCIONARIOS
+de O
+mão O
+obra O
+
+instituição O
+com O
+803 B-QTD_FUNCIONARIOS
+ate O
+9430 B-QTD_FUNCIONARIOS
+prestadores O
+ceara B-LOCALIZACAO
+
+organização O
+com O
+2485 B-QTD_FUNCIONARIOS
+ate O
+4642 B-QTD_FUNCIONARIOS
+auxiliares O
+em O
+para B-LOCALIZACAO
+
+estabelecimento O
+com O
+3372 B-QTD_FUNCIONARIOS
+de I-LOCALIZACAO
+staff O
+gastronomia B-SETOR
+rio B-LOCALIZACAO
+janeiro I-LOCALIZACAO
+
+sociedade O
+medio B-PORTE
+com O
+3372 B-QTD_FUNCIONARIOS
+trabalhadores O
+
+indústria O
+com O
+3792 B-QTD_FUNCIONARIOS
+pessoas O
+
+grupo O
+empresarial O
+acre B-LOCALIZACAO
+na O
+esfera O
+pesca B-SETOR
+com O
+4630 B-QTD_FUNCIONARIOS
+ate O
+9210 B-QTD_FUNCIONARIOS
+de O
+staff O
+
+holding O
+distrito B-LOCALIZACAO
+federal I-LOCALIZACAO
+com O
+4014 B-QTD_FUNCIONARIOS
+ate O
+9120 B-QTD_FUNCIONARIOS
+assistentes O
+micro B-PORTE
+
+entidade O
+medio B-PORTE
+de O
+logistica B-SETOR
+com O
+4970 B-QTD_FUNCIONARIOS
+ate O
+6359 B-QTD_FUNCIONARIOS
+profissionais O
+
+corporação O
+no O
+segmento O
+silvicultura B-SETOR
+com O
+3162 B-QTD_FUNCIONARIOS
+ate O
+3362 B-QTD_FUNCIONARIOS
+auxiliares O
+amazonas B-LOCALIZACAO
+
+organização O
+com O
+618 B-QTD_FUNCIONARIOS
+assistentes O
+no O
+departamento O
+seguranca B-SETOR
+publica I-SETOR
+
+entidade O
+em O
+para B-LOCALIZACAO
+na O
+seção O
+construcao B-SETOR
+civil I-SETOR
+com O
+3469 B-QTD_FUNCIONARIOS
+ate O
+8488 B-QTD_FUNCIONARIOS
+integrantes O
+grande B-PORTE
+
+grupo O
+empresarial O
+roraima B-LOCALIZACAO
+na O
+linha O
+de O
+negócio O
+varejo B-SETOR
+com O
+3777 B-QTD_FUNCIONARIOS
+ate O
+6950 B-QTD_FUNCIONARIOS
+pessoas O
+
+emprendimento O
+com O
+1126 B-QTD_FUNCIONARIOS
+ate O
+8754 B-QTD_FUNCIONARIOS
+de O
+staff O
+organizacoes B-SETOR
+nao I-SETOR
+governamentais I-SETOR
+paraiba B-LOCALIZACAO
+
+negócio O
+no O
+segmento O
+energia B-SETOR
+solar I-SETOR
+com O
+7175 B-QTD_FUNCIONARIOS
+empregados O
+em O
+amapa B-LOCALIZACAO
+de O
+volume O
+medio B-PORTE
+
+conglomerado O
+com O
+3519 B-QTD_FUNCIONARIOS
+ate O
+9462 B-QTD_FUNCIONARIOS
+pessoas O
+de O
+meio B-SETOR
+ambiente I-SETOR
+volume O
+grande B-PORTE
+em O
+pernambuco B-LOCALIZACAO
+
+consultoria O
+micro B-PORTE
+com O
+3814 B-QTD_FUNCIONARIOS
+de I-LOCALIZACAO
+staff O
+rio B-LOCALIZACAO
+janeiro I-LOCALIZACAO
+
+corporação O
+no O
+setor O
+esportes B-SETOR
+com O
+4963 B-QTD_FUNCIONARIOS
+ate O
+9828 B-QTD_FUNCIONARIOS
+pessoas O
+de O
+vulto O
+micro B-PORTE
+em O
+espirito B-LOCALIZACAO
+santo I-LOCALIZACAO
+
+empresa O
+rondonia B-LOCALIZACAO
+com O
+9254 B-QTD_FUNCIONARIOS
+trabalhadores O
+
+organização O
+na O
+esfera O
+seguros B-SETOR
+de O
+importância O
+grande B-PORTE
+com O
+4019 B-QTD_FUNCIONARIOS
+ate O
+8377 B-QTD_FUNCIONARIOS
+profissionais O
+
+negócio O
+com O
+2908 B-QTD_FUNCIONARIOS
+ate O
+3224 B-QTD_FUNCIONARIOS
+funcionarios O
+micro B-PORTE
+
+holding O
+em O
+rio B-LOCALIZACAO
+grande I-LOCALIZACAO
+do I-LOCALIZACAO
+norte I-LOCALIZACAO
+com O
+8257 B-QTD_FUNCIONARIOS
+trabalhadores O
+
+instituição O
+de O
+servicos B-SETOR
+domesticos I-SETOR
+com O
+1983 B-QTD_FUNCIONARIOS
+ate O
+6531 B-QTD_FUNCIONARIOS
+assistentes O
+
+estabelecimento O
+com O
+3347 B-QTD_FUNCIONARIOS
+de O
+mão O
+obra O
+em O
+distrito B-LOCALIZACAO
+federal I-LOCALIZACAO
+
+conglomerado O
+com O
+1680 B-QTD_FUNCIONARIOS
+ate O
+7021 B-QTD_FUNCIONARIOS
+membros O
+da O
+equipe O
+bahia B-LOCALIZACAO
+
+entidade O
+de O
+importância O
+grande B-PORTE
+com O
+4260 B-QTD_FUNCIONARIOS
+staff O
+
+corporação O
+de O
+religiao B-SETOR
+proporção O
+pequeno B-PORTE
+com O
+9207 B-QTD_FUNCIONARIOS
+trabalhadores O
+
+indústria O
+de O
+estatura O
+micro B-PORTE
+com O
+8855 B-QTD_FUNCIONARIOS
+funcionarios O
+na O
+seção O
+saneamento B-SETOR
+
+consultoria O
+de O
+educacao B-SETOR
+corporativa I-SETOR
+com O
+1222 B-QTD_FUNCIONARIOS
+corpo O
+funcional O
+
+empresa O
+com O
+2915 B-QTD_FUNCIONARIOS
+assistentes O
+
+conglomerado O
+em O
+piaui B-LOCALIZACAO
+pequeno B-PORTE
+com O
+4651 B-QTD_FUNCIONARIOS
+ate O
+6591 B-QTD_FUNCIONARIOS
+de O
+staff O
+
+empresa O
+em O
+ceara B-LOCALIZACAO
+de O
+proporção O
+medio B-PORTE
+com O
+4517 B-QTD_FUNCIONARIOS
+ate O
+9805 B-QTD_FUNCIONARIOS
+auxiliares O
+
+instituição O
+micro B-PORTE
+com O
+3491 B-QTD_FUNCIONARIOS
+ate O
+3690 B-QTD_FUNCIONARIOS
+membros O
+da O
+equipe O
+de O
+religiao B-SETOR
+
+empresa O
+de O
+hidreletricas B-SETOR
+com O
+1714 B-QTD_FUNCIONARIOS
+membros O
+da O
+equipe O
+sergipe B-LOCALIZACAO
+
+instituição O
+com O
+4109 B-QTD_FUNCIONARIOS
+ate O
+4274 B-QTD_FUNCIONARIOS
+de O
+mão O
+obra O
+rio B-LOCALIZACAO
+grande I-LOCALIZACAO
+do I-LOCALIZACAO
+sul I-LOCALIZACAO
+
+emprendimento O
+com O
+2353 B-QTD_FUNCIONARIOS
+ate O
+9718 B-QTD_FUNCIONARIOS
+operários O
+em O
+goias B-LOCALIZACAO
+
+indústria O
+parana B-LOCALIZACAO
+de I-SETOR
+engenharia B-SETOR
+trafego I-SETOR
+com O
+3787 B-QTD_FUNCIONARIOS
+ate O
+4832 B-QTD_FUNCIONARIOS
+empregados O
+
+holding O
+com O
+a O
+especialidade O
+reciclagem B-SETOR
+6111 B-QTD_FUNCIONARIOS
+auxiliares O
+
+organização O
+de O
+tamanho O
+micro B-PORTE
+com O
+4660 B-QTD_FUNCIONARIOS
+ate O
+6424 B-QTD_FUNCIONARIOS
+operários O
+em O
+goias B-LOCALIZACAO
+
+companhia O
+de O
+envergadura O
+pequeno B-PORTE
+ciberseguranca B-SETOR
+em O
+mato B-LOCALIZACAO
+grosso I-LOCALIZACAO
+com O
+3762 B-QTD_FUNCIONARIOS
+ate O
+8225 B-QTD_FUNCIONARIOS
+integrantes O
+
+empresa O
+em O
+ceara B-LOCALIZACAO
+com O
+200 B-QTD_FUNCIONARIOS
+ate O
+4794 B-QTD_FUNCIONARIOS
+auxiliares O
+de O
+energia B-SETOR
+renovavel I-SETOR
+medio B-PORTE
+
+agência O
+com O
+3751 B-QTD_FUNCIONARIOS
+ate O
+6430 B-QTD_FUNCIONARIOS
+de O
+mão O
+obra O
+capacidade O
+grande B-PORTE
+administracao B-SETOR
+publica I-SETOR
+amazonas B-LOCALIZACAO
+
+holding O
+de O
+e-commerce B-SETOR
+micro B-PORTE
+em O
+rio B-LOCALIZACAO
+grande I-LOCALIZACAO
+do I-LOCALIZACAO
+sul I-LOCALIZACAO
+com O
+8330 B-QTD_FUNCIONARIOS
+profissionais O
+
+instituição O
+em O
+mato B-LOCALIZACAO
+grosso I-LOCALIZACAO
+do I-LOCALIZACAO
+sul I-LOCALIZACAO
+pequeno B-PORTE
+com O
+1835 B-QTD_FUNCIONARIOS
+servidores O
+
+entidade O
+na O
+categoria O
+relacoes B-SETOR
+publicas I-SETOR
+com O
+992 B-QTD_FUNCIONARIOS
+assistentes O
+
+estabelecimento O
+com O
+3415 B-QTD_FUNCIONARIOS
+ate O
+6747 B-QTD_FUNCIONARIOS
+prestadores O
+santa B-LOCALIZACAO
+catarina I-LOCALIZACAO
+
+agência O
+no O
+pólo O
+industria B-SETOR
+quimica I-SETOR
+com O
+1328 B-QTD_FUNCIONARIOS
+de O
+corpo O
+funcional O
+
+entidade O
+medio B-PORTE
+em O
+sao B-LOCALIZACAO
+paulo I-LOCALIZACAO
+com O
+919 B-QTD_FUNCIONARIOS
+ate O
+3355 B-QTD_FUNCIONARIOS
+de O
+mão O
+obra O
+
+instituição O
+em O
+bahia B-LOCALIZACAO
+com O
+3363 B-QTD_FUNCIONARIOS
+ate O
+9676 B-QTD_FUNCIONARIOS
+pessoas O
+
+firma O
+de O
+importância O
+grande B-PORTE
+com O
+2098 B-QTD_FUNCIONARIOS
+ate O
+8204 B-QTD_FUNCIONARIOS
+staff O
+
+firma O
+no O
+setor O
+robotica B-SETOR
+roraima B-LOCALIZACAO
+com O
+7351 B-QTD_FUNCIONARIOS
+integrantes O
+pequeno B-PORTE
+
+entidade O
+em O
+rio B-LOCALIZACAO
+de I-LOCALIZACAO
+janeiro I-LOCALIZACAO
+servicos B-SETOR
+domesticos I-SETOR
+estrutura O
+pequeno B-PORTE
+com O
+4269 B-QTD_FUNCIONARIOS
+ate O
+8582 B-QTD_FUNCIONARIOS
+pessoas O
+
+organização O
+com O
+3317 B-QTD_FUNCIONARIOS
+integrantes O
+medio B-PORTE
+
+empresa O
+com O
+3989 B-QTD_FUNCIONARIOS
+servidores O
+micro B-PORTE
+
+organização O
+em O
+acre B-LOCALIZACAO
+com O
+97 B-QTD_FUNCIONARIOS
+ate O
+5449 B-QTD_FUNCIONARIOS
+trabalhadores O
+na O
+zona O
+mobilidade B-SETOR
+urbana I-SETOR
+
+agência O
+de O
+porte O
+pequeno B-PORTE
+ensino B-SETOR
+superior I-SETOR
+com O
+2 B-QTD_FUNCIONARIOS
+ate O
+4217 B-QTD_FUNCIONARIOS
+corpo O
+funcional O
+
+organização O
+de O
+midia B-SETOR
+com O
+338 B-QTD_FUNCIONARIOS
+assistentes O
+proporção O
+medio B-PORTE
+alagoas B-LOCALIZACAO
+
+corporação O
+de O
+volume O
+pequeno B-PORTE
+com O
+5158 B-QTD_FUNCIONARIOS
+funcionarios O
+
+estabelecimento O
+com O
+3247 B-QTD_FUNCIONARIOS
+ate O
+3374 B-QTD_FUNCIONARIOS
+empregados O
+
+corporação O
+em O
+piaui B-LOCALIZACAO
+no O
+departamento O
+engenharia B-SETOR
+de I-SETOR
+producao I-SETOR
+medio B-PORTE
+com O
+3292 B-QTD_FUNCIONARIOS
+ate O
+8352 B-QTD_FUNCIONARIOS
+funcionarios O
+
+cooperativa O
+com O
+2985 B-QTD_FUNCIONARIOS
+ate O
+3426 B-QTD_FUNCIONARIOS
+funcionarios O
+de O
+categoria O
+pequeno B-PORTE
+na O
+unidade O
+meio B-SETOR
+ambiente I-SETOR
+
+estabelecimento O
+com O
+2787 B-QTD_FUNCIONARIOS
+ate O
+5580 B-QTD_FUNCIONARIOS
+funcionarios O
+
+sociedade O
+com O
+8454 B-QTD_FUNCIONARIOS
+de I-LOCALIZACAO
+quadro O
+pessoas O
+classe O
+pequeno B-PORTE
+rio B-LOCALIZACAO
+janeiro I-LOCALIZACAO
+
+negócio O
+com O
+3160 B-QTD_FUNCIONARIOS
+ate O
+6793 B-QTD_FUNCIONARIOS
+auxiliares O
+
+emprendimento O
+com O
+2252 B-QTD_FUNCIONARIOS
+ate O
+8442 B-QTD_FUNCIONARIOS
+membros O
+da O
+equipe O
+na O
+linha O
+de O
+negócio O
+transporte B-SETOR
+rodoviario I-SETOR
+alagoas B-LOCALIZACAO
+
+empresa O
+com O
+7608 B-QTD_FUNCIONARIOS
+funcionarios O
+na O
+unidade O
+hardware B-SETOR
+rondonia B-LOCALIZACAO
+
+firma O
+de O
+tamanho O
+pequeno B-PORTE
+amapa B-LOCALIZACAO
+com O
+1084 B-QTD_FUNCIONARIOS
+ate O
+9345 B-QTD_FUNCIONARIOS
+trabalhadores O
+
+instituição O
+com O
+9488 B-QTD_FUNCIONARIOS
+de O
+staff O
+mato B-LOCALIZACAO
+grosso I-LOCALIZACAO
+
+entidade O
+com O
+2956 B-QTD_FUNCIONARIOS
+funcionarios O
+em O
+acre B-LOCALIZACAO
+
+firma O
+de I-LOCALIZACAO
+transporte B-SETOR
+rodoviario I-SETOR
+em O
+rio B-LOCALIZACAO
+janeiro I-LOCALIZACAO
+com O
+1537 B-QTD_FUNCIONARIOS
+ate O
+3213 B-QTD_FUNCIONARIOS
+operários O
+
+entidade O
+com O
+3912 B-QTD_FUNCIONARIOS
+ate O
+6269 B-QTD_FUNCIONARIOS
+operários O
+de O
+categoria O
+medio B-PORTE
+pernambuco B-LOCALIZACAO
+
+startup O
+em O
+alagoas B-LOCALIZACAO
+de O
+importância O
+medio B-PORTE
+com O
+717 B-QTD_FUNCIONARIOS
+pessoas O
+
+sociedade O
+com O
+8722 B-QTD_FUNCIONARIOS
+pessoas O
+núcleo O
+planejamento B-SETOR
+urbano I-SETOR
+
+startup O
+medio B-PORTE
+piaui B-LOCALIZACAO
+com O
+3350 B-QTD_FUNCIONARIOS
+ate O
+6793 B-QTD_FUNCIONARIOS
+auxiliares O
+
+corporação O
+com O
+1880 B-QTD_FUNCIONARIOS
+ate O
+7147 B-QTD_FUNCIONARIOS
+funcionarios O
+no O
+setor O
+manufatura B-SETOR
+em O
+distrito B-LOCALIZACAO
+federal I-LOCALIZACAO
+
+emprendimento O
+com O
+3427 B-QTD_FUNCIONARIOS
+operários O
+de O
+perfil O
+pequeno B-PORTE
+
+holding O
+com O
+3225 B-QTD_FUNCIONARIOS
+ate O
+8006 B-QTD_FUNCIONARIOS
+servidores O
+mato B-LOCALIZACAO
+grosso I-LOCALIZACAO
+do I-LOCALIZACAO
+sul I-LOCALIZACAO
+
+negócio O
+de O
+corretoras B-SETOR
+com O
+479 B-QTD_FUNCIONARIOS
+operários O
+
+startup O
+com O
+5685 B-QTD_FUNCIONARIOS
+de O
+corpo O
+funcional O
+em O
+goias B-LOCALIZACAO
+medio B-PORTE
+
+holding O
+com O
+2922 B-QTD_FUNCIONARIOS
+ate O
+3721 B-QTD_FUNCIONARIOS
+membros O
+da O
+equipe O
+em O
+espirito B-LOCALIZACAO
+santo I-LOCALIZACAO
+micro B-PORTE
+
+companhia O
+com O
+238 B-QTD_FUNCIONARIOS
+de O
+quadro O
+pessoas O
+marketing B-SETOR
+em O
+maranhao B-LOCALIZACAO
+
+empresa O
+na O
+linha O
+de O
+negócio O
+moda B-SETOR
+escala O
+pequeno B-PORTE
+com O
+1399 B-QTD_FUNCIONARIOS
+ate O
+2157 B-QTD_FUNCIONARIOS
+pessoas O
+em O
+rio B-LOCALIZACAO
+grande I-LOCALIZACAO
+do I-LOCALIZACAO
+norte I-LOCALIZACAO
+
+organização O
+em O
+parana B-LOCALIZACAO
+com O
+4596 B-QTD_FUNCIONARIOS
+ate O
+9312 B-QTD_FUNCIONARIOS
+auxiliares O
+
+emprendimento O
+de O
+dimensão O
+medio B-PORTE
+na O
+categoria O
+tecnologia B-SETOR
+da I-SETOR
+informacao I-SETOR
+com O
+5563 B-QTD_FUNCIONARIOS
+trabalhadores O
+
+negócio O
+de O
+silvicultura B-SETOR
+com O
+3568 B-QTD_FUNCIONARIOS
+ate O
+5748 B-QTD_FUNCIONARIOS
+profissionais O
+estrutura O
+grande B-PORTE
+
+consultoria O
+de O
+organizacoes B-SETOR
+nao I-SETOR
+governamentais I-SETOR
+tipo O
+micro B-PORTE
+com O
+2699 B-QTD_FUNCIONARIOS
+integrantes O
+
+firma O
+com O
+2372 B-QTD_FUNCIONARIOS
+ate O
+2636 B-QTD_FUNCIONARIOS
+de O
+mão O
+obra O
+no O
+campo O
+robotica B-SETOR
+
+negócio O
+para B-LOCALIZACAO
+com O
+2180 B-QTD_FUNCIONARIOS
+ate O
+3238 B-QTD_FUNCIONARIOS
+de O
+mão O
+obra O
+
+agência O
+na O
+linha O
+de O
+negócio O
+empreendedorismo B-SETOR
+medio B-PORTE
+com O
+2631 B-QTD_FUNCIONARIOS
+operários O
+
+firma O
+no O
+campo O
+cinema B-SETOR
+ceara B-LOCALIZACAO
+com O
+1012 B-QTD_FUNCIONARIOS
+servidores O
+
+consultoria O
+amapa B-LOCALIZACAO
+de O
+envergadura O
+micro B-PORTE
+com O
+1599 B-QTD_FUNCIONARIOS
+ate O
+7513 B-QTD_FUNCIONARIOS
+mão O
+obra O
+
+agência O
+grande B-PORTE
+com O
+7195 B-QTD_FUNCIONARIOS
+de O
+mão O
+obra O
+
+organização O
+com O
+2607 B-QTD_FUNCIONARIOS
+operários O
+
+empresa O
+para B-LOCALIZACAO
+grande B-PORTE
+com O
+3773 B-QTD_FUNCIONARIOS
+ate O
+5482 B-QTD_FUNCIONARIOS
+integrantes O
+na O
+esfera O
+eletronica B-SETOR
+
+consultoria O
+com O
+7996 B-QTD_FUNCIONARIOS
+colaboradores O
+
+firma O
+com O
+323 B-QTD_FUNCIONARIOS
+integrantes O
+de O
+hardware B-SETOR
+para B-LOCALIZACAO
+
+instituição O
+mato B-LOCALIZACAO
+grosso I-LOCALIZACAO
+com O
+2618 B-QTD_FUNCIONARIOS
+ate O
+7202 B-QTD_FUNCIONARIOS
+funcionarios O
+
+entidade O
+com O
+1979 B-QTD_FUNCIONARIOS
+profissionais O
+em O
+goias B-LOCALIZACAO
+na O
+verticalidade O
+ensino B-SETOR
+fundamental I-SETOR
+
+emprendimento O
+com O
+3277 B-QTD_FUNCIONARIOS
+ate O
+6102 B-QTD_FUNCIONARIOS
+funcionarios O
+
+corporação O
+de O
+engenharia B-SETOR
+biomedica I-SETOR
+com O
+995 B-QTD_FUNCIONARIOS
+ate O
+5225 B-QTD_FUNCIONARIOS
+operários O
+em O
+bahia B-LOCALIZACAO
+
+sociedade O
+mato B-LOCALIZACAO
+grosso I-LOCALIZACAO
+do I-LOCALIZACAO
+sul I-LOCALIZACAO
+com O
+1949 B-QTD_FUNCIONARIOS
+operários O
+de O
+categoria O
+micro B-PORTE
+
+startup O
+na O
+atividade O
+educacao B-SETOR
+corporativa I-SETOR
+com O
+4937 B-QTD_FUNCIONARIOS
+de O
+quadro O
+pessoas O
+
+cooperativa O
+medio B-PORTE
+com O
+3378 B-QTD_FUNCIONARIOS
+de O
+corpo O
+funcional O
+
+corporação O
+piaui B-LOCALIZACAO
+com O
+857 B-QTD_FUNCIONARIOS
+ate O
+5682 B-QTD_FUNCIONARIOS
+pessoas O
+
+negócio O
+em O
+ceara B-LOCALIZACAO
+na O
+divisão O
+hardware B-SETOR
+com O
+4364 B-QTD_FUNCIONARIOS
+assistentes O
+
+grupo O
+empresarial O
+com O
+9297 B-QTD_FUNCIONARIOS
+assistentes O
+micro B-PORTE
+de O
+teatro B-SETOR
+
+estabelecimento O
+distrito B-LOCALIZACAO
+federal I-LOCALIZACAO
+com O
+1381 B-QTD_FUNCIONARIOS
+empregados O
+de O
+composição O
+medio B-PORTE
+
+negócio O
+com O
+7100 B-QTD_FUNCIONARIOS
+funcionarios O
+
+holding O
+com O
+7483 B-QTD_FUNCIONARIOS
+auxiliares O
+grande B-PORTE
+tocantins B-LOCALIZACAO
+
+sociedade O
+rio B-LOCALIZACAO
+grande I-LOCALIZACAO
+do I-LOCALIZACAO
+sul I-LOCALIZACAO
+no O
+departamento O
+seguranca B-SETOR
+publica I-SETOR
+com O
+3580 B-QTD_FUNCIONARIOS
+empregados O
+pequeno B-PORTE
+
+corporação O
+com O
+6799 B-QTD_FUNCIONARIOS
+empregados O
+de O
+classe O
+pequeno B-PORTE
+alagoas B-LOCALIZACAO
+
+corporação O
+com O
+3158 B-QTD_FUNCIONARIOS
+ate O
+6381 B-QTD_FUNCIONARIOS
+de O
+quadro O
+pessoas O
+no O
+campo O
+transporte B-SETOR
+rodoviario I-SETOR
+
+holding O
+maranhao B-LOCALIZACAO
+na O
+esfera O
+psicologia B-SETOR
+com O
+4174 B-QTD_FUNCIONARIOS
+ate O
+9970 B-QTD_FUNCIONARIOS
+operários O
+
+grupo O
+empresarial O
+em O
+bahia B-LOCALIZACAO
+com O
+1466 B-QTD_FUNCIONARIOS
+ate O
+8475 B-QTD_FUNCIONARIOS
+prestadores O
+
+sociedade O
+pequeno B-PORTE
+de O
+servico B-SETOR
+social I-SETOR
+com O
+883 B-QTD_FUNCIONARIOS
+ate O
+5621 B-QTD_FUNCIONARIOS
+pessoas O
+pernambuco B-LOCALIZACAO
+
+consultoria O
+com O
+1150 B-QTD_FUNCIONARIOS
+colaboradores O
+
+organização O
+com O
+3624 B-QTD_FUNCIONARIOS
+ate O
+6333 B-QTD_FUNCIONARIOS
+de O
+mão O
+obra O
+
+startup O
+com O
+4744 B-QTD_FUNCIONARIOS
+ate O
+8509 B-QTD_FUNCIONARIOS
+empregados O
+rio B-LOCALIZACAO
+grande I-LOCALIZACAO
+do I-LOCALIZACAO
+norte I-LOCALIZACAO
+de O
+silvicultura B-SETOR
+
+firma O
+com O
+9376 B-QTD_FUNCIONARIOS
+membros O
+da O
+equipe O
+micro B-PORTE
+no O
+departamento O
+musica B-SETOR
+
+companhia O
+com O
+4485 B-QTD_FUNCIONARIOS
+ate O
+5807 B-QTD_FUNCIONARIOS
+membros O
+da O
+equipe O
+micro B-PORTE
+de O
+metaverso B-SETOR
+
+indústria O
+com O
+3353 B-QTD_FUNCIONARIOS
+ate O
+9521 B-QTD_FUNCIONARIOS
+de I-SETOR
+quadro O
+pessoas O
+em O
+sergipe B-LOCALIZACAO
+engenharia B-SETOR
+producao I-SETOR
+
+indústria O
+com O
+9478 B-QTD_FUNCIONARIOS
+trabalhadores O
+
+corporação O
+de O
+perfil O
+grande B-PORTE
+com O
+4711 B-QTD_FUNCIONARIOS
+funcionarios O
+
+agência O
+de O
+bombeiros B-SETOR
+com O
+397 B-QTD_FUNCIONARIOS
+ate O
+8817 B-QTD_FUNCIONARIOS
+trabalhadores O
+em O
+piaui B-LOCALIZACAO
+categoria O
+pequeno B-PORTE
+
+cooperativa O
+com O
+1754 B-QTD_FUNCIONARIOS
+ate O
+9419 B-QTD_FUNCIONARIOS
+auxiliares O
+
+organização O
+em O
+acre B-LOCALIZACAO
+com O
+1136 B-QTD_FUNCIONARIOS
+ate O
+1557 B-QTD_FUNCIONARIOS
+integrantes O
+
+conglomerado O
+distrito B-LOCALIZACAO
+federal I-LOCALIZACAO
+com O
+661 B-QTD_FUNCIONARIOS
+ate O
+853 B-QTD_FUNCIONARIOS
+colaboradores O
+
+companhia O
+de O
+administracao B-SETOR
+publica I-SETOR
+pequeno B-PORTE
+com O
+1065 B-QTD_FUNCIONARIOS
+ate O
+6044 B-QTD_FUNCIONARIOS
+assistentes O
+
+entidade O
+com O
+2888 B-QTD_FUNCIONARIOS
+ate O
+2923 B-QTD_FUNCIONARIOS
+servidores O
+de O
+importância O
+grande B-PORTE
+
+holding O
+com O
+8151 B-QTD_FUNCIONARIOS
+de O
+staff O
+empreendedorismo B-SETOR
+
+agência O
+com O
+9442 B-QTD_FUNCIONARIOS
+de O
+staff O
+medio B-PORTE
+
+negócio O
+com O
+3560 B-QTD_FUNCIONARIOS
+de O
+mão O
+obra O
+geociencias B-SETOR
+vulto O
+grande B-PORTE
+
+emprendimento O
+para B-LOCALIZACAO
+com O
+4865 B-QTD_FUNCIONARIOS
+ate O
+6412 B-QTD_FUNCIONARIOS
+empregados O
+
+emprendimento O
+medio B-PORTE
+com O
+343 B-QTD_FUNCIONARIOS
+assistentes O
+
+startup O
+em O
+rio B-LOCALIZACAO
+grande I-LOCALIZACAO
+do I-LOCALIZACAO
+sul I-LOCALIZACAO
+com O
+1725 B-QTD_FUNCIONARIOS
+servidores O
+medio B-PORTE
+
+companhia O
+em O
+rio B-LOCALIZACAO
+grande I-LOCALIZACAO
+do I-LOCALIZACAO
+norte I-LOCALIZACAO
+com O
+715 B-QTD_FUNCIONARIOS
+de O
+mão O
+obra O
+industria B-SETOR
+automotiva I-SETOR
+tamanho O
+micro B-PORTE
+
+cooperativa O
+micro B-PORTE
+com O
+817 B-QTD_FUNCIONARIOS
+ate O
+2281 B-QTD_FUNCIONARIOS
+profissionais O
+
+cooperativa O
+com O
+9085 B-QTD_FUNCIONARIOS
+auxiliares O
+de O
+educacao B-SETOR
+corporativa I-SETOR
+acre B-LOCALIZACAO
+
+organização O
+com O
+1386 B-QTD_FUNCIONARIOS
+ate O
+7645 B-QTD_FUNCIONARIOS
+de O
+mão O
+obra O
+biotecnologia B-SETOR
+
+agência O
+com O
+4535 B-QTD_FUNCIONARIOS
+ate O
+7639 B-QTD_FUNCIONARIOS
+auxiliares O
+
+instituição O
+com O
+43 B-QTD_FUNCIONARIOS
+ate O
+5737 B-QTD_FUNCIONARIOS
+de O
+corpo O
+funcional O
+em O
+para B-LOCALIZACAO
+
+associação O
+com O
+2317 B-QTD_FUNCIONARIOS
+ate O
+4300 B-QTD_FUNCIONARIOS
+servidores O
+alagoas B-LOCALIZACAO
+de O
+envergadura O
+micro B-PORTE
+na O
+linha O
+negócio O
+petroleo B-SETOR
+e I-SETOR
+gas I-SETOR
+
+associação O
+em O
+roraima B-LOCALIZACAO
+com O
+1402 B-QTD_FUNCIONARIOS
+ate O
+5081 B-QTD_FUNCIONARIOS
+integrantes O
+
+organização O
+pequeno B-PORTE
+na O
+divisão O
+nanotecnologia B-SETOR
+com O
+2624 B-QTD_FUNCIONARIOS
+prestadores O
+
+negócio O
+maranhao B-LOCALIZACAO
+com O
+6909 B-QTD_FUNCIONARIOS
+funcionarios O
+de O
+estrutura O
+micro B-PORTE
+
+associação O
+micro B-PORTE
+com O
+3627 B-QTD_FUNCIONARIOS
+ate O
+3835 B-QTD_FUNCIONARIOS
+de O
+quadro O
+pessoas O
+
+corporação O
+pernambuco B-LOCALIZACAO
+com O
+2493 B-QTD_FUNCIONARIOS
+de O
+quadro O
+pessoas O
+na O
+seção O
+educacao B-SETOR
+infantil I-SETOR
+
+indústria O
+de O
+inteligencia B-SETOR
+artificial I-SETOR
+pequeno B-PORTE
+com O
+314 B-QTD_FUNCIONARIOS
+ate O
+382 B-QTD_FUNCIONARIOS
+quadro O
+pessoas O
+
+agência O
+sergipe B-LOCALIZACAO
+com O
+2024 B-QTD_FUNCIONARIOS
+de O
+staff O
+justica B-SETOR
+composição O
+micro B-PORTE
+
+cooperativa O
+com O
+7400 B-QTD_FUNCIONARIOS
+integrantes O
+grande B-PORTE
+no O
+ramo O
+criptomoedas B-SETOR
+
+corporação O
+com O
+4752 B-QTD_FUNCIONARIOS
+ate O
+6081 B-QTD_FUNCIONARIOS
+operários O
+amazonas B-LOCALIZACAO
+
+sociedade O
+de O
+policia B-SETOR
+estatura O
+micro B-PORTE
+com O
+7301 B-QTD_FUNCIONARIOS
+membros O
+da O
+equipe O
+
+grupo O
+empresarial O
+com O
+3590 B-QTD_FUNCIONARIOS
+servidores O
+
+agência O
+com O
+9469 B-QTD_FUNCIONARIOS
+profissionais O
+em O
+piaui B-LOCALIZACAO
+
+organização O
+com O
+1409 B-QTD_FUNCIONARIOS
+ate O
+5235 B-QTD_FUNCIONARIOS
+empregados O
+em O
+roraima B-LOCALIZACAO
+
+corporação O
+medio B-PORTE
+com O
+4459 B-QTD_FUNCIONARIOS
+prestadores O
+na O
+divisão O
+reciclagem B-SETOR
+
+empresa O
+com O
+4707 B-QTD_FUNCIONARIOS
+ate O
+7381 B-QTD_FUNCIONARIOS
+de O
+quadro O
+pessoas O
+
+entidade O
+de O
+saneamento B-SETOR
+com O
+4889 B-QTD_FUNCIONARIOS
+funcionarios O
+porte O
+pequeno B-PORTE
+
+corporação O
+alagoas B-LOCALIZACAO
+com O
+2129 B-QTD_FUNCIONARIOS
+ate O
+7404 B-QTD_FUNCIONARIOS
+empregados O
+de O
+consultoria B-SETOR
+
+instituição O
+com O
+1348 B-QTD_FUNCIONARIOS
+trabalhadores O
+
+companhia O
+medio B-PORTE
+com O
+1863 B-QTD_FUNCIONARIOS
+ate O
+6811 B-QTD_FUNCIONARIOS
+funcionarios O
+no O
+departamento O
+streaming B-SETOR
+
+holding O
+com O
+7070 B-QTD_FUNCIONARIOS
+funcionarios O
+micro B-PORTE
+em O
+amazonas B-LOCALIZACAO
+
+cooperativa O
+com O
+5414 B-QTD_FUNCIONARIOS
+de O
+mão O
+obra O
+
+companhia O
+com O
+1858 B-QTD_FUNCIONARIOS
+ate O
+7365 B-QTD_FUNCIONARIOS
+prestadores O
+
+associação O
+com O
+27 B-QTD_FUNCIONARIOS
+ate O
+6280 B-QTD_FUNCIONARIOS
+trabalhadores O
+grande B-PORTE
+em O
+para B-LOCALIZACAO
+
+companhia O
+de O
+arquitetura B-SETOR
+para B-LOCALIZACAO
+com O
+4808 B-QTD_FUNCIONARIOS
+ate O
+7699 B-QTD_FUNCIONARIOS
+operários O
+volume O
+micro B-PORTE
+
+sociedade O
+com O
+4520 B-QTD_FUNCIONARIOS
+ate O
+9835 B-QTD_FUNCIONARIOS
+integrantes O
+
+sociedade O
+com O
+1370 B-QTD_FUNCIONARIOS
+ate O
+7365 B-QTD_FUNCIONARIOS
+colaboradores O
+
+negócio O
+maranhao B-LOCALIZACAO
+com O
+1886 B-QTD_FUNCIONARIOS
+ate O
+5036 B-QTD_FUNCIONARIOS
+integrantes O
+
+estabelecimento O
+no O
+segmento O
+enfermagem B-SETOR
+com O
+4818 B-QTD_FUNCIONARIOS
+integrantes O
+
+holding O
+com O
+3536 B-QTD_FUNCIONARIOS
+ate O
+9602 B-QTD_FUNCIONARIOS
+operários O
+para B-LOCALIZACAO
+de O
+relacoes B-SETOR
+publicas I-SETOR
+
+holding O
+de O
+volume O
+grande B-PORTE
+em O
+rondonia B-LOCALIZACAO
+com O
+508 B-QTD_FUNCIONARIOS
+colaboradores O
+manufatura B-SETOR
+
+estabelecimento O
+com O
+7372 B-QTD_FUNCIONARIOS
+de O
+staff O
+
+sociedade O
+de O
+medicina B-SETOR
+potência O
+medio B-PORTE
+com O
+158 B-QTD_FUNCIONARIOS
+ate O
+8091 B-QTD_FUNCIONARIOS
+pessoas O
+
+organização O
+medio B-PORTE
+com O
+3428 B-QTD_FUNCIONARIOS
+empregados O
+no O
+segmento O
+ciberseguranca B-SETOR
+
+negócio O
+em O
+piaui B-LOCALIZACAO
+com O
+3859 B-QTD_FUNCIONARIOS
+assistentes O
+
+sociedade O
+com O
+3283 B-QTD_FUNCIONARIOS
+profissionais O
+em O
+rio B-LOCALIZACAO
+de I-LOCALIZACAO
+janeiro I-LOCALIZACAO
+
+sociedade O
+de O
+industria B-SETOR
+textil I-SETOR
+com O
+3197 B-QTD_FUNCIONARIOS
+ate O
+4910 B-QTD_FUNCIONARIOS
+integrantes O
+
+firma O
+de O
+vulto O
+medio B-PORTE
+com O
+142 B-QTD_FUNCIONARIOS
+ate O
+3772 B-QTD_FUNCIONARIOS
+membros O
+da O
+equipe O
+
+companhia O
+medio B-PORTE
+com O
+1479 B-QTD_FUNCIONARIOS
+ate O
+2885 B-QTD_FUNCIONARIOS
+membros O
+da O
+equipe O
+
+sociedade O
+com O
+2239 B-QTD_FUNCIONARIOS
+ate O
+7251 B-QTD_FUNCIONARIOS
+operários O
+medio B-PORTE
+
+empresa O
+medio B-PORTE
+no O
+domínio O
+engenharia B-SETOR
+de I-SETOR
+trafego I-SETOR
+com O
+3150 B-QTD_FUNCIONARIOS
+ate O
+9627 B-QTD_FUNCIONARIOS
+integrantes O
+
+conglomerado O
+em O
+bahia B-LOCALIZACAO
+com O
+6965 B-QTD_FUNCIONARIOS
+funcionarios O
+
+firma O
+de O
+categoria O
+medio B-PORTE
+em O
+santa B-LOCALIZACAO
+catarina I-LOCALIZACAO
+com O
+903 B-QTD_FUNCIONARIOS
+ate O
+1524 B-QTD_FUNCIONARIOS
+quadro O
+pessoas O
+na O
+seção O
+medicina B-SETOR
+
+companhia O
+com O
+3791 B-QTD_FUNCIONARIOS
+auxiliares O
+grande B-PORTE
+
+consultoria O
+com O
+510 B-QTD_FUNCIONARIOS
+funcionarios O
+
+organização O
+de O
+tecnologia B-SETOR
+da I-SETOR
+informacao I-SETOR
+em O
+santa B-LOCALIZACAO
+catarina I-LOCALIZACAO
+com O
+9741 B-QTD_FUNCIONARIOS
+prestadores O
+
+conglomerado O
+com O
+3465 B-QTD_FUNCIONARIOS
+ate O
+8500 B-QTD_FUNCIONARIOS
+colaboradores O
+núcleo O
+industria B-SETOR
+aeroespacial I-SETOR
+
+conglomerado O
+com O
+3617 B-QTD_FUNCIONARIOS
+ate O
+4021 B-QTD_FUNCIONARIOS
+de O
+mão O
+obra O
+ceara B-LOCALIZACAO
+
+corporação O
+de O
+envergadura O
+micro B-PORTE
+com O
+208 B-QTD_FUNCIONARIOS
+ate O
+349 B-QTD_FUNCIONARIOS
+empregados O
+
+consultoria O
+com O
+3278 B-QTD_FUNCIONARIOS
+ate O
+5562 B-QTD_FUNCIONARIOS
+de O
+quadro O
+pessoas O
+engenharia B-SETOR
+biomedica I-SETOR
+estatura O
+medio B-PORTE
+
+corporação O
+com O
+9285 B-QTD_FUNCIONARIOS
+integrantes O
+na O
+seção O
+consultoria B-SETOR
+
+grupo O
+empresarial O
+com O
+1625 B-QTD_FUNCIONARIOS
+ate O
+6982 B-QTD_FUNCIONARIOS
+de O
+quadro O
+pessoas O
+categoria O
+medio B-PORTE
+na O
+verticalidade O
+policia B-SETOR
+
+estabelecimento O
+goias B-LOCALIZACAO
+no O
+ramo O
+e-commerce B-SETOR
+com O
+4862 B-QTD_FUNCIONARIOS
+ate O
+8770 B-QTD_FUNCIONARIOS
+colaboradores O
+
+consultoria O
+com O
+6796 B-QTD_FUNCIONARIOS
+assistentes O
+
+firma O
+com O
+núcleo O
+logistica B-SETOR
+2670 B-QTD_FUNCIONARIOS
+ate O
+7816 B-QTD_FUNCIONARIOS
+pessoas O
+em O
+piaui B-LOCALIZACAO
+
+grupo O
+empresarial O
+com O
+4197 B-QTD_FUNCIONARIOS
+ate O
+6023 B-QTD_FUNCIONARIOS
+de O
+staff O
+
+startup O
+com O
+4795 B-QTD_FUNCIONARIOS
+ate O
+7598 B-QTD_FUNCIONARIOS
+de O
+quadro O
+pessoas O
+micro B-PORTE
+
+indústria O
+de O
+hotelaria B-SETOR
+com O
+4607 B-QTD_FUNCIONARIOS
+funcionarios O
+tocantins B-LOCALIZACAO
+
+holding O
+com O
+817 B-QTD_FUNCIONARIOS
+auxiliares O
+em O
+piaui B-LOCALIZACAO
+
+startup O
+com O
+3331 B-QTD_FUNCIONARIOS
+de O
+staff O
+micro B-PORTE
+na O
+verticalidade O
+direito B-SETOR
+
+emprendimento O
+com O
+7630 B-QTD_FUNCIONARIOS
+pessoas O
+medio B-PORTE
+na O
+seção O
+treinamento B-SETOR
+profissional I-SETOR
+
+indústria O
+com O
+1677 B-QTD_FUNCIONARIOS
+ate O
+9623 B-QTD_FUNCIONARIOS
+servidores O
+de O
+estatura O
+medio B-PORTE
+hidreletricas B-SETOR
+
+emprendimento O
+rio B-LOCALIZACAO
+grande I-LOCALIZACAO
+do I-LOCALIZACAO
+sul I-LOCALIZACAO
+de O
+perfil O
+pequeno B-PORTE
+com O
+4112 B-QTD_FUNCIONARIOS
+ate O
+9565 B-QTD_FUNCIONARIOS
+operários O
+
+empresa O
+com O
+1451 B-QTD_FUNCIONARIOS
+servidores O
+de O
+categoria O
+pequeno B-PORTE
+na O
+verticalidade O
+meio B-SETOR
+ambiente I-SETOR
+
+emprendimento O
+micro B-PORTE
+com O
+3310 B-QTD_FUNCIONARIOS
+ate O
+9234 B-QTD_FUNCIONARIOS
+trabalhadores O
+
+negócio O
+com O
+3407 B-QTD_FUNCIONARIOS
+de O
+staff O
+em O
+sergipe B-LOCALIZACAO
+na O
+área O
+mercado B-SETOR
+financeiro I-SETOR
+
+negócio O
+com O
+8102 B-QTD_FUNCIONARIOS
+servidores O
+
+firma O
+de O
+odontologia B-SETOR
+em O
+amazonas B-LOCALIZACAO
+com O
+3998 B-QTD_FUNCIONARIOS
+ate O
+4721 B-QTD_FUNCIONARIOS
+colaboradores O
+
+corporação O
+pequeno B-PORTE
+de O
+energia B-SETOR
+com O
+5284 B-QTD_FUNCIONARIOS
+profissionais O
+
+startup O
+com O
+3093 B-QTD_FUNCIONARIOS
+empregados O
+pernambuco B-LOCALIZACAO
+de O
+perfil O
+grande B-PORTE
+
+emprendimento O
+com O
+5543 B-QTD_FUNCIONARIOS
+de O
+quadro O
+pessoas O
+rondonia B-LOCALIZACAO
+saude B-SETOR
+
+conglomerado O
+de O
+streaming B-SETOR
+santa B-LOCALIZACAO
+catarina I-LOCALIZACAO
+com O
+7838 B-QTD_FUNCIONARIOS
+integrantes O
+
+negócio O
+de O
+dimensão O
+medio B-PORTE
+com O
+5728 B-QTD_FUNCIONARIOS
+auxiliares O
+
+consultoria O
+de O
+capacidade O
+grande B-PORTE
+ensino B-SETOR
+fundamental I-SETOR
+com O
+395 B-QTD_FUNCIONARIOS
+ate O
+9191 B-QTD_FUNCIONARIOS
+membros O
+da O
+equipe O
+
+empresa O
+com O
+888 B-QTD_FUNCIONARIOS
+ate O
+8366 B-QTD_FUNCIONARIOS
+de O
+mão O
+obra O
+oceanografia B-SETOR
+
+sociedade O
+com O
+4773 B-QTD_FUNCIONARIOS
+ate O
+9203 B-QTD_FUNCIONARIOS
+auxiliares O
+micro B-PORTE
+em O
+alagoas B-LOCALIZACAO
+
+empresa O
+com O
+4148 B-QTD_FUNCIONARIOS
+membros O
+da O
+equipe O
+
+negócio O
+de O
+tipo O
+micro B-PORTE
+com O
+a O
+especialidade O
+teatro B-SETOR
+3840 B-QTD_FUNCIONARIOS
+ate O
+8624 B-QTD_FUNCIONARIOS
+trabalhadores O
+
+instituição O
+de O
+varejo B-SETOR
+com O
+1753 B-QTD_FUNCIONARIOS
+ate O
+6673 B-QTD_FUNCIONARIOS
+operários O
+
+organização O
+com O
+3095 B-QTD_FUNCIONARIOS
+ate O
+6969 B-QTD_FUNCIONARIOS
+funcionarios O
+de I-LOCALIZACAO
+vulto O
+micro B-PORTE
+em O
+rio B-LOCALIZACAO
+janeiro I-LOCALIZACAO
+
+corporação O
+com O
+2365 B-QTD_FUNCIONARIOS
+de O
+staff O
+
+startup O
+de O
+capacidade O
+pequeno B-PORTE
+com O
+637 B-QTD_FUNCIONARIOS
+ate O
+1700 B-QTD_FUNCIONARIOS
+operários O
+na O
+área O
+artes B-SETOR
+
+startup O
+de O
+envergadura O
+pequeno B-PORTE
+com O
+7190 B-QTD_FUNCIONARIOS
+colaboradores O
+pesquisa B-SETOR
+cientifica I-SETOR
+
+associação O
+de O
+tipo O
+pequeno B-PORTE
+com O
+3137 B-QTD_FUNCIONARIOS
+ate O
+6994 B-QTD_FUNCIONARIOS
+empregados O
+em O
+alagoas B-LOCALIZACAO
+
+instituição O
+com O
+7818 B-QTD_FUNCIONARIOS
+de O
+corpo O
+funcional O
+categoria O
+grande B-PORTE
+na O
+unidade O
+seguros B-SETOR
+
+consultoria O
+de O
+tipo O
+medio B-PORTE
+com O
+8372 B-QTD_FUNCIONARIOS
+servidores O
+no O
+setor O
+logistica B-SETOR
+mato B-LOCALIZACAO
+grosso I-LOCALIZACAO
+
+emprendimento O
+com O
+1698 B-QTD_FUNCIONARIOS
+ate O
+5292 B-QTD_FUNCIONARIOS
+colaboradores O
+de O
+empreendedorismo B-SETOR
+
+estabelecimento O
+medio B-PORTE
+com O
+2745 B-QTD_FUNCIONARIOS
+ate O
+7405 B-QTD_FUNCIONARIOS
+colaboradores O
+
+estabelecimento O
+acre B-LOCALIZACAO
+com O
+2791 B-QTD_FUNCIONARIOS
+ate O
+6800 B-QTD_FUNCIONARIOS
+de O
+quadro O
+pessoas O
+composição O
+pequeno B-PORTE
+
+firma O
+com O
+1950 B-QTD_FUNCIONARIOS
+ate O
+3735 B-QTD_FUNCIONARIOS
+membros O
+da O
+equipe O
+
+indústria O
+com O
+2910 B-QTD_FUNCIONARIOS
+prestadores O
+em O
+pernambuco B-LOCALIZACAO
+de O
+proporção O
+micro B-PORTE
+
+empresa O
+com O
+2750 B-QTD_FUNCIONARIOS
+de O
+staff O
+
+emprendimento O
+com O
+798 B-QTD_FUNCIONARIOS
+ate O
+5423 B-QTD_FUNCIONARIOS
+auxiliares O
+na O
+categoria O
+manufatura B-SETOR
+de O
+volume O
+grande B-PORTE
+
+entidade O
+com O
+2079 B-QTD_FUNCIONARIOS
+ate O
+5063 B-QTD_FUNCIONARIOS
+operários O
+
+cooperativa O
+com O
+1511 B-QTD_FUNCIONARIOS
+assistentes O
+
+firma O
+com O
+4153 B-QTD_FUNCIONARIOS
+ate O
+5465 B-QTD_FUNCIONARIOS
+trabalhadores O
+de O
+vulto O
+micro B-PORTE
+em O
+mato B-LOCALIZACAO
+grosso I-LOCALIZACAO
+do I-LOCALIZACAO
+sul I-LOCALIZACAO
+
+instituição O
+em O
+mato B-LOCALIZACAO
+grosso I-LOCALIZACAO
+do I-LOCALIZACAO
+sul I-LOCALIZACAO
+com O
+3468 B-QTD_FUNCIONARIOS
+ate O
+4883 B-QTD_FUNCIONARIOS
+empregados O
+
+instituição O
+roraima B-LOCALIZACAO
+no O
+departamento O
+robotica B-SETOR
+com O
+3101 B-QTD_FUNCIONARIOS
+ate O
+9341 B-QTD_FUNCIONARIOS
+colaboradores O
+
+sociedade O
+com O
+1468 B-QTD_FUNCIONARIOS
+pessoas O
+na O
+seção O
+gastronomia B-SETOR
+
+associação O
+com O
+3322 B-QTD_FUNCIONARIOS
+ate O
+5863 B-QTD_FUNCIONARIOS
+membros O
+da O
+equipe O
+
+indústria O
+em O
+rondonia B-LOCALIZACAO
+com O
+677 B-QTD_FUNCIONARIOS
+de O
+quadro O
+pessoas O
+
+firma O
+de O
+comercio B-SETOR
+com O
+1980 B-QTD_FUNCIONARIOS
+ate O
+9700 B-QTD_FUNCIONARIOS
+integrantes O
+
+entidade O
+na O
+verticalidade O
+psicologia B-SETOR
+com O
+6211 B-QTD_FUNCIONARIOS
+auxiliares O
+
+companhia O
+de O
+jornalismo B-SETOR
+com O
+766 B-QTD_FUNCIONARIOS
+ate O
+2301 B-QTD_FUNCIONARIOS
+funcionarios O
+
+firma O
+na O
+zona O
+ecologia B-SETOR
+com O
+4756 B-QTD_FUNCIONARIOS
+ate O
+9412 B-QTD_FUNCIONARIOS
+prestadores O
+
+cooperativa O
+na O
+unidade O
+metaverso B-SETOR
+com O
+882 B-QTD_FUNCIONARIOS
+ate O
+8057 B-QTD_FUNCIONARIOS
+colaboradores O
+
+startup O
+com O
+2816 B-QTD_FUNCIONARIOS
+ate O
+5578 B-QTD_FUNCIONARIOS
+empregados O
+sao B-LOCALIZACAO
+paulo I-LOCALIZACAO
+
+estabelecimento O
+com O
+4888 B-QTD_FUNCIONARIOS
+ate O
+5946 B-QTD_FUNCIONARIOS
+de O
+staff O
+no O
+segmento O
+saneamento B-SETOR
+micro B-PORTE
+
+firma O
+com O
+3725 B-QTD_FUNCIONARIOS
+prestadores O
+em O
+alagoas B-LOCALIZACAO
+de O
+tamanho O
+medio B-PORTE
+
+corporação O
+amapa B-LOCALIZACAO
+de O
+oceanografia B-SETOR
+com O
+2122 B-QTD_FUNCIONARIOS
+ate O
+3033 B-QTD_FUNCIONARIOS
+integrantes O
+
+empresa O
+com O
+3309 B-QTD_FUNCIONARIOS
+ate O
+3810 B-QTD_FUNCIONARIOS
+assistentes O
+
+entidade O
+pernambuco B-LOCALIZACAO
+com O
+3007 B-QTD_FUNCIONARIOS
+ate O
+6498 B-QTD_FUNCIONARIOS
+de O
+corpo O
+funcional O
+composição O
+pequeno B-PORTE
+
+conglomerado O
+de O
+perfil O
+micro B-PORTE
+com O
+2659 B-QTD_FUNCIONARIOS
+ate O
+4549 B-QTD_FUNCIONARIOS
+quadro O
+pessoas O
+em O
+rio B-LOCALIZACAO
+grande I-LOCALIZACAO
+do I-LOCALIZACAO
+norte I-LOCALIZACAO
+
+negócio O
+com O
+1622 B-QTD_FUNCIONARIOS
+ate O
+3155 B-QTD_FUNCIONARIOS
+operários O
+
+companhia O
+sao B-LOCALIZACAO
+paulo I-LOCALIZACAO
+de O
+energia B-SETOR
+solar I-SETOR
+com O
+287 B-QTD_FUNCIONARIOS
+integrantes O
+
+firma O
+em O
+bahia B-LOCALIZACAO
+de O
+pesca B-SETOR
+com O
+2352 B-QTD_FUNCIONARIOS
+ate O
+6775 B-QTD_FUNCIONARIOS
+membros O
+da O
+equipe O
+
+associação O
+na O
+categoria O
+gastronomia B-SETOR
+em O
+amapa B-LOCALIZACAO
+com O
+2381 B-QTD_FUNCIONARIOS
+empregados O
+de O
+envergadura O
+medio B-PORTE
+
+corporação O
+com O
+2363 B-QTD_FUNCIONARIOS
+ate O
+4856 B-QTD_FUNCIONARIOS
+trabalhadores O
+em O
+ceara B-LOCALIZACAO
+de O
+engenharia B-SETOR
+ambiental I-SETOR
+
+organização O
+com O
+3302 B-QTD_FUNCIONARIOS
+ate O
+6496 B-QTD_FUNCIONARIOS
+profissionais O
+em O
+goias B-LOCALIZACAO
+
+conglomerado O
+de O
+estatura O
+micro B-PORTE
+justica B-SETOR
+com O
+1493 B-QTD_FUNCIONARIOS
+ate O
+3098 B-QTD_FUNCIONARIOS
+corpo O
+funcional O
+
+organização O
+na O
+área O
+transporte B-SETOR
+maritimo I-SETOR
+com O
+160 B-QTD_FUNCIONARIOS
+ate O
+4873 B-QTD_FUNCIONARIOS
+profissionais O
+
+cooperativa O
+com O
+6995 B-QTD_FUNCIONARIOS
+assistentes O
+de O
+tipo O
+pequeno B-PORTE
+
+emprendimento O
+com O
+5237 B-QTD_FUNCIONARIOS
+de O
+corpo O
+funcional O
+
+consultoria O
+em O
+pernambuco B-LOCALIZACAO
+com O
+470 B-QTD_FUNCIONARIOS
+prestadores O
+
+companhia O
+com O
+2020 B-QTD_FUNCIONARIOS
+servidores O
+de O
+potência O
+grande B-PORTE
+distrito B-LOCALIZACAO
+federal I-LOCALIZACAO
+industria B-SETOR
+farmaceutica I-SETOR
+
+holding O
+medio B-PORTE
+com O
+3178 B-QTD_FUNCIONARIOS
+ate O
+3621 B-QTD_FUNCIONARIOS
+de O
+corpo O
+funcional O
+
+estabelecimento O
+em O
+rondonia B-LOCALIZACAO
+de O
+composição O
+grande B-PORTE
+com O
+3806 B-QTD_FUNCIONARIOS
+ate O
+9190 B-QTD_FUNCIONARIOS
+assistentes O
+
+agência O
+com O
+1356 B-QTD_FUNCIONARIOS
+trabalhadores O
+de O
+classe O
+grande B-PORTE
+sao B-LOCALIZACAO
+paulo I-LOCALIZACAO
+
+sociedade O
+no O
+ramo O
+publicidade B-SETOR
+medio B-PORTE
+com O
+5881 B-QTD_FUNCIONARIOS
+colaboradores O
+
+startup O
+pequeno B-PORTE
+com O
+1296 B-QTD_FUNCIONARIOS
+ate O
+5420 B-QTD_FUNCIONARIOS
+empregados O
+de O
+servicos B-SETOR
+gerais I-SETOR
+
+agência O
+de O
+porte O
+medio B-PORTE
+na O
+unidade O
+manufatura B-SETOR
+com O
+4420 B-QTD_FUNCIONARIOS
+ate O
+9416 B-QTD_FUNCIONARIOS
+colaboradores O
+
+entidade O
+com O
+3870 B-QTD_FUNCIONARIOS
+ate O
+5909 B-QTD_FUNCIONARIOS
+integrantes O
+sao B-LOCALIZACAO
+paulo I-LOCALIZACAO
+
+grupo O
+empresarial O
+mato B-LOCALIZACAO
+grosso I-LOCALIZACAO
+na O
+verticalidade O
+robotica B-SETOR
+de O
+perfil O
+medio B-PORTE
+com O
+9352 B-QTD_FUNCIONARIOS
+quadro O
+pessoas O
+
+indústria O
+de O
+startups B-SETOR
+medio B-PORTE
+em O
+minas B-LOCALIZACAO
+gerais I-LOCALIZACAO
+com O
+2706 B-QTD_FUNCIONARIOS
+ate O
+3429 B-QTD_FUNCIONARIOS
+membros O
+da O
+equipe O
+
+grupo O
+empresarial O
+em O
+amazonas B-LOCALIZACAO
+com O
+6006 B-QTD_FUNCIONARIOS
+auxiliares O
+
+grupo O
+empresarial O
+com O
+4555 B-QTD_FUNCIONARIOS
+operários O
+
+startup O
+pequeno B-PORTE
+em O
+mato B-LOCALIZACAO
+grosso I-LOCALIZACAO
+do I-LOCALIZACAO
+sul I-LOCALIZACAO
+com O
+459 B-QTD_FUNCIONARIOS
+ate O
+3936 B-QTD_FUNCIONARIOS
+trabalhadores O
+
+companhia O
+com O
+965 B-QTD_FUNCIONARIOS
+ate O
+9646 B-QTD_FUNCIONARIOS
+de O
+quadro O
+pessoas O
+núcleo O
+teatro B-SETOR
+
+cooperativa O
+sergipe B-LOCALIZACAO
+com O
+9623 B-QTD_FUNCIONARIOS
+de O
+mão O
+obra O
+na O
+verticalidade O
+energia B-SETOR
+solar I-SETOR
+
+conglomerado O
+com O
+1005 B-QTD_FUNCIONARIOS
+trabalhadores O
+paraiba B-LOCALIZACAO
+no O
+pólo O
+bancos B-SETOR
+
+conglomerado O
+com O
+200 B-QTD_FUNCIONARIOS
+ate O
+3526 B-QTD_FUNCIONARIOS
+operários O
+pequeno B-PORTE
+mato B-LOCALIZACAO
+grosso I-LOCALIZACAO
+
+consultoria O
+na O
+atividade O
+educacao B-SETOR
+infantil I-SETOR
+com O
+2863 B-QTD_FUNCIONARIOS
+ate O
+3237 B-QTD_FUNCIONARIOS
+prestadores O
+
+negócio O
+com O
+6283 B-QTD_FUNCIONARIOS
+auxiliares O
+em O
+distrito B-LOCALIZACAO
+federal I-LOCALIZACAO
+
+sociedade O
+grande B-PORTE
+em O
+rio B-LOCALIZACAO
+de I-LOCALIZACAO
+janeiro I-LOCALIZACAO
+com O
+1101 B-QTD_FUNCIONARIOS
+ate O
+5518 B-QTD_FUNCIONARIOS
+staff O
+
+organização O
+de O
+publicidade B-SETOR
+em O
+acre B-LOCALIZACAO
+com O
+4005 B-QTD_FUNCIONARIOS
+ate O
+4714 B-QTD_FUNCIONARIOS
+prestadores O
+
+organização O
+em O
+maranhao B-LOCALIZACAO
+de O
+potência O
+micro B-PORTE
+com O
+1220 B-QTD_FUNCIONARIOS
+mão O
+obra O
+
+conglomerado O
+com O
+1898 B-QTD_FUNCIONARIOS
+ate O
+7587 B-QTD_FUNCIONARIOS
+de O
+mão O
+obra O
+
+companhia O
+mato B-LOCALIZACAO
+grosso I-LOCALIZACAO
+do I-LOCALIZACAO
+sul I-LOCALIZACAO
+com O
+5414 B-QTD_FUNCIONARIOS
+de O
+quadro O
+pessoas O
+
+entidade O
+com O
+804 B-QTD_FUNCIONARIOS
+de O
+mão O
+obra O
+
+negócio O
+com O
+6340 B-QTD_FUNCIONARIOS
+de O
+corpo O
+funcional O
+tipo O
+medio B-PORTE
+amazonas B-LOCALIZACAO
+defesa B-SETOR
+nacional I-SETOR
+
+holding O
+com O
+2598 B-QTD_FUNCIONARIOS
+ate O
+3568 B-QTD_FUNCIONARIOS
+prestadores O
+micro B-PORTE
+
+firma O
+com O
+1036 B-QTD_FUNCIONARIOS
+ate O
+1428 B-QTD_FUNCIONARIOS
+colaboradores O
+em O
+espirito B-LOCALIZACAO
+santo I-LOCALIZACAO
+medio B-PORTE
+
+entidade O
+micro B-PORTE
+com O
+1507 B-QTD_FUNCIONARIOS
+de O
+mão O
+obra O
+
+associação O
+com O
+8819 B-QTD_FUNCIONARIOS
+empregados O
+
+estabelecimento O
+em O
+pernambuco B-LOCALIZACAO
+com O
+525 B-QTD_FUNCIONARIOS
+auxiliares O
+de O
+alimentacao B-SETOR
+
+empresa O
+com O
+3542 B-QTD_FUNCIONARIOS
+ate O
+8370 B-QTD_FUNCIONARIOS
+integrantes O
+
+agência O
+de O
+classe O
+medio B-PORTE
+com O
+2712 B-QTD_FUNCIONARIOS
+ate O
+7208 B-QTD_FUNCIONARIOS
+empregados O
+
+entidade O
+com O
+3163 B-QTD_FUNCIONARIOS
+ate O
+3423 B-QTD_FUNCIONARIOS
+membros O
+da O
+equipe O
+de O
+escala O
+pequeno B-PORTE
+
+sociedade O
+de O
+medicina B-SETOR
+com O
+6676 B-QTD_FUNCIONARIOS
+trabalhadores O
+
+firma O
+em O
+sergipe B-LOCALIZACAO
+com O
+3747 B-QTD_FUNCIONARIOS
+de O
+corpo O
+funcional O
+no O
+segmento O
+saude B-SETOR
+
+emprendimento O
+com O
+3946 B-QTD_FUNCIONARIOS
+integrantes O
+em O
+mato B-LOCALIZACAO
+grosso I-LOCALIZACAO
+do I-LOCALIZACAO
+sul I-LOCALIZACAO
+
+cooperativa O
+com O
+4251 B-QTD_FUNCIONARIOS
+ate O
+4931 B-QTD_FUNCIONARIOS
+auxiliares O
+pequeno B-PORTE
+
+empresa O
+de O
+seguros B-SETOR
+com O
+3394 B-QTD_FUNCIONARIOS
+ate O
+8606 B-QTD_FUNCIONARIOS
+quadro O
+pessoas O
+
+consultoria O
+na O
+linha O
+de O
+negócio O
+empreendedorismo B-SETOR
+potência O
+medio B-PORTE
+com O
+3471 B-QTD_FUNCIONARIOS
+ate O
+8926 B-QTD_FUNCIONARIOS
+staff O
+
+grupo O
+empresarial O
+rio B-LOCALIZACAO
+de I-LOCALIZACAO
+janeiro I-LOCALIZACAO
+com O
+9139 B-QTD_FUNCIONARIOS
+staff O
+grande B-PORTE
+
+companhia O
+com O
+4127 B-QTD_FUNCIONARIOS
+ate O
+7456 B-QTD_FUNCIONARIOS
+membros O
+da O
+equipe O
+de O
+estatura O
+grande B-PORTE
+policia B-SETOR
+tocantins B-LOCALIZACAO
+
+indústria O
+medio B-PORTE
+de O
+energia B-SETOR
+com O
+3776 B-QTD_FUNCIONARIOS
+mão O
+obra O
+
+negócio O
+na O
+zona O
+servico B-SETOR
+social I-SETOR
+com O
+4699 B-QTD_FUNCIONARIOS
+ate O
+4842 B-QTD_FUNCIONARIOS
+pessoas O
+
+companhia O
+com O
+8558 B-QTD_FUNCIONARIOS
+profissionais O
+na O
+linha O
+de O
+negócio O
+veterinaria B-SETOR
+
+companhia O
+no O
+ramo O
+streaming B-SETOR
+com O
+3729 B-QTD_FUNCIONARIOS
+ate O
+8404 B-QTD_FUNCIONARIOS
+colaboradores O
+
+instituição O
+com O
+8958 B-QTD_FUNCIONARIOS
+empregados O
+no O
+setor O
+e-commerce B-SETOR
+em O
+para B-LOCALIZACAO
+
+agência O
+em O
+mato B-LOCALIZACAO
+grosso I-LOCALIZACAO
+de O
+geociencias B-SETOR
+com O
+5170 B-QTD_FUNCIONARIOS
+profissionais O
+
+negócio O
+de O
+volume O
+medio B-PORTE
+com O
+1936 B-QTD_FUNCIONARIOS
+ate O
+9386 B-QTD_FUNCIONARIOS
+mão O
+obra O
+
+estabelecimento O
+com O
+3569 B-QTD_FUNCIONARIOS
+funcionarios O
+de O
+consultoria B-SETOR
+medio B-PORTE
+
+estabelecimento O
+de I-SETOR
+gestao B-SETOR
+residuos I-SETOR
+com O
+1271 B-QTD_FUNCIONARIOS
+ate O
+2711 B-QTD_FUNCIONARIOS
+assistentes O
+
+corporação O
+com O
+7612 B-QTD_FUNCIONARIOS
+de O
+mão O
+obra O
+
+negócio O
+com O
+5414 B-QTD_FUNCIONARIOS
+de O
+mão O
+obra O
+composição O
+grande B-PORTE
+
+firma O
+em O
+roraima B-LOCALIZACAO
+com O
+3419 B-QTD_FUNCIONARIOS
+ate O
+5900 B-QTD_FUNCIONARIOS
+servidores O
+
+agência O
+em O
+mato B-LOCALIZACAO
+grosso I-LOCALIZACAO
+do I-LOCALIZACAO
+sul I-LOCALIZACAO
+de O
+porte O
+grande B-PORTE
+com O
+2556 B-QTD_FUNCIONARIOS
+funcionarios O
+
+firma O
+com O
+núcleo O
+gastronomia B-SETOR
+2496 B-QTD_FUNCIONARIOS
+integrantes O
+de O
+vulto O
+pequeno B-PORTE
+em O
+bahia B-LOCALIZACAO
+
+emprendimento O
+de O
+streaming B-SETOR
+com O
+7496 B-QTD_FUNCIONARIOS
+colaboradores O
+estatura O
+medio B-PORTE
+
+emprendimento O
+com O
+892 B-QTD_FUNCIONARIOS
+ate O
+6945 B-QTD_FUNCIONARIOS
+assistentes O
+para B-LOCALIZACAO
+
+negócio O
+com O
+1414 B-QTD_FUNCIONARIOS
+ate O
+4106 B-QTD_FUNCIONARIOS
+trabalhadores O
+grande B-PORTE
+
+emprendimento O
+no O
+campo O
+pecuaria B-SETOR
+com O
+3513 B-QTD_FUNCIONARIOS
+ate O
+7539 B-QTD_FUNCIONARIOS
+assistentes O
+parana B-LOCALIZACAO
+
+sociedade O
+de O
+defesa B-SETOR
+nacional I-SETOR
+com O
+8820 B-QTD_FUNCIONARIOS
+funcionarios O
+em O
+sao B-LOCALIZACAO
+paulo I-LOCALIZACAO
+
+companhia O
+no O
+ramo O
+psicologia B-SETOR
+com O
+1347 B-QTD_FUNCIONARIOS
+ate O
+9020 B-QTD_FUNCIONARIOS
+funcionarios O
+em O
+para B-LOCALIZACAO
+
+negócio O
+na O
+categoria O
+psicologia B-SETOR
+de O
+classe O
+grande B-PORTE
+com O
+3709 B-QTD_FUNCIONARIOS
+membros O
+da O
+equipe O
+
+firma O
+medio B-PORTE
+com O
+8961 B-QTD_FUNCIONARIOS
+integrantes O
+
+cooperativa O
+em O
+sergipe B-LOCALIZACAO
+com O
+2212 B-QTD_FUNCIONARIOS
+ate O
+9879 B-QTD_FUNCIONARIOS
+prestadores O
+na O
+área O
+ecologia B-SETOR
+de O
+tamanho O
+grande B-PORTE
+
+corporação O
+na O
+área O
+deficiencia B-SETOR
+e I-SETOR
+inclusao I-SETOR
+com O
+4778 B-QTD_FUNCIONARIOS
+ate O
+8978 B-QTD_FUNCIONARIOS
+de O
+mão O
+obra O
+amazonas B-LOCALIZACAO
+
+emprendimento O
+com O
+3141 B-QTD_FUNCIONARIOS
+ate O
+6627 B-QTD_FUNCIONARIOS
+colaboradores O
+de O
+importância O
+pequeno B-PORTE
+ceara B-LOCALIZACAO
+relacoes B-SETOR
+publicas I-SETOR
+
+indústria O
+com O
+2018 B-QTD_FUNCIONARIOS
+ate O
+4414 B-QTD_FUNCIONARIOS
+assistentes O
+micro B-PORTE
+
+estabelecimento O
+com O
+2431 B-QTD_FUNCIONARIOS
+colaboradores O
+
+empresa O
+com O
+1416 B-QTD_FUNCIONARIOS
+ate O
+2038 B-QTD_FUNCIONARIOS
+integrantes O
+na O
+área O
+deficiencia B-SETOR
+e I-SETOR
+inclusao I-SETOR
+
+entidade O
+na O
+atividade O
+pecuaria B-SETOR
+roraima B-LOCALIZACAO
+com O
+310 B-QTD_FUNCIONARIOS
+ate O
+4593 B-QTD_FUNCIONARIOS
+assistentes O
+medio B-PORTE
+
+consultoria O
+micro B-PORTE
+com O
+1840 B-QTD_FUNCIONARIOS
+profissionais O
+de I-SETOR
+gestao B-SETOR
+residuos I-SETOR
+
+firma O
+sergipe B-LOCALIZACAO
+com O
+4945 B-QTD_FUNCIONARIOS
+ate O
+5233 B-QTD_FUNCIONARIOS
+trabalhadores O
+
+organização O
+com O
+2720 B-QTD_FUNCIONARIOS
+integrantes O
+
+conglomerado O
+com O
+4295 B-QTD_FUNCIONARIOS
+ate O
+6008 B-QTD_FUNCIONARIOS
+auxiliares O
+piaui B-LOCALIZACAO
+
+organização O
+com O
+4412 B-QTD_FUNCIONARIOS
+ate O
+6091 B-QTD_FUNCIONARIOS
+funcionarios O
+de O
+industria B-SETOR
+farmaceutica I-SETOR
+rio B-LOCALIZACAO
+grande I-LOCALIZACAO
+do I-LOCALIZACAO
+norte I-LOCALIZACAO
+
+organização O
+com O
+7414 B-QTD_FUNCIONARIOS
+trabalhadores O
+pequeno B-PORTE
+na O
+área O
+teatro B-SETOR
+
+associação O
+com O
+2687 B-QTD_FUNCIONARIOS
+ate O
+7319 B-QTD_FUNCIONARIOS
+pessoas O
+em O
+minas B-LOCALIZACAO
+gerais I-LOCALIZACAO
+na O
+área O
+odontologia B-SETOR
+
+startup O
+com O
+5791 B-QTD_FUNCIONARIOS
+membros O
+da O
+equipe O
+no O
+campo O
+industria B-SETOR
+de I-SETOR
+alimentos I-SETOR
+
+entidade O
+com O
+204 B-QTD_FUNCIONARIOS
+ate O
+936 B-QTD_FUNCIONARIOS
+membros O
+da O
+equipe O
+de O
+veterinaria B-SETOR
+
+holding O
+com O
+8586 B-QTD_FUNCIONARIOS
+auxiliares O
+acre B-LOCALIZACAO
+
+empresa O
+com O
+3626 B-QTD_FUNCIONARIOS
+ate O
+6476 B-QTD_FUNCIONARIOS
+empregados O
+
+associação O
+de O
+ensino B-SETOR
+superior I-SETOR
+com O
+9946 B-QTD_FUNCIONARIOS
+auxiliares O
+em O
+distrito B-LOCALIZACAO
+federal I-LOCALIZACAO
+
+entidade O
+com O
+895 B-QTD_FUNCIONARIOS
+ate O
+4393 B-QTD_FUNCIONARIOS
+operários O
+de O
+empreendedorismo B-SETOR
+pernambuco B-LOCALIZACAO
+
+conglomerado O
+com O
+1968 B-QTD_FUNCIONARIOS
+integrantes O
+na O
+linha O
+de O
+negócio O
+eletronica B-SETOR
+
+consultoria O
+com O
+8526 B-QTD_FUNCIONARIOS
+prestadores O
+de O
+vulto O
+medio B-PORTE
+
+startup O
+de O
+proporção O
+medio B-PORTE
+com O
+2952 B-QTD_FUNCIONARIOS
+ate O
+9839 B-QTD_FUNCIONARIOS
+profissionais O
+para B-LOCALIZACAO
+
+consultoria O
+em O
+pernambuco B-LOCALIZACAO
+de I-SETOR
+engenharia B-SETOR
+trafego I-SETOR
+com O
+2121 B-QTD_FUNCIONARIOS
+ate O
+3419 B-QTD_FUNCIONARIOS
+assistentes O
+
+cooperativa O
+no O
+ramo O
+e-commerce B-SETOR
+com O
+7195 B-QTD_FUNCIONARIOS
+de O
+quadro O
+pessoas O
+
+consultoria O
+maranhao B-LOCALIZACAO
+com O
+6614 B-QTD_FUNCIONARIOS
+integrantes O
+na O
+atividade O
+treinamento B-SETOR
+profissional I-SETOR
+
+entidade O
+com O
+2953 B-QTD_FUNCIONARIOS
+ate O
+7383 B-QTD_FUNCIONARIOS
+pessoas O
+
+entidade O
+com O
+7149 B-QTD_FUNCIONARIOS
+colaboradores O
+de O
+tipo O
+micro B-PORTE
+em O
+parana B-LOCALIZACAO
+
+consultoria O
+de O
+comercio B-SETOR
+com O
+6827 B-QTD_FUNCIONARIOS
+mão O
+obra O
+
+emprendimento O
+com O
+3077 B-QTD_FUNCIONARIOS
+ate O
+4548 B-QTD_FUNCIONARIOS
+empregados O
+no O
+segmento O
+industria B-SETOR
+automotiva I-SETOR
+pernambuco B-LOCALIZACAO
+
+companhia O
+com O
+4960 B-QTD_FUNCIONARIOS
+ate O
+8742 B-QTD_FUNCIONARIOS
+trabalhadores O
+pernambuco B-LOCALIZACAO
+na O
+categoria O
+educacao B-SETOR
+
+corporação O
+com O
+4225 B-QTD_FUNCIONARIOS
+ate O
+8739 B-QTD_FUNCIONARIOS
+empregados O
+micro B-PORTE
+espirito B-LOCALIZACAO
+santo I-LOCALIZACAO
+
+corporação O
+pequeno B-PORTE
+em O
+espirito B-LOCALIZACAO
+santo I-LOCALIZACAO
+com O
+2341 B-QTD_FUNCIONARIOS
+colaboradores O
+
+indústria O
+com O
+6576 B-QTD_FUNCIONARIOS
+colaboradores O
+na O
+atividade O
+tecnologia B-SETOR
+assistiva I-SETOR
+
+negócio O
+com O
+1177 B-QTD_FUNCIONARIOS
+ate O
+9165 B-QTD_FUNCIONARIOS
+assistentes O
+amapa B-LOCALIZACAO
+
+agência O
+com O
+a O
+especialidade O
+bancos B-SETOR
+1877 B-QTD_FUNCIONARIOS
+de O
+quadro O
+pessoas O
+em O
+goias B-LOCALIZACAO
+
+instituição O
+de O
+estatura O
+micro B-PORTE
+com O
+núcleo O
+meteorologia B-SETOR
+5350 B-QTD_FUNCIONARIOS
+pessoas O
+
+companhia O
+no O
+ramo O
+meio B-SETOR
+ambiente I-SETOR
+com O
+2733 B-QTD_FUNCIONARIOS
+ate O
+6749 B-QTD_FUNCIONARIOS
+empregados O
+
+agência O
+com O
+309 B-QTD_FUNCIONARIOS
+colaboradores O
+de O
+tamanho O
+grande B-PORTE
+
+emprendimento O
+com O
+8866 B-QTD_FUNCIONARIOS
+de O
+corpo O
+funcional O
+no O
+departamento O
+bancos B-SETOR
+
+empresa O
+com O
+6930 B-QTD_FUNCIONARIOS
+prestadores O
+de O
+vulto O
+micro B-PORTE
+
+entidade O
+com O
+9731 B-QTD_FUNCIONARIOS
+pessoas O
+de O
+servicos B-SETOR
+tecnicos I-SETOR
+
+cooperativa O
+micro B-PORTE
+com O
+6190 B-QTD_FUNCIONARIOS
+auxiliares O
+
+indústria O
+com O
+2850 B-QTD_FUNCIONARIOS
+auxiliares O
+
+cooperativa O
+com O
+9512 B-QTD_FUNCIONARIOS
+membros O
+da O
+equipe O
+
+conglomerado O
+rio B-LOCALIZACAO
+grande I-LOCALIZACAO
+do I-LOCALIZACAO
+sul I-LOCALIZACAO
+medio B-PORTE
+com O
+3668 B-QTD_FUNCIONARIOS
+ate O
+6048 B-QTD_FUNCIONARIOS
+auxiliares O
+
+agência O
+medio B-PORTE
+com O
+7826 B-QTD_FUNCIONARIOS
+integrantes O
+de O
+jornalismo B-SETOR
+
+empresa O
+de O
+escala O
+micro B-PORTE
+com O
+4913 B-QTD_FUNCIONARIOS
+ate O
+6639 B-QTD_FUNCIONARIOS
+membros O
+da O
+equipe O
+consultoria B-SETOR
+
+cooperativa O
+com O
+3030 B-QTD_FUNCIONARIOS
+ate O
+9276 B-QTD_FUNCIONARIOS
+de O
+staff O
+escala O
+grande B-PORTE
+
+instituição O
+pequeno B-PORTE
+com O
+1834 B-QTD_FUNCIONARIOS
+ate O
+9706 B-QTD_FUNCIONARIOS
+profissionais O
+
+conglomerado O
+em O
+amazonas B-LOCALIZACAO
+com O
+4870 B-QTD_FUNCIONARIOS
+ate O
+7504 B-QTD_FUNCIONARIOS
+assistentes O
+
+startup O
+com O
+6461 B-QTD_FUNCIONARIOS
+assistentes O
+amapa B-LOCALIZACAO
+
+empresa O
+de O
+nanotecnologia B-SETOR
+com O
+2320 B-QTD_FUNCIONARIOS
+ate O
+4665 B-QTD_FUNCIONARIOS
+auxiliares O
+
+startup O
+acre B-LOCALIZACAO
+com O
+1023 B-QTD_FUNCIONARIOS
+profissionais O
+de O
+capacidade O
+medio B-PORTE
+
+companhia O
+de O
+classe O
+grande B-PORTE
+mobilidade B-SETOR
+urbana I-SETOR
+com O
+1596 B-QTD_FUNCIONARIOS
+colaboradores O
+
+grupo O
+empresarial O
+com O
+3257 B-QTD_FUNCIONARIOS
+ate O
+4703 B-QTD_FUNCIONARIOS
+funcionarios O
+de O
+categoria O
+pequeno B-PORTE
+
+holding O
+na O
+divisão O
+gestao B-SETOR
+de I-SETOR
+residuos I-SETOR
+com O
+7468 B-QTD_FUNCIONARIOS
+trabalhadores O
+em O
+minas B-LOCALIZACAO
+gerais I-LOCALIZACAO
+
+organização O
+com O
+1093 B-QTD_FUNCIONARIOS
+ate O
+8266 B-QTD_FUNCIONARIOS
+trabalhadores O
+mato B-LOCALIZACAO
+grosso I-LOCALIZACAO
+do I-LOCALIZACAO
+sul I-LOCALIZACAO
+
+empresa O
+micro B-PORTE
+em O
+santa B-LOCALIZACAO
+catarina I-LOCALIZACAO
+com O
+2468 B-QTD_FUNCIONARIOS
+ate O
+9688 B-QTD_FUNCIONARIOS
+membros O
+da O
+equipe O
+
+conglomerado O
+com O
+7653 B-QTD_FUNCIONARIOS
+de O
+mão O
+obra O
+em O
+parana B-LOCALIZACAO
+medio B-PORTE
+
+companhia O
+com O
+2587 B-QTD_FUNCIONARIOS
+ate O
+3565 B-QTD_FUNCIONARIOS
+colaboradores O
+
+entidade O
+com O
+a O
+especialidade O
+servicos B-SETOR
+tecnicos I-SETOR
+distrito B-LOCALIZACAO
+federal I-LOCALIZACAO
+medio B-PORTE
+2424 B-QTD_FUNCIONARIOS
+ate O
+8658 B-QTD_FUNCIONARIOS
+assistentes O
+
+holding O
+de O
+potência O
+medio B-PORTE
+moda B-SETOR
+com O
+4348 B-QTD_FUNCIONARIOS
+pessoas O
+
+associação O
+rondonia B-LOCALIZACAO
+com O
+4624 B-QTD_FUNCIONARIOS
+ate O
+5733 B-QTD_FUNCIONARIOS
+operários O
+na O
+área O
+musica B-SETOR
+micro B-PORTE
+
+organização O
+de O
+estrutura O
+medio B-PORTE
+com O
+118 B-QTD_FUNCIONARIOS
+ate O
+6596 B-QTD_FUNCIONARIOS
+auxiliares O
+rondonia B-LOCALIZACAO
+
+estabelecimento O
+de O
+perfil O
+medio B-PORTE
+com O
+220 B-QTD_FUNCIONARIOS
+ate O
+4609 B-QTD_FUNCIONARIOS
+auxiliares O
+
+sociedade O
+com O
+5717 B-QTD_FUNCIONARIOS
+de O
+corpo O
+funcional O
+em O
+piaui B-LOCALIZACAO
+
+empresa O
+ceara B-LOCALIZACAO
+com O
+654 B-QTD_FUNCIONARIOS
+ate O
+7609 B-QTD_FUNCIONARIOS
+assistentes O
+
+emprendimento O
+com O
+1385 B-QTD_FUNCIONARIOS
+ate O
+7740 B-QTD_FUNCIONARIOS
+empregados O
+de O
+composição O
+micro B-PORTE
+na O
+atividade O
+hotelaria B-SETOR
+em O
+goias B-LOCALIZACAO
+
+companhia O
+rio B-LOCALIZACAO
+de I-LOCALIZACAO
+janeiro I-LOCALIZACAO
+porte O
+micro B-PORTE
+com O
+644 B-QTD_FUNCIONARIOS
+ate O
+9896 B-QTD_FUNCIONARIOS
+mão O
+obra O
+
+agência O
+em O
+rio B-LOCALIZACAO
+grande I-LOCALIZACAO
+do I-LOCALIZACAO
+sul I-LOCALIZACAO
+na O
+linha O
+de O
+negócio O
+transporte B-SETOR
+ferroviario I-SETOR
+com O
+7309 B-QTD_FUNCIONARIOS
+staff O
+
+estabelecimento O
+com O
+1933 B-QTD_FUNCIONARIOS
+ate O
+3916 B-QTD_FUNCIONARIOS
+de O
+staff O
+envergadura O
+grande B-PORTE
+
+indústria O
+com O
+3366 B-QTD_FUNCIONARIOS
+ate O
+6573 B-QTD_FUNCIONARIOS
+servidores O
+em O
+sao B-LOCALIZACAO
+paulo I-LOCALIZACAO
+de I-SETOR
+classe O
+medio B-PORTE
+a O
+especialidade O
+industria B-SETOR
+alimentos I-SETOR
+
+emprendimento O
+micro B-PORTE
+na O
+atividade O
+ensino B-SETOR
+fundamental I-SETOR
+rio B-LOCALIZACAO
+grande I-LOCALIZACAO
+do I-LOCALIZACAO
+sul I-LOCALIZACAO
+com O
+4234 B-QTD_FUNCIONARIOS
+ate O
+8916 B-QTD_FUNCIONARIOS
+trabalhadores O
+
+grupo O
+empresarial O
+em O
+sergipe B-LOCALIZACAO
+grande B-PORTE
+no O
+setor O
+geociencias B-SETOR
+com O
+8643 B-QTD_FUNCIONARIOS
+colaboradores O
+
+startup O
+com O
+1811 B-QTD_FUNCIONARIOS
+empregados O
+de O
+categoria O
+pequeno B-PORTE
+
+entidade O
+com O
+3489 B-QTD_FUNCIONARIOS
+ate O
+7359 B-QTD_FUNCIONARIOS
+membros O
+da O
+equipe O
+
+grupo O
+empresarial O
+com O
+3683 B-QTD_FUNCIONARIOS
+ate O
+5737 B-QTD_FUNCIONARIOS
+de O
+corpo O
+funcional O
+tecnologia B-SETOR
+assistiva I-SETOR
+
+estabelecimento O
+com O
+1343 B-QTD_FUNCIONARIOS
+pessoas O
+
+organização O
+pequeno B-PORTE
+de O
+recursos B-SETOR
+humanos I-SETOR
+com O
+8180 B-QTD_FUNCIONARIOS
+staff O
+
+corporação O
+na O
+linha O
+de O
+negócio O
+industria B-SETOR
+automotiva I-SETOR
+mato B-LOCALIZACAO
+grosso I-LOCALIZACAO
+com O
+2723 B-QTD_FUNCIONARIOS
+auxiliares O
+
+consultoria O
+acre B-LOCALIZACAO
+com O
+6145 B-QTD_FUNCIONARIOS
+integrantes O
+
+negócio O
+com O
+1636 B-QTD_FUNCIONARIOS
+ate O
+7094 B-QTD_FUNCIONARIOS
+profissionais O
+em O
+pernambuco B-LOCALIZACAO
+de O
+educacao B-SETOR
+infantil I-SETOR
+
+emprendimento O
+em O
+rio B-LOCALIZACAO
+grande I-LOCALIZACAO
+do I-LOCALIZACAO
+sul I-LOCALIZACAO
+na O
+categoria O
+biotecnologia B-SETOR
+com O
+785 B-QTD_FUNCIONARIOS
+ate O
+6967 B-QTD_FUNCIONARIOS
+de O
+quadro O
+pessoas O
+tamanho O
+medio B-PORTE
+
+startup O
+com O
+2264 B-QTD_FUNCIONARIOS
+ate O
+6286 B-QTD_FUNCIONARIOS
+de O
+staff O
+
+organização O
+com O
+1340 B-QTD_FUNCIONARIOS
+ate O
+4840 B-QTD_FUNCIONARIOS
+prestadores O
+
+organização O
+em O
+pernambuco B-LOCALIZACAO
+no O
+pólo O
+atacado B-SETOR
+com O
+767 B-QTD_FUNCIONARIOS
+ate O
+2373 B-QTD_FUNCIONARIOS
+trabalhadores O
+
+sociedade O
+em O
+rondonia B-LOCALIZACAO
+com O
+6264 B-QTD_FUNCIONARIOS
+integrantes O
+
+cooperativa O
+com O
+1376 B-QTD_FUNCIONARIOS
+ate O
+3641 B-QTD_FUNCIONARIOS
+profissionais O
+santa B-LOCALIZACAO
+catarina I-LOCALIZACAO
+
+sociedade O
+ceara B-LOCALIZACAO
+na O
+linha O
+de I-SETOR
+negócio O
+engenharia B-SETOR
+trafego I-SETOR
+com O
+495 B-QTD_FUNCIONARIOS
+profissionais O
+
+holding O
+pequeno B-PORTE
+com O
+2798 B-QTD_FUNCIONARIOS
+ate O
+8849 B-QTD_FUNCIONARIOS
+de O
+staff O
+
+empresa O
+acre B-LOCALIZACAO
+com O
+2092 B-QTD_FUNCIONARIOS
+ate O
+4353 B-QTD_FUNCIONARIOS
+de O
+corpo O
+funcional O
+
+firma O
+com O
+2255 B-QTD_FUNCIONARIOS
+de O
+corpo O
+funcional O
+rio B-LOCALIZACAO
+grande I-LOCALIZACAO
+do I-LOCALIZACAO
+sul I-LOCALIZACAO
+
+cooperativa O
+de O
+estatura O
+medio B-PORTE
+com O
+7183 B-QTD_FUNCIONARIOS
+membros O
+da O
+equipe O
+
+grupo O
+empresarial O
+na O
+verticalidade O
+defesa B-SETOR
+nacional I-SETOR
+de O
+tipo O
+grande B-PORTE
+com O
+3833 B-QTD_FUNCIONARIOS
+ate O
+4522 B-QTD_FUNCIONARIOS
+mão O
+obra O
+goias B-LOCALIZACAO
+
+holding O
+com O
+4873 B-QTD_FUNCIONARIOS
+ate O
+6872 B-QTD_FUNCIONARIOS
+funcionarios O
+de O
+classe O
+micro B-PORTE
+
+estabelecimento O
+de O
+teatro B-SETOR
+com O
+170 B-QTD_FUNCIONARIOS
+ate O
+5841 B-QTD_FUNCIONARIOS
+staff O
+
+organização O
+em O
+sergipe B-LOCALIZACAO
+com O
+2870 B-QTD_FUNCIONARIOS
+ate O
+8326 B-QTD_FUNCIONARIOS
+colaboradores O
+a O
+especialidade O
+seguranca B-SETOR
+publica I-SETOR
+
+corporação O
+com O
+3495 B-QTD_FUNCIONARIOS
+funcionarios O
+
+empresa O
+com O
+200 B-QTD_FUNCIONARIOS
+auxiliares O
+
+empresa O
+em O
+sergipe B-LOCALIZACAO
+com O
+2240 B-QTD_FUNCIONARIOS
+ate O
+2247 B-QTD_FUNCIONARIOS
+operários O
+
+sociedade O
+com O
+1784 B-QTD_FUNCIONARIOS
+ate O
+6967 B-QTD_FUNCIONARIOS
+trabalhadores O
+
+empresa O
+com O
+1667 B-QTD_FUNCIONARIOS
+ate O
+5628 B-QTD_FUNCIONARIOS
+trabalhadores O
+medio B-PORTE
+de O
+turismo B-SETOR
+
+associação O
+com O
+2142 B-QTD_FUNCIONARIOS
+ate O
+9212 B-QTD_FUNCIONARIOS
+profissionais O
+de O
+envergadura O
+micro B-PORTE
+em O
+rio B-LOCALIZACAO
+grande I-LOCALIZACAO
+do I-LOCALIZACAO
+norte I-LOCALIZACAO
+
+holding O
+com O
+1548 B-QTD_FUNCIONARIOS
+servidores O
+de O
+economia B-SETOR
+circular I-SETOR
+paraiba B-LOCALIZACAO
+grande B-PORTE
+
+sociedade O
+de O
+tipo O
+medio B-PORTE
+com O
+3274 B-QTD_FUNCIONARIOS
+quadro O
+pessoas O
+hidreletricas B-SETOR
+
+sociedade O
+de O
+mobilidade B-SETOR
+urbana I-SETOR
+com O
+7285 B-QTD_FUNCIONARIOS
+servidores O
+
+instituição O
+de O
+industria B-SETOR
+naval I-SETOR
+com O
+4053 B-QTD_FUNCIONARIOS
+ate O
+7922 B-QTD_FUNCIONARIOS
+staff O
+
+negócio O
+de I-SETOR
+engenharia B-SETOR
+trafego I-SETOR
+amazonas B-LOCALIZACAO
+com O
+3714 B-QTD_FUNCIONARIOS
+servidores O
+
+organização O
+no O
+setor O
+religiao B-SETOR
+sergipe B-LOCALIZACAO
+com O
+4900 B-QTD_FUNCIONARIOS
+de O
+mão O
+obra O
+
+empresa O
+com O
+4091 B-QTD_FUNCIONARIOS
+ate O
+7973 B-QTD_FUNCIONARIOS
+auxiliares O
+grande B-PORTE
+
+instituição O
+de O
+midia B-SETOR
+com O
+4440 B-QTD_FUNCIONARIOS
+ate O
+8583 B-QTD_FUNCIONARIOS
+membros O
+da O
+equipe O
+importância O
+grande B-PORTE
+em O
+goias B-LOCALIZACAO
+
+companhia O
+com O
+9303 B-QTD_FUNCIONARIOS
+operários O
+
+agência O
+micro B-PORTE
+de O
+varejo B-SETOR
+com O
+1287 B-QTD_FUNCIONARIOS
+ate O
+8727 B-QTD_FUNCIONARIOS
+colaboradores O
+
+conglomerado O
+com O
+3837 B-QTD_FUNCIONARIOS
+ate O
+9490 B-QTD_FUNCIONARIOS
+de O
+corpo O
+funcional O
+
+estabelecimento O
+micro B-PORTE
+com O
+1213 B-QTD_FUNCIONARIOS
+ate O
+3720 B-QTD_FUNCIONARIOS
+de O
+staff O
+para B-LOCALIZACAO
+núcleo O
+artes B-SETOR
+
+grupo O
+empresarial O
+com O
+6202 B-QTD_FUNCIONARIOS
+assistentes O
+de O
+varejo B-SETOR
+em O
+tocantins B-LOCALIZACAO
+
+associação O
+de O
+tipo O
+pequeno B-PORTE
+com O
+6597 B-QTD_FUNCIONARIOS
+profissionais O
+no O
+pólo O
+industria B-SETOR
+naval I-SETOR
+em O
+piaui B-LOCALIZACAO
+
+negócio O
+com O
+4808 B-QTD_FUNCIONARIOS
+ate O
+8889 B-QTD_FUNCIONARIOS
+de O
+quadro O
+pessoas O
+
+companhia O
+com O
+478 B-QTD_FUNCIONARIOS
+ate O
+7458 B-QTD_FUNCIONARIOS
+operários O
+
+holding O
+com O
+4037 B-QTD_FUNCIONARIOS
+ate O
+7920 B-QTD_FUNCIONARIOS
+auxiliares O
+em O
+parana B-LOCALIZACAO
+de O
+estatura O
+grande B-PORTE
+
+companhia O
+com O
+3358 B-QTD_FUNCIONARIOS
+trabalhadores O
+
+corporação O
+com O
+6097 B-QTD_FUNCIONARIOS
+colaboradores O
+de O
+educacao B-SETOR
+
+entidade O
+com O
+2029 B-QTD_FUNCIONARIOS
+de O
+staff O
+
+emprendimento O
+no O
+departamento O
+seguros B-SETOR
+com O
+4557 B-QTD_FUNCIONARIOS
+ate O
+9912 B-QTD_FUNCIONARIOS
+funcionarios O
+
+cooperativa O
+em O
+bahia B-LOCALIZACAO
+com O
+3705 B-QTD_FUNCIONARIOS
+ate O
+9707 B-QTD_FUNCIONARIOS
+operários O
+
+entidade O
+de O
+composição O
+grande B-PORTE
+veterinaria B-SETOR
+com O
+501 B-QTD_FUNCIONARIOS
+ate O
+6707 B-QTD_FUNCIONARIOS
+colaboradores O
+
+negócio O
+com O
+7806 B-QTD_FUNCIONARIOS
+funcionarios O
+de O
+potência O
+grande B-PORTE
+minas B-LOCALIZACAO
+gerais I-LOCALIZACAO
+
+agência O
+de O
+musica B-SETOR
+com O
+8702 B-QTD_FUNCIONARIOS
+auxiliares O
+medio B-PORTE
+
+empresa O
+em O
+espirito B-LOCALIZACAO
+santo I-LOCALIZACAO
+com O
+5725 B-QTD_FUNCIONARIOS
+de O
+mão O
+obra O
+
+cooperativa O
+com O
+7200 B-QTD_FUNCIONARIOS
+de O
+corpo O
+funcional O
+micro B-PORTE
+educacao B-SETOR
+espirito B-LOCALIZACAO
+santo I-LOCALIZACAO
+
+conglomerado O
+com O
+4277 B-QTD_FUNCIONARIOS
+ate O
+7954 B-QTD_FUNCIONARIOS
+integrantes O
+
+indústria O
+em O
+espirito B-LOCALIZACAO
+santo I-LOCALIZACAO
+na O
+divisão O
+consultoria B-SETOR
+com O
+1344 B-QTD_FUNCIONARIOS
+ate O
+4054 B-QTD_FUNCIONARIOS
+trabalhadores O
+
+estabelecimento O
+com O
+5741 B-QTD_FUNCIONARIOS
+profissionais O
+
+indústria O
+pequeno B-PORTE
+com O
+3670 B-QTD_FUNCIONARIOS
+ate O
+5279 B-QTD_FUNCIONARIOS
+membros O
+da O
+equipe O
+
+holding O
+de O
+composição O
+pequeno B-PORTE
+com O
+9427 B-QTD_FUNCIONARIOS
+trabalhadores O
+em O
+mato B-LOCALIZACAO
+grosso I-LOCALIZACAO
+
+startup O
+de O
+proporção O
+grande B-PORTE
+com O
+8496 B-QTD_FUNCIONARIOS
+quadro O
+pessoas O
+no O
+pólo O
+pecuaria B-SETOR
+
+holding O
+piaui B-LOCALIZACAO
+pequeno B-PORTE
+de O
+ciberseguranca B-SETOR
+com O
+1794 B-QTD_FUNCIONARIOS
+servidores O
+
+instituição O
+com O
+6048 B-QTD_FUNCIONARIOS
+operários O
+rio B-LOCALIZACAO
+de I-LOCALIZACAO
+janeiro I-LOCALIZACAO
+micro B-PORTE
+
+negócio O
+em O
+santa B-LOCALIZACAO
+catarina I-LOCALIZACAO
+na O
+unidade O
+servico B-SETOR
+social I-SETOR
+com O
+1070 B-QTD_FUNCIONARIOS
+ate O
+9424 B-QTD_FUNCIONARIOS
+de O
+staff O
+
+negócio O
+com O
+1488 B-QTD_FUNCIONARIOS
+auxiliares O
+micro B-PORTE
+de O
+artes B-SETOR
+
+corporação O
+de O
+escala O
+micro B-PORTE
+com O
+7456 B-QTD_FUNCIONARIOS
+integrantes O
+
+estabelecimento O
+na O
+verticalidade O
+midia B-SETOR
+com O
+4794 B-QTD_FUNCIONARIOS
+ate O
+6048 B-QTD_FUNCIONARIOS
+de O
+staff O
+
+organização O
+com O
+7178 B-QTD_FUNCIONARIOS
+de O
+staff O
+pequeno B-PORTE
+
+negócio O
+com O
+4576 B-QTD_FUNCIONARIOS
+funcionarios O
+de O
+seguros B-SETOR
+porte O
+medio B-PORTE
+
+negócio O
+no O
+setor O
+robotica B-SETOR
+com O
+4198 B-QTD_FUNCIONARIOS
+de O
+mão O
+obra O
+
+estabelecimento O
+de O
+importância O
+micro B-PORTE
+com O
+3433 B-QTD_FUNCIONARIOS
+ate O
+5234 B-QTD_FUNCIONARIOS
+profissionais O
+
+organização O
+paraiba B-LOCALIZACAO
+com O
+4029 B-QTD_FUNCIONARIOS
+ate O
+7581 B-QTD_FUNCIONARIOS
+servidores O
+
+agência O
+de O
+capacidade O
+medio B-PORTE
+com O
+445 B-QTD_FUNCIONARIOS
+ate O
+2279 B-QTD_FUNCIONARIOS
+membros O
+da O
+equipe O
+
+indústria O
+em O
+piaui B-LOCALIZACAO
+medio B-PORTE
+com O
+4319 B-QTD_FUNCIONARIOS
+ate O
+8514 B-QTD_FUNCIONARIOS
+colaboradores O
+
+holding O
+na O
+seção O
+direito B-SETOR
+micro B-PORTE
+com O
+2617 B-QTD_FUNCIONARIOS
+ate O
+2856 B-QTD_FUNCIONARIOS
+membros O
+da O
+equipe O
+
+emprendimento O
+em O
+alagoas B-LOCALIZACAO
+com O
+118 B-QTD_FUNCIONARIOS
+ate O
+1757 B-QTD_FUNCIONARIOS
+prestadores O
+
+grupo O
+empresarial O
+na O
+seção O
+energia B-SETOR
+pequeno B-PORTE
+com O
+2766 B-QTD_FUNCIONARIOS
+ate O
+8715 B-QTD_FUNCIONARIOS
+operários O
+em O
+ceara B-LOCALIZACAO
+
+sociedade O
+com O
+1011 B-QTD_FUNCIONARIOS
+ate O
+1627 B-QTD_FUNCIONARIOS
+de O
+mão O
+obra O
+grande B-PORTE
+
+conglomerado O
+com O
+4274 B-QTD_FUNCIONARIOS
+ate O
+8709 B-QTD_FUNCIONARIOS
+integrantes O
+de O
+volume O
+medio B-PORTE
+distrito B-LOCALIZACAO
+federal I-LOCALIZACAO
+
+sociedade O
+de O
+porte O
+medio B-PORTE
+com O
+4666 B-QTD_FUNCIONARIOS
+ate O
+6222 B-QTD_FUNCIONARIOS
+staff O
+industria B-SETOR
+textil I-SETOR
+
+estabelecimento O
+em O
+amapa B-LOCALIZACAO
+com O
+3193 B-QTD_FUNCIONARIOS
+prestadores O
+
+entidade O
+pernambuco B-LOCALIZACAO
+micro B-PORTE
+de O
+logistica B-SETOR
+com O
+4944 B-QTD_FUNCIONARIOS
+operários O
+
+empresa O
+com O
+2513 B-QTD_FUNCIONARIOS
+de O
+corpo O
+funcional O
+porte O
+medio B-PORTE
+
+startup O
+com O
+1061 B-QTD_FUNCIONARIOS
+de O
+mão O
+obra O
+
+companhia O
+micro B-PORTE
+com O
+5511 B-QTD_FUNCIONARIOS
+prestadores O
+em O
+amazonas B-LOCALIZACAO
+
+associação O
+com O
+1003 B-QTD_FUNCIONARIOS
+ate O
+9773 B-QTD_FUNCIONARIOS
+membros O
+da O
+equipe O
+em O
+sao B-LOCALIZACAO
+paulo I-LOCALIZACAO
+
+conglomerado O
+com O
+1222 B-QTD_FUNCIONARIOS
+de O
+staff O
+
+empresa O
+com O
+4860 B-QTD_FUNCIONARIOS
+ate O
+7275 B-QTD_FUNCIONARIOS
+funcionarios O
+de O
+tecnologia B-SETOR
+da I-SETOR
+informacao I-SETOR
+
+associação O
+com O
+9262 B-QTD_FUNCIONARIOS
+profissionais O
+para B-LOCALIZACAO
+
+holding O
+em O
+rondonia B-LOCALIZACAO
+de O
+industria B-SETOR
+naval I-SETOR
+com O
+122 B-QTD_FUNCIONARIOS
+integrantes O
+
+empresa O
+com O
+7964 B-QTD_FUNCIONARIOS
+servidores O
+medio B-PORTE
+sergipe B-LOCALIZACAO
+
+corporação O
+com O
+2484 B-QTD_FUNCIONARIOS
+pessoas O
+
+instituição O
+de O
+envergadura O
+pequeno B-PORTE
+na O
+categoria O
+transporte B-SETOR
+maritimo I-SETOR
+em O
+rondonia B-LOCALIZACAO
+com O
+906 B-QTD_FUNCIONARIOS
+empregados O
+
+negócio O
+com O
+4121 B-QTD_FUNCIONARIOS
+ate O
+7662 B-QTD_FUNCIONARIOS
+operários O
+no O
+departamento O
+economia B-SETOR
+criativa I-SETOR
+mato B-LOCALIZACAO
+grosso I-LOCALIZACAO
+micro B-PORTE
+
+corporação O
+de O
+tamanho O
+pequeno B-PORTE
+na O
+verticalidade O
+silvicultura B-SETOR
+com O
+3092 B-QTD_FUNCIONARIOS
+ate O
+9619 B-QTD_FUNCIONARIOS
+staff O
+santa B-LOCALIZACAO
+catarina I-LOCALIZACAO
+
+firma O
+com O
+7324 B-QTD_FUNCIONARIOS
+empregados O
+no O
+segmento O
+planejamento B-SETOR
+urbano I-SETOR
+
+estabelecimento O
+com O
+6129 B-QTD_FUNCIONARIOS
+de O
+staff O
+pernambuco B-LOCALIZACAO
+
+negócio O
+de O
+composição O
+grande B-PORTE
+no O
+departamento O
+moda B-SETOR
+com O
+1629 B-QTD_FUNCIONARIOS
+funcionarios O
+
+holding O
+com O
+512 B-QTD_FUNCIONARIOS
+funcionarios O
+em O
+roraima B-LOCALIZACAO
+
+entidade O
+pequeno B-PORTE
+tocantins B-LOCALIZACAO
+com O
+8987 B-QTD_FUNCIONARIOS
+assistentes O
+
+sociedade O
+com O
+2081 B-QTD_FUNCIONARIOS
+ate O
+9123 B-QTD_FUNCIONARIOS
+integrantes O
+em O
+rio B-LOCALIZACAO
+de I-LOCALIZACAO
+janeiro I-LOCALIZACAO
+
+estabelecimento O
+com O
+5574 B-QTD_FUNCIONARIOS
+assistentes O
+de O
+dimensão O
+micro B-PORTE
+
+agência O
+de O
+estrutura O
+pequeno B-PORTE
+com O
+3747 B-QTD_FUNCIONARIOS
+ate O
+7708 B-QTD_FUNCIONARIOS
+prestadores O
+em O
+bahia B-LOCALIZACAO
+
+companhia O
+com O
+2849 B-QTD_FUNCIONARIOS
+ate O
+5487 B-QTD_FUNCIONARIOS
+colaboradores O
+grande B-PORTE
+de O
+hotelaria B-SETOR
+pernambuco B-LOCALIZACAO
+
+companhia O
+com O
+5790 B-QTD_FUNCIONARIOS
+prestadores O
+
+organização O
+de O
+tamanho O
+micro B-PORTE
+com O
+2125 B-QTD_FUNCIONARIOS
+ate O
+8366 B-QTD_FUNCIONARIOS
+staff O
+
+entidade O
+medio B-PORTE
+com O
+3567 B-QTD_FUNCIONARIOS
+ate O
+5039 B-QTD_FUNCIONARIOS
+trabalhadores O
+de O
+industria B-SETOR
+textil I-SETOR
+
+organização O
+grande B-PORTE
+sergipe B-LOCALIZACAO
+com O
+8617 B-QTD_FUNCIONARIOS
+de O
+quadro O
+pessoas O
+
+associação O
+na O
+linha O
+de O
+negócio O
+transporte B-SETOR
+rodoviario I-SETOR
+micro B-PORTE
+com O
+4019 B-QTD_FUNCIONARIOS
+ate O
+6305 B-QTD_FUNCIONARIOS
+trabalhadores O
+
+empresa O
+parana B-LOCALIZACAO
+com O
+1535 B-QTD_FUNCIONARIOS
+prestadores O
+na O
+esfera O
+transporte B-SETOR
+ferroviario I-SETOR
+
+empresa O
+medio B-PORTE
+de O
+planejamento B-SETOR
+urbano I-SETOR
+com O
+121 B-QTD_FUNCIONARIOS
+ate O
+6713 B-QTD_FUNCIONARIOS
+mão O
+obra O
+
+emprendimento O
+minas B-LOCALIZACAO
+gerais I-LOCALIZACAO
+com O
+2694 B-QTD_FUNCIONARIOS
+profissionais O
+
+grupo O
+empresarial O
+com O
+3041 B-QTD_FUNCIONARIOS
+ate O
+3194 B-QTD_FUNCIONARIOS
+de O
+quadro O
+pessoas O
+em O
+roraima B-LOCALIZACAO
+
+companhia O
+com O
+1081 B-QTD_FUNCIONARIOS
+auxiliares O
+de O
+geociencias B-SETOR
+
+cooperativa O
+de O
+musica B-SETOR
+com O
+3778 B-QTD_FUNCIONARIOS
+ate O
+9716 B-QTD_FUNCIONARIOS
+colaboradores O
+pernambuco B-LOCALIZACAO
+tipo O
+grande B-PORTE
+
+startup O
+com O
+196 B-QTD_FUNCIONARIOS
+ate O
+7242 B-QTD_FUNCIONARIOS
+de O
+mão O
+obra O
+em O
+amapa B-LOCALIZACAO
+
+startup O
+de O
+capacidade O
+micro B-PORTE
+com O
+6426 B-QTD_FUNCIONARIOS
+funcionarios O
+treinamento B-SETOR
+profissional I-SETOR
+
+indústria O
+na O
+verticalidade O
+teatro B-SETOR
+alagoas B-LOCALIZACAO
+com O
+3051 B-QTD_FUNCIONARIOS
+ate O
+3992 B-QTD_FUNCIONARIOS
+auxiliares O
+
+associação O
+com O
+2178 B-QTD_FUNCIONARIOS
+pessoas O
+de O
+esportes B-SETOR
+
+estabelecimento O
+com O
+7070 B-QTD_FUNCIONARIOS
+colaboradores O
+na O
+categoria O
+medicina B-SETOR
+
+emprendimento O
+com O
+4073 B-QTD_FUNCIONARIOS
+ate O
+7357 B-QTD_FUNCIONARIOS
+membros O
+da O
+equipe O
+em O
+goias B-LOCALIZACAO
+
+grupo O
+empresarial O
+medio B-PORTE
+na O
+linha O
+de O
+negócio O
+administracao B-SETOR
+publica I-SETOR
+com O
+4735 B-QTD_FUNCIONARIOS
+ate O
+7774 B-QTD_FUNCIONARIOS
+assistentes O
+
+organização O
+com O
+8293 B-QTD_FUNCIONARIOS
+operários O
+em O
+tocantins B-LOCALIZACAO
+
+emprendimento O
+medio B-PORTE
+roraima B-LOCALIZACAO
+com O
+1402 B-QTD_FUNCIONARIOS
+ate O
+4566 B-QTD_FUNCIONARIOS
+de O
+mão O
+obra O
+
+empresa O
+com O
+7799 B-QTD_FUNCIONARIOS
+de O
+corpo O
+funcional O
+pequeno B-PORTE
+
+companhia O
+com O
+1198 B-QTD_FUNCIONARIOS
+ate O
+9029 B-QTD_FUNCIONARIOS
+de O
+staff O
+inovacao B-SETOR
+
+sociedade O
+com O
+1575 B-QTD_FUNCIONARIOS
+ate O
+8361 B-QTD_FUNCIONARIOS
+de O
+mão O
+obra O
+
+empresa O
+com O
+1303 B-QTD_FUNCIONARIOS
+ate O
+4568 B-QTD_FUNCIONARIOS
+servidores O
+em O
+ceara B-LOCALIZACAO
+
+conglomerado O
+com O
+7380 B-QTD_FUNCIONARIOS
+de O
+staff O
+pequeno B-PORTE
+
+startup O
+em O
+rondonia B-LOCALIZACAO
+com O
+3763 B-QTD_FUNCIONARIOS
+ate O
+9756 B-QTD_FUNCIONARIOS
+assistentes O
+
+organização O
+com O
+4806 B-QTD_FUNCIONARIOS
+ate O
+5826 B-QTD_FUNCIONARIOS
+integrantes O
+
+estabelecimento O
+medio B-PORTE
+com O
+1527 B-QTD_FUNCIONARIOS
+ate O
+5621 B-QTD_FUNCIONARIOS
+integrantes O
+
+consultoria O
+com O
+7223 B-QTD_FUNCIONARIOS
+funcionarios O
+rio B-LOCALIZACAO
+grande I-LOCALIZACAO
+do I-LOCALIZACAO
+norte I-LOCALIZACAO
+
+sociedade O
+de O
+servicos B-SETOR
+domesticos I-SETOR
+distrito B-LOCALIZACAO
+federal I-LOCALIZACAO
+com O
+6742 B-QTD_FUNCIONARIOS
+pessoas O
+
+negócio O
+com O
+782 B-QTD_FUNCIONARIOS
+ate O
+8277 B-QTD_FUNCIONARIOS
+funcionarios O
+medio B-PORTE
+
+negócio O
+de O
+turismo B-SETOR
+com O
+4660 B-QTD_FUNCIONARIOS
+quadro O
+pessoas O
+em O
+pernambuco B-LOCALIZACAO
+
+entidade O
+com O
+3480 B-QTD_FUNCIONARIOS
+funcionarios O
+de O
+cinema B-SETOR
+
+consultoria O
+amazonas B-LOCALIZACAO
+com O
+2680 B-QTD_FUNCIONARIOS
+ate O
+4848 B-QTD_FUNCIONARIOS
+profissionais O
+
+organização O
+medio B-PORTE
+com O
+2365 B-QTD_FUNCIONARIOS
+ate O
+5585 B-QTD_FUNCIONARIOS
+profissionais O
+santa B-LOCALIZACAO
+catarina I-LOCALIZACAO
+
+indústria O
+com O
+2648 B-QTD_FUNCIONARIOS
+ate O
+8098 B-QTD_FUNCIONARIOS
+funcionarios O
+núcleo O
+manufatura B-SETOR
+
+corporação O
+com O
+8922 B-QTD_FUNCIONARIOS
+membros O
+da O
+equipe O
+paraiba B-LOCALIZACAO
+
+grupo O
+empresarial O
+com O
+4702 B-QTD_FUNCIONARIOS
+integrantes O
+
+instituição O
+com O
+7598 B-QTD_FUNCIONARIOS
+operários O
+de O
+petroleo B-SETOR
+e I-SETOR
+gas I-SETOR
+
+companhia O
+de O
+dimensão O
+grande B-PORTE
+nanotecnologia B-SETOR
+com O
+156 B-QTD_FUNCIONARIOS
+ate O
+3015 B-QTD_FUNCIONARIOS
+staff O
+
+companhia O
+na O
+seção O
+servicos B-SETOR
+tecnicos I-SETOR
+com O
+5722 B-QTD_FUNCIONARIOS
+de O
+mão O
+obra O
+
+holding O
+com O
+3313 B-QTD_FUNCIONARIOS
+de O
+corpo O
+funcional O
+
+cooperativa O
+pequeno B-PORTE
+com O
+4292 B-QTD_FUNCIONARIOS
+ate O
+5747 B-QTD_FUNCIONARIOS
+servidores O
+em O
+sergipe B-LOCALIZACAO
+
+sociedade O
+com O
+874 B-QTD_FUNCIONARIOS
+auxiliares O
+
+grupo O
+empresarial O
+de O
+saude B-SETOR
+em O
+parana B-LOCALIZACAO
+com O
+6664 B-QTD_FUNCIONARIOS
+staff O
+
+estabelecimento O
+de O
+dimensão O
+medio B-PORTE
+em O
+mato B-LOCALIZACAO
+grosso I-LOCALIZACAO
+com O
+6168 B-QTD_FUNCIONARIOS
+pessoas O
+
+firma O
+rio B-LOCALIZACAO
+grande I-LOCALIZACAO
+do I-LOCALIZACAO
+sul I-LOCALIZACAO
+com O
+2040 B-QTD_FUNCIONARIOS
+ate O
+9749 B-QTD_FUNCIONARIOS
+assistentes O
+no O
+segmento O
+esportes B-SETOR
+medio B-PORTE
+
+organização O
+com O
+693 B-QTD_FUNCIONARIOS
+ate O
+8581 B-QTD_FUNCIONARIOS
+colaboradores O
+
+conglomerado O
+com O
+1892 B-QTD_FUNCIONARIOS
+de O
+corpo O
+funcional O
+em O
+sergipe B-LOCALIZACAO
+
+indústria O
+com O
+7010 B-QTD_FUNCIONARIOS
+pessoas O
+de O
+potência O
+medio B-PORTE
+a O
+especialidade O
+criptomoedas B-SETOR
+
+startup O
+com O
+8372 B-QTD_FUNCIONARIOS
+funcionarios O
+de O
+tamanho O
+medio B-PORTE
+
+associação O
+com O
+6623 B-QTD_FUNCIONARIOS
+assistentes O
+de O
+proporção O
+medio B-PORTE
+a O
+especialidade O
+contabilidade B-SETOR
+
+negócio O
+grande B-PORTE
+com O
+4266 B-QTD_FUNCIONARIOS
+ate O
+9628 B-QTD_FUNCIONARIOS
+assistentes O
+no O
+departamento O
+veterinaria B-SETOR
+
+sociedade O
+de O
+perfil O
+micro B-PORTE
+varejo B-SETOR
+com O
+824 B-QTD_FUNCIONARIOS
+ate O
+3951 B-QTD_FUNCIONARIOS
+prestadores O
+
+emprendimento O
+no O
+campo O
+oceanografia B-SETOR
+com O
+9889 B-QTD_FUNCIONARIOS
+de O
+staff O
+
+associação O
+em O
+rio B-LOCALIZACAO
+grande I-LOCALIZACAO
+do I-LOCALIZACAO
+sul I-LOCALIZACAO
+com O
+3233 B-QTD_FUNCIONARIOS
+trabalhadores O
+
+instituição O
+com O
+9623 B-QTD_FUNCIONARIOS
+colaboradores O
+
+emprendimento O
+com O
+8942 B-QTD_FUNCIONARIOS
+membros O
+da O
+equipe O
+grande B-PORTE
+
+companhia O
+alagoas B-LOCALIZACAO
+de O
+engenharia B-SETOR
+ambiental I-SETOR
+com O
+1299 B-QTD_FUNCIONARIOS
+ate O
+5435 B-QTD_FUNCIONARIOS
+membros O
+da O
+equipe O
+
+cooperativa O
+com O
+9224 B-QTD_FUNCIONARIOS
+profissionais O
+na O
+atividade O
+seguranca B-SETOR
+publica I-SETOR
+de O
+porte O
+micro B-PORTE
+rondonia B-LOCALIZACAO
+
+firma O
+micro B-PORTE
+em O
+sergipe B-LOCALIZACAO
+com O
+2957 B-QTD_FUNCIONARIOS
+auxiliares O
+no O
+domínio O
+metaverso B-SETOR
+
+cooperativa O
+com O
+2565 B-QTD_FUNCIONARIOS
+ate O
+5130 B-QTD_FUNCIONARIOS
+profissionais O
+
+empresa O
+rio B-LOCALIZACAO
+grande I-LOCALIZACAO
+do I-LOCALIZACAO
+sul I-LOCALIZACAO
+de O
+potência O
+com O
+992 B-QTD_FUNCIONARIOS
+ate O
+1651 B-QTD_FUNCIONARIOS
+operários O
+
+grupo O
+empresarial O
+com O
+9239 B-QTD_FUNCIONARIOS
+operários O
+
+companhia O
+em O
+rio B-LOCALIZACAO
+de I-LOCALIZACAO
+janeiro I-LOCALIZACAO
+tipo O
+micro B-PORTE
+com O
+9130 B-QTD_FUNCIONARIOS
+integrantes O
+
+negócio O
+com O
+3724 B-QTD_FUNCIONARIOS
+ate O
+6708 B-QTD_FUNCIONARIOS
+operários O
+em O
+rio B-LOCALIZACAO
+grande I-LOCALIZACAO
+do I-LOCALIZACAO
+norte I-LOCALIZACAO
+
+emprendimento O
+grande B-PORTE
+com O
+3420 B-QTD_FUNCIONARIOS
+ate O
+3828 B-QTD_FUNCIONARIOS
+trabalhadores O
+
+conglomerado O
+em O
+tocantins B-LOCALIZACAO
+com O
+2895 B-QTD_FUNCIONARIOS
+servidores O
+de O
+vulto O
+pequeno B-PORTE
+
+agência O
+com O
+1574 B-QTD_FUNCIONARIOS
+prestadores O
+
+firma O
+bahia B-LOCALIZACAO
+medio B-PORTE
+na O
+linha O
+de O
+negócio O
+turismo B-SETOR
+com O
+308 B-QTD_FUNCIONARIOS
+mão O
+obra O
+
+organização O
+com O
+a O
+especialidade O
+esportes B-SETOR
+parana B-LOCALIZACAO
+1187 B-QTD_FUNCIONARIOS
+de O
+quadro O
+pessoas O
+
+conglomerado O
+com O
+2853 B-QTD_FUNCIONARIOS
+colaboradores O
+a O
+especialidade O
+oceanografia B-SETOR
+
+emprendimento O
+rio B-LOCALIZACAO
+grande I-LOCALIZACAO
+do I-LOCALIZACAO
+sul I-LOCALIZACAO
+com O
+577 B-QTD_FUNCIONARIOS
+funcionarios O
+de O
+justica B-SETOR
+pequeno B-PORTE
+
+entidade O
+com O
+3729 B-QTD_FUNCIONARIOS
+ate O
+5389 B-QTD_FUNCIONARIOS
+de O
+mão O
+obra O
+rio B-LOCALIZACAO
+grande I-LOCALIZACAO
+do I-LOCALIZACAO
+sul I-LOCALIZACAO
+
+conglomerado O
+de O
+proporção O
+grande B-PORTE
+piaui B-LOCALIZACAO
+com O
+3082 B-QTD_FUNCIONARIOS
+ate O
+8482 B-QTD_FUNCIONARIOS
+profissionais O
+
+entidade O
+com O
+8740 B-QTD_FUNCIONARIOS
+trabalhadores O
+maranhao B-LOCALIZACAO
+a O
+especialidade O
+industria B-SETOR
+farmaceutica I-SETOR
+
+estabelecimento O
+com O
+4654 B-QTD_FUNCIONARIOS
+ate O
+6484 B-QTD_FUNCIONARIOS
+de O
+quadro O
+pessoas O
+
+indústria O
+com O
+1277 B-QTD_FUNCIONARIOS
+ate O
+6713 B-QTD_FUNCIONARIOS
+servidores O
+na O
+categoria O
+design B-SETOR
+
+sociedade O
+com O
+4228 B-QTD_FUNCIONARIOS
+ate O
+6122 B-QTD_FUNCIONARIOS
+auxiliares O
+roraima B-LOCALIZACAO
+
+firma O
+com O
+6069 B-QTD_FUNCIONARIOS
+de I-SETOR
+quadro O
+pessoas O
+gestao B-SETOR
+residuos I-SETOR
+
+associação O
+na O
+verticalidade O
+corretoras B-SETOR
+com O
+3003 B-QTD_FUNCIONARIOS
+prestadores O
+
+estabelecimento O
+com O
+9051 B-QTD_FUNCIONARIOS
+pessoas O
+de O
+potência O
+micro B-PORTE
+
+sociedade O
+com O
+9976 B-QTD_FUNCIONARIOS
+pessoas O
+de O
+dimensão O
+pequeno B-PORTE
+em O
+amapa B-LOCALIZACAO
+na O
+divisão O
+silvicultura B-SETOR
+
+corporação O
+com O
+1563 B-QTD_FUNCIONARIOS
+ate O
+2438 B-QTD_FUNCIONARIOS
+operários O
+de O
+alimentacao B-SETOR
+
+empresa O
+de O
+estatura O
+micro B-PORTE
+com O
+9308 B-QTD_FUNCIONARIOS
+mão O
+obra O
+
+negócio O
+em O
+minas B-LOCALIZACAO
+gerais I-LOCALIZACAO
+com O
+7586 B-QTD_FUNCIONARIOS
+de O
+staff O
+
+corporação O
+em O
+rio B-LOCALIZACAO
+grande I-LOCALIZACAO
+do I-LOCALIZACAO
+sul I-LOCALIZACAO
+com O
+4951 B-QTD_FUNCIONARIOS
+ate O
+5534 B-QTD_FUNCIONARIOS
+servidores O
+
+corporação O
+com O
+1293 B-QTD_FUNCIONARIOS
+ate O
+3041 B-QTD_FUNCIONARIOS
+empregados O
+de O
+industria B-SETOR
+aeroespacial I-SETOR
+
+empresa O
+com O
+3836 B-QTD_FUNCIONARIOS
+prestadores O
+
+empresa O
+de O
+saude B-SETOR
+em O
+tocantins B-LOCALIZACAO
+com O
+206 B-QTD_FUNCIONARIOS
+ate O
+297 B-QTD_FUNCIONARIOS
+integrantes O
+
+organização O
+com O
+6027 B-QTD_FUNCIONARIOS
+membros O
+da O
+equipe O
+
+sociedade O
+com O
+4302 B-QTD_FUNCIONARIOS
+ate O
+5646 B-QTD_FUNCIONARIOS
+colaboradores O
+na O
+área O
+educacao B-SETOR
+corporativa I-SETOR
+
+corporação O
+de O
+envergadura O
+pequeno B-PORTE
+com O
+4890 B-QTD_FUNCIONARIOS
+quadro O
+pessoas O
+
+estabelecimento O
+com O
+7348 B-QTD_FUNCIONARIOS
+de O
+quadro O
+pessoas O
+
+organização O
+com O
+5478 B-QTD_FUNCIONARIOS
+trabalhadores O
+
+entidade O
+com O
+4184 B-QTD_FUNCIONARIOS
+ate O
+6425 B-QTD_FUNCIONARIOS
+de O
+staff O
+potência O
+micro B-PORTE
+construcao B-SETOR
+civil I-SETOR
+
+agência O
+grande B-PORTE
+com O
+3026 B-QTD_FUNCIONARIOS
+ate O
+6468 B-QTD_FUNCIONARIOS
+de O
+mão O
+obra O
+
+agência O
+com O
+654 B-QTD_FUNCIONARIOS
+ate O
+6618 B-QTD_FUNCIONARIOS
+servidores O
+
+emprendimento O
+com O
+4934 B-QTD_FUNCIONARIOS
+ate O
+5107 B-QTD_FUNCIONARIOS
+membros O
+da O
+equipe O
+grande B-PORTE
+de O
+servico B-SETOR
+social I-SETOR
+alagoas B-LOCALIZACAO
+
+conglomerado O
+em O
+sao B-LOCALIZACAO
+paulo I-LOCALIZACAO
+com O
+1296 B-QTD_FUNCIONARIOS
+ate O
+2886 B-QTD_FUNCIONARIOS
+de O
+staff O
+
+cooperativa O
+com O
+2924 B-QTD_FUNCIONARIOS
+ate O
+9682 B-QTD_FUNCIONARIOS
+membros O
+da O
+equipe O
+
+estabelecimento O
+de O
+treinamento B-SETOR
+profissional I-SETOR
+micro B-PORTE
+com O
+2658 B-QTD_FUNCIONARIOS
+ate O
+4893 B-QTD_FUNCIONARIOS
+membros O
+da O
+equipe O
+
+instituição O
+de O
+potência O
+grande B-PORTE
+com O
+3797 B-QTD_FUNCIONARIOS
+ate O
+7470 B-QTD_FUNCIONARIOS
+operários O
+em O
+paraiba B-LOCALIZACAO
+
+conglomerado O
+com O
+4066 B-QTD_FUNCIONARIOS
+ate O
+6077 B-QTD_FUNCIONARIOS
+pessoas O
+de O
+e-commerce B-SETOR
+tipo O
+micro B-PORTE
+
+firma O
+com O
+712 B-QTD_FUNCIONARIOS
+ate O
+8470 B-QTD_FUNCIONARIOS
+empregados O
+pequeno B-PORTE
+na O
+esfera O
+veterinaria B-SETOR
+
+empresa O
+com O
+7876 B-QTD_FUNCIONARIOS
+auxiliares O
+grande B-PORTE
+
+conglomerado O
+com O
+2235 B-QTD_FUNCIONARIOS
+ate O
+5200 B-QTD_FUNCIONARIOS
+de O
+quadro O
+pessoas O
+grande B-PORTE
+na O
+atividade O
+gastronomia B-SETOR
+
+sociedade O
+micro B-PORTE
+em O
+pernambuco B-LOCALIZACAO
+de O
+organizacoes B-SETOR
+nao I-SETOR
+governamentais I-SETOR
+com O
+8825 B-QTD_FUNCIONARIOS
+operários O
+
+corporação O
+em O
+goias B-LOCALIZACAO
+com O
+núcleo O
+industria B-SETOR
+de I-SETOR
+alimentos I-SETOR
+2844 B-QTD_FUNCIONARIOS
+ate O
+8275 B-QTD_FUNCIONARIOS
+staff O
+dimensão O
+grande B-PORTE
+
+conglomerado O
+para B-LOCALIZACAO
+de O
+composição O
+grande B-PORTE
+com O
+956 B-QTD_FUNCIONARIOS
+empregados O
+
+negócio O
+com O
+596 B-QTD_FUNCIONARIOS
+servidores O
+de O
+energia B-SETOR
+
+organização O
+em O
+distrito B-LOCALIZACAO
+federal I-LOCALIZACAO
+com O
+1592 B-QTD_FUNCIONARIOS
+ate O
+3274 B-QTD_FUNCIONARIOS
+de O
+staff O
+
+sociedade O
+com O
+4095 B-QTD_FUNCIONARIOS
+colaboradores O
+roraima B-LOCALIZACAO
+
+emprendimento O
+em O
+amapa B-LOCALIZACAO
+com O
+1287 B-QTD_FUNCIONARIOS
+de O
+corpo O
+funcional O
+
+consultoria O
+com O
+núcleo O
+energia B-SETOR
+renovavel I-SETOR
+3373 B-QTD_FUNCIONARIOS
+ate O
+7766 B-QTD_FUNCIONARIOS
+trabalhadores O
+em O
+rio B-LOCALIZACAO
+grande I-LOCALIZACAO
+do I-LOCALIZACAO
+norte I-LOCALIZACAO
+
+firma O
+com O
+125 B-QTD_FUNCIONARIOS
+ate O
+8813 B-QTD_FUNCIONARIOS
+assistentes O
+de O
+design B-SETOR
+em O
+goias B-LOCALIZACAO
+
+firma O
+de O
+proporção O
+grande B-PORTE
+com O
+4823 B-QTD_FUNCIONARIOS
+ate O
+6015 B-QTD_FUNCIONARIOS
+profissionais O
+
+instituição O
+com O
+94 B-QTD_FUNCIONARIOS
+ate O
+624 B-QTD_FUNCIONARIOS
+membros O
+da O
+equipe O
+na O
+unidade O
+midia B-SETOR
+medio B-PORTE
+
+instituição O
+de O
+transporte B-SETOR
+rodoviario I-SETOR
+com O
+4121 B-QTD_FUNCIONARIOS
+ate O
+9895 B-QTD_FUNCIONARIOS
+staff O
+
+startup O
+com O
+3076 B-QTD_FUNCIONARIOS
+ate O
+4523 B-QTD_FUNCIONARIOS
+de O
+staff O
+na O
+seção O
+bancos B-SETOR
+alagoas B-LOCALIZACAO
+
+cooperativa O
+com O
+2128 B-QTD_FUNCIONARIOS
+integrantes O
+de O
+medicina B-SETOR
+composição O
+grande B-PORTE
+
+grupo O
+empresarial O
+em O
+mato B-LOCALIZACAO
+grosso I-LOCALIZACAO
+de O
+meio B-SETOR
+ambiente I-SETOR
+com O
+4843 B-QTD_FUNCIONARIOS
+quadro O
+pessoas O
+
+emprendimento O
+com O
+4000 B-QTD_FUNCIONARIOS
+ate O
+8517 B-QTD_FUNCIONARIOS
+colaboradores O
+
+associação O
+com O
+9103 B-QTD_FUNCIONARIOS
+pessoas O
+de I-LOCALIZACAO
+potência O
+medio B-PORTE
+em O
+rio B-LOCALIZACAO
+janeiro I-LOCALIZACAO
+
+consultoria O
+com O
+3832 B-QTD_FUNCIONARIOS
+de O
+staff O
+em O
+bahia B-LOCALIZACAO
+
+grupo O
+empresarial O
+micro B-PORTE
+com O
+núcleo O
+blockchain B-SETOR
+5671 B-QTD_FUNCIONARIOS
+funcionarios O
+
+consultoria O
+de O
+biotecnologia B-SETOR
+com O
+8 B-QTD_FUNCIONARIOS
+ate O
+7411 B-QTD_FUNCIONARIOS
+assistentes O
+
+cooperativa O
+de O
+saude B-SETOR
+em O
+rio B-LOCALIZACAO
+grande I-LOCALIZACAO
+do I-LOCALIZACAO
+norte I-LOCALIZACAO
+com O
+5310 B-QTD_FUNCIONARIOS
+trabalhadores O
+
+corporação O
+com O
+4793 B-QTD_FUNCIONARIOS
+ate O
+7568 B-QTD_FUNCIONARIOS
+empregados O
+de O
+proporção O
+medio B-PORTE
+
+agência O
+com O
+1632 B-QTD_FUNCIONARIOS
+de O
+quadro O
+pessoas O
+em O
+maranhao B-LOCALIZACAO
+micro B-PORTE
+e-commerce B-SETOR
+
+organização O
+com O
+4526 B-QTD_FUNCIONARIOS
+ate O
+9919 B-QTD_FUNCIONARIOS
+membros O
+da O
+equipe O
+de O
+estatura O
+grande B-PORTE
+
+sociedade O
+na O
+zona O
+comercio B-SETOR
+rondonia B-LOCALIZACAO
+com O
+1089 B-QTD_FUNCIONARIOS
+ate O
+8016 B-QTD_FUNCIONARIOS
+prestadores O
+
+firma O
+com O
+4381 B-QTD_FUNCIONARIOS
+ate O
+7715 B-QTD_FUNCIONARIOS
+empregados O
+grande B-PORTE
+
+grupo O
+empresarial O
+com O
+435 B-QTD_FUNCIONARIOS
+membros O
+da O
+equipe O
+grande B-PORTE
+paraiba B-LOCALIZACAO
+
+sociedade O
+em O
+mato B-LOCALIZACAO
+grosso I-LOCALIZACAO
+do I-LOCALIZACAO
+sul I-LOCALIZACAO
+de O
+gastronomia B-SETOR
+tipo O
+grande B-PORTE
+com O
+9 B-QTD_FUNCIONARIOS
+quadro O
+pessoas O
+
+consultoria O
+com O
+947 B-QTD_FUNCIONARIOS
+ate O
+6248 B-QTD_FUNCIONARIOS
+colaboradores O
+
+instituição O
+na O
+categoria O
+energia B-SETOR
+com O
+6964 B-QTD_FUNCIONARIOS
+de O
+mão O
+obra O
+
+emprendimento O
+de O
+estrutura O
+micro B-PORTE
+em O
+mato B-LOCALIZACAO
+grosso I-LOCALIZACAO
+do I-LOCALIZACAO
+sul I-LOCALIZACAO
+com O
+2193 B-QTD_FUNCIONARIOS
+operários O
+
+corporação O
+de O
+midia B-SETOR
+com O
+9480 B-QTD_FUNCIONARIOS
+trabalhadores O
+
+organização O
+com O
+4617 B-QTD_FUNCIONARIOS
+ate O
+9551 B-QTD_FUNCIONARIOS
+funcionarios O
+amazonas B-LOCALIZACAO
+
+consultoria O
+de O
+tamanho O
+medio B-PORTE
+com O
+1573 B-QTD_FUNCIONARIOS
+integrantes O
+
+startup O
+medio B-PORTE
+com O
+3520 B-QTD_FUNCIONARIOS
+operários O
+de O
+gestao B-SETOR
+ambiental I-SETOR
+
+cooperativa O
+rio B-LOCALIZACAO
+grande I-LOCALIZACAO
+do I-LOCALIZACAO
+norte I-LOCALIZACAO
+com O
+8597 B-QTD_FUNCIONARIOS
+funcionarios O
+
+corporação O
+com O
+9137 B-QTD_FUNCIONARIOS
+de O
+mão O
+obra O
+tipo O
+pequeno B-PORTE
+
+corporação O
+com O
+1229 B-QTD_FUNCIONARIOS
+ate O
+5823 B-QTD_FUNCIONARIOS
+de O
+corpo O
+funcional O
+industria B-SETOR
+aeroespacial I-SETOR
+importância O
+pequeno B-PORTE
+rio B-LOCALIZACAO
+grande I-LOCALIZACAO
+do I-LOCALIZACAO
+norte I-LOCALIZACAO
+
+indústria O
+com O
+6458 B-QTD_FUNCIONARIOS
+trabalhadores O
+
+sociedade O
+micro B-PORTE
+piaui B-LOCALIZACAO
+no O
+campo O
+hardware B-SETOR
+com O
+774 B-QTD_FUNCIONARIOS
+ate O
+9404 B-QTD_FUNCIONARIOS
+membros O
+da O
+equipe O
+
+cooperativa O
+com O
+6792 B-QTD_FUNCIONARIOS
+empregados O
+em O
+para B-LOCALIZACAO
+a O
+especialidade O
+nanotecnologia B-SETOR
+
+entidade O
+com O
+4661 B-QTD_FUNCIONARIOS
+ate O
+9505 B-QTD_FUNCIONARIOS
+pessoas O
+
+sociedade O
+com O
+8436 B-QTD_FUNCIONARIOS
+operários O
+
+firma O
+de O
+criptomoedas B-SETOR
+rio B-LOCALIZACAO
+grande I-LOCALIZACAO
+do I-LOCALIZACAO
+norte I-LOCALIZACAO
+com O
+473 B-QTD_FUNCIONARIOS
+ate O
+5710 B-QTD_FUNCIONARIOS
+quadro O
+pessoas O
+
+conglomerado O
+com O
+7651 B-QTD_FUNCIONARIOS
+colaboradores O
+grande B-PORTE
+
+organização O
+de O
+volume O
+micro B-PORTE
+com O
+4799 B-QTD_FUNCIONARIOS
+membros O
+da O
+equipe O
+
+cooperativa O
+no O
+ramo O
+tecnologia B-SETOR
+da I-SETOR
+informacao I-SETOR
+de O
+estrutura O
+grande B-PORTE
+com O
+3400 B-QTD_FUNCIONARIOS
+trabalhadores O
+
+instituição O
+com O
+5638 B-QTD_FUNCIONARIOS
+colaboradores O
+na O
+linha O
+de I-SETOR
+negócio O
+gestao B-SETOR
+residuos I-SETOR
+
+organização O
+com O
+3012 B-QTD_FUNCIONARIOS
+empregados O
+micro B-PORTE
+
+firma O
+em O
+amapa B-LOCALIZACAO
+de O
+importância O
+grande B-PORTE
+com O
+4878 B-QTD_FUNCIONARIOS
+ate O
+9275 B-QTD_FUNCIONARIOS
+empregados O
+
+estabelecimento O
+na O
+divisão O
+energia B-SETOR
+renovavel I-SETOR
+em O
+amapa B-LOCALIZACAO
+com O
+4389 B-QTD_FUNCIONARIOS
+ate O
+8719 B-QTD_FUNCIONARIOS
+auxiliares O
+
+entidade O
+com O
+8702 B-QTD_FUNCIONARIOS
+de O
+corpo O
+funcional O
+justica B-SETOR
+em O
+amapa B-LOCALIZACAO
+importância O
+grande B-PORTE
+
+grupo O
+empresarial O
+com O
+598 B-QTD_FUNCIONARIOS
+ate O
+5916 B-QTD_FUNCIONARIOS
+membros O
+da O
+equipe O
+pequeno B-PORTE
+de O
+gestao B-SETOR
+ambiental I-SETOR
+em O
+tocantins B-LOCALIZACAO
+
+indústria O
+em O
+acre B-LOCALIZACAO
+de O
+estrutura O
+grande B-PORTE
+com O
+1734 B-QTD_FUNCIONARIOS
+ate O
+4971 B-QTD_FUNCIONARIOS
+assistentes O
+
+cooperativa O
+com O
+813 B-QTD_FUNCIONARIOS
+auxiliares O
+de O
+envergadura O
+medio B-PORTE
+
+agência O
+com O
+2104 B-QTD_FUNCIONARIOS
+prestadores O
+em O
+rio B-LOCALIZACAO
+de I-LOCALIZACAO
+janeiro I-LOCALIZACAO
+
+holding O
+de O
+escala O
+grande B-PORTE
+com O
+3839 B-QTD_FUNCIONARIOS
+ate O
+5049 B-QTD_FUNCIONARIOS
+empregados O
+
+grupo O
+empresarial O
+alagoas B-LOCALIZACAO
+com O
+3638 B-QTD_FUNCIONARIOS
+ate O
+4640 B-QTD_FUNCIONARIOS
+de O
+quadro O
+pessoas O
+oceanografia B-SETOR
+
+firma O
+medio B-PORTE
+de O
+inteligencia B-SETOR
+artificial I-SETOR
+amazonas B-LOCALIZACAO
+com O
+3984 B-QTD_FUNCIONARIOS
+ate O
+4143 B-QTD_FUNCIONARIOS
+trabalhadores O
+
+organização O
+com O
+2062 B-QTD_FUNCIONARIOS
+ate O
+3658 B-QTD_FUNCIONARIOS
+assistentes O
+em O
+acre B-LOCALIZACAO
+
+estabelecimento O
+no O
+campo O
+servicos B-SETOR
+gerais I-SETOR
+com O
+4455 B-QTD_FUNCIONARIOS
+ate O
+6122 B-QTD_FUNCIONARIOS
+de O
+staff O
+
+entidade O
+com O
+5038 B-QTD_FUNCIONARIOS
+de O
+mão O
+obra O
+parana B-LOCALIZACAO
+
+companhia O
+com O
+2830 B-QTD_FUNCIONARIOS
+membros O
+da O
+equipe O
+de O
+energia B-SETOR
+
+empresa O
+com O
+987 B-QTD_FUNCIONARIOS
+ate O
+4924 B-QTD_FUNCIONARIOS
+auxiliares O
+em O
+amapa B-LOCALIZACAO
+no O
+pólo O
+organizacoes B-SETOR
+nao I-SETOR
+governamentais I-SETOR
+
+holding O
+com O
+431 B-QTD_FUNCIONARIOS
+ate O
+1639 B-QTD_FUNCIONARIOS
+de O
+quadro O
+pessoas O
+
+firma O
+em O
+mato B-LOCALIZACAO
+grosso I-LOCALIZACAO
+de I-SETOR
+engenharia B-SETOR
+producao I-SETOR
+proporção O
+medio B-PORTE
+com O
+7345 B-QTD_FUNCIONARIOS
+servidores O
+
+companhia O
+com O
+1132 B-QTD_FUNCIONARIOS
+de O
+quadro O
+pessoas O
+amazonas B-LOCALIZACAO
+energia B-SETOR
+renovavel I-SETOR
+
+indústria O
+de O
+categoria O
+micro B-PORTE
+para B-LOCALIZACAO
+com O
+1613 B-QTD_FUNCIONARIOS
+ate O
+8288 B-QTD_FUNCIONARIOS
+funcionarios O
+
+cooperativa O
+de O
+vulto O
+micro B-PORTE
+com O
+6568 B-QTD_FUNCIONARIOS
+prestadores O
+
+holding O
+com O
+473 B-QTD_FUNCIONARIOS
+ate O
+3013 B-QTD_FUNCIONARIOS
+trabalhadores O
+na O
+área O
+hardware B-SETOR
+
+grupo O
+empresarial O
+em O
+goias B-LOCALIZACAO
+com O
+4206 B-QTD_FUNCIONARIOS
+membros O
+da O
+equipe O
+de O
+importância O
+pequeno B-PORTE
+
+estabelecimento O
+com O
+2603 B-QTD_FUNCIONARIOS
+operários O
+de O
+transporte B-SETOR
+aereo I-SETOR
+estrutura O
+medio B-PORTE
+
+estabelecimento O
+grande B-PORTE
+com O
+9193 B-QTD_FUNCIONARIOS
+colaboradores O
+
+firma O
+pequeno B-PORTE
+com O
+3115 B-QTD_FUNCIONARIOS
+ate O
+9332 B-QTD_FUNCIONARIOS
+empregados O
+
+sociedade O
+com O
+3385 B-QTD_FUNCIONARIOS
+operários O
+em O
+piaui B-LOCALIZACAO
+
+agência O
+micro B-PORTE
+com O
+8746 B-QTD_FUNCIONARIOS
+de O
+corpo O
+funcional O
+em O
+mato B-LOCALIZACAO
+grosso I-LOCALIZACAO
+
+conglomerado O
+piaui B-LOCALIZACAO
+com O
+7010 B-QTD_FUNCIONARIOS
+colaboradores O
+
+sociedade O
+com O
+1595 B-QTD_FUNCIONARIOS
+ate O
+2738 B-QTD_FUNCIONARIOS
+integrantes O
+
+holding O
+com O
+5276 B-QTD_FUNCIONARIOS
+assistentes O
+
+indústria O
+no O
+setor O
+arquitetura B-SETOR
+com O
+9752 B-QTD_FUNCIONARIOS
+de O
+quadro O
+pessoas O
+em O
+roraima B-LOCALIZACAO
+
+empresa O
+de O
+proporção O
+grande B-PORTE
+com O
+4867 B-QTD_FUNCIONARIOS
+ate O
+7839 B-QTD_FUNCIONARIOS
+assistentes O
+em O
+amazonas B-LOCALIZACAO
+
+empresa O
+com O
+3472 B-QTD_FUNCIONARIOS
+ate O
+7996 B-QTD_FUNCIONARIOS
+servidores O
+de O
+corretoras B-SETOR
+
+conglomerado O
+com O
+2041 B-QTD_FUNCIONARIOS
+empregados O
+de O
+perfil O
+grande B-PORTE
+na O
+linha O
+negócio O
+ensino B-SETOR
+fundamental I-SETOR
+parana B-LOCALIZACAO
+
+holding O
+em O
+maranhao B-LOCALIZACAO
+com O
+7980 B-QTD_FUNCIONARIOS
+assistentes O
+
+companhia O
+na O
+linha O
+de I-SETOR
+negócio O
+industria B-SETOR
+alimentos I-SETOR
+com O
+284 B-QTD_FUNCIONARIOS
+ate O
+8402 B-QTD_FUNCIONARIOS
+trabalhadores O
+
+indústria O
+com O
+1118 B-QTD_FUNCIONARIOS
+de O
+quadro O
+pessoas O
+na O
+unidade O
+direito B-SETOR
+
+holding O
+micro B-PORTE
+com O
+2576 B-QTD_FUNCIONARIOS
+pessoas O
+
+holding O
+com O
+667 B-QTD_FUNCIONARIOS
+prestadores O
+amazonas B-LOCALIZACAO
+a O
+especialidade O
+metaverso B-SETOR
+
+sociedade O
+com O
+1207 B-QTD_FUNCIONARIOS
+membros O
+da O
+equipe O
+em O
+amazonas B-LOCALIZACAO
+micro B-PORTE
+
+emprendimento O
+em O
+mato B-LOCALIZACAO
+grosso I-LOCALIZACAO
+no O
+ramo O
+administracao B-SETOR
+publica I-SETOR
+com O
+1934 B-QTD_FUNCIONARIOS
+ate O
+6361 B-QTD_FUNCIONARIOS
+empregados O
+
+emprendimento O
+de O
+capacidade O
+grande B-PORTE
+com O
+4292 B-QTD_FUNCIONARIOS
+ate O
+7821 B-QTD_FUNCIONARIOS
+mão O
+obra O
+
+emprendimento O
+com O
+5738 B-QTD_FUNCIONARIOS
+empregados O
+
+startup O
+no O
+campo O
+servicos B-SETOR
+tecnicos I-SETOR
+com O
+7208 B-QTD_FUNCIONARIOS
+funcionarios O
+em O
+rio B-LOCALIZACAO
+grande I-LOCALIZACAO
+do I-LOCALIZACAO
+norte I-LOCALIZACAO
+
+conglomerado O
+com O
+1076 B-QTD_FUNCIONARIOS
+ate O
+4678 B-QTD_FUNCIONARIOS
+prestadores O
+grande B-PORTE
+
+companhia O
+grande B-PORTE
+com O
+2352 B-QTD_FUNCIONARIOS
+ate O
+9403 B-QTD_FUNCIONARIOS
+de O
+quadro O
+pessoas O
+
+agência O
+pequeno B-PORTE
+de O
+pesca B-SETOR
+com O
+3711 B-QTD_FUNCIONARIOS
+ate O
+8388 B-QTD_FUNCIONARIOS
+colaboradores O
+
+empresa O
+no O
+segmento O
+moda B-SETOR
+com O
+8027 B-QTD_FUNCIONARIOS
+de O
+staff O
+importância O
+grande B-PORTE
+
+startup O
+em O
+rio B-LOCALIZACAO
+grande I-LOCALIZACAO
+do I-LOCALIZACAO
+norte I-LOCALIZACAO
+com O
+8587 B-QTD_FUNCIONARIOS
+de O
+mão O
+obra O
+na O
+esfera O
+energia B-SETOR
+solar I-SETOR
+
+consultoria O
+mato B-LOCALIZACAO
+grosso I-LOCALIZACAO
+do I-LOCALIZACAO
+sul I-LOCALIZACAO
+com O
+9578 B-QTD_FUNCIONARIOS
+auxiliares O
+
+negócio O
+com O
+8957 B-QTD_FUNCIONARIOS
+prestadores O
+de O
+dimensão O
+medio B-PORTE
+
+instituição O
+em O
+santa B-LOCALIZACAO
+catarina I-LOCALIZACAO
+na O
+categoria O
+ensino B-SETOR
+fundamental I-SETOR
+com O
+5760 B-QTD_FUNCIONARIOS
+de O
+staff O
+
+startup O
+com O
+447 B-QTD_FUNCIONARIOS
+pessoas O
+
+corporação O
+com O
+6508 B-QTD_FUNCIONARIOS
+membros O
+da O
+equipe O
+em O
+rio B-LOCALIZACAO
+de I-LOCALIZACAO
+janeiro I-LOCALIZACAO
+silvicultura B-SETOR
+
+grupo O
+empresarial O
+grande B-PORTE
+em O
+bahia B-LOCALIZACAO
+com O
+9551 B-QTD_FUNCIONARIOS
+funcionarios O
+
+organização O
+micro B-PORTE
+com O
+4542 B-QTD_FUNCIONARIOS
+ate O
+9053 B-QTD_FUNCIONARIOS
+empregados O
+
+entidade O
+de O
+hidreletricas B-SETOR
+com O
+741 B-QTD_FUNCIONARIOS
+ate O
+9993 B-QTD_FUNCIONARIOS
+auxiliares O
+
+emprendimento O
+com O
+1879 B-QTD_FUNCIONARIOS
+ate O
+6734 B-QTD_FUNCIONARIOS
+servidores O
+de O
+transporte B-SETOR
+rodoviario I-SETOR
+medio B-PORTE
+em O
+roraima B-LOCALIZACAO
+
+entidade O
+no O
+ramo O
+transporte B-SETOR
+maritimo I-SETOR
+com O
+3753 B-QTD_FUNCIONARIOS
+ate O
+7811 B-QTD_FUNCIONARIOS
+servidores O
+
+estabelecimento O
+com O
+1975 B-QTD_FUNCIONARIOS
+membros O
+da O
+equipe O
+de O
+energia B-SETOR
+
+empresa O
+na O
+atividade O
+artes B-SETOR
+com O
+165 B-QTD_FUNCIONARIOS
+ate O
+7308 B-QTD_FUNCIONARIOS
+de O
+corpo O
+funcional O
+
+agência O
+maranhao B-LOCALIZACAO
+com O
+3854 B-QTD_FUNCIONARIOS
+ate O
+7098 B-QTD_FUNCIONARIOS
+auxiliares O
+
+firma O
+de O
+engenharia B-SETOR
+com O
+4390 B-QTD_FUNCIONARIOS
+ate O
+6858 B-QTD_FUNCIONARIOS
+quadro O
+pessoas O
+
+firma O
+medio B-PORTE
+com O
+1200 B-QTD_FUNCIONARIOS
+trabalhadores O
+
+corporação O
+com O
+9767 B-QTD_FUNCIONARIOS
+integrantes O
+
+estabelecimento O
+com O
+3910 B-QTD_FUNCIONARIOS
+ate O
+8277 B-QTD_FUNCIONARIOS
+profissionais O
+na O
+seção O
+telecomunicacoes B-SETOR
+
+corporação O
+com O
+4841 B-QTD_FUNCIONARIOS
+membros O
+da O
+equipe O
+
+holding O
+com O
+248 B-QTD_FUNCIONARIOS
+ate O
+8730 B-QTD_FUNCIONARIOS
+de O
+corpo O
+funcional O
+
+startup O
+com O
+1860 B-QTD_FUNCIONARIOS
+servidores O
+de O
+musica B-SETOR
+
+instituição O
+com O
+8134 B-QTD_FUNCIONARIOS
+auxiliares O
+
+associação O
+de O
+energia B-SETOR
+eolica I-SETOR
+com O
+753 B-QTD_FUNCIONARIOS
+ate O
+4973 B-QTD_FUNCIONARIOS
+funcionarios O
+em O
+para B-LOCALIZACAO
+
+companhia O
+de O
+esportes B-SETOR
+com O
+2944 B-QTD_FUNCIONARIOS
+ate O
+4004 B-QTD_FUNCIONARIOS
+colaboradores O
+em O
+pernambuco B-LOCALIZACAO
+grande B-PORTE
+
+instituição O
+com O
+5556 B-QTD_FUNCIONARIOS
+de O
+quadro O
+pessoas O
+pequeno B-PORTE
+
+agência O
+de O
+engenharia B-SETOR
+com O
+7268 B-QTD_FUNCIONARIOS
+colaboradores O
+
+agência O
+com O
+2857 B-QTD_FUNCIONARIOS
+ate O
+6973 B-QTD_FUNCIONARIOS
+colaboradores O
+paraiba B-LOCALIZACAO
+
+holding O
+com O
+421 B-QTD_FUNCIONARIOS
+ate O
+3393 B-QTD_FUNCIONARIOS
+colaboradores O
+
+organização O
+de O
+oceanografia B-SETOR
+medio B-PORTE
+com O
+9681 B-QTD_FUNCIONARIOS
+corpo O
+funcional O
+
+agência O
+em O
+mato B-LOCALIZACAO
+grosso I-LOCALIZACAO
+do I-LOCALIZACAO
+sul I-LOCALIZACAO
+medio B-PORTE
+no O
+setor O
+lazer B-SETOR
+com O
+925 B-QTD_FUNCIONARIOS
+operários O
+
+negócio O
+em O
+mato B-LOCALIZACAO
+grosso I-LOCALIZACAO
+do I-LOCALIZACAO
+sul I-LOCALIZACAO
+na O
+atividade O
+oceanografia B-SETOR
+de O
+proporção O
+pequeno B-PORTE
+com O
+9683 B-QTD_FUNCIONARIOS
+auxiliares O
+
+corporação O
+com O
+8937 B-QTD_FUNCIONARIOS
+de O
+corpo O
+funcional O
+
+emprendimento O
+de O
+vulto O
+grande B-PORTE
+com O
+1144 B-QTD_FUNCIONARIOS
+ate O
+5780 B-QTD_FUNCIONARIOS
+operários O
+na O
+divisão O
+energia B-SETOR
+eolica I-SETOR
+
+cooperativa O
+com O
+2905 B-QTD_FUNCIONARIOS
+profissionais O
+
+corporação O
+com O
+3765 B-QTD_FUNCIONARIOS
+operários O
+grande B-PORTE
+
+consultoria O
+com O
+3349 B-QTD_FUNCIONARIOS
+de O
+mão O
+obra O
+em O
+roraima B-LOCALIZACAO
+envergadura O
+micro B-PORTE
+
+corporação O
+com O
+1157 B-QTD_FUNCIONARIOS
+ate O
+8473 B-QTD_FUNCIONARIOS
+empregados O
+pequeno B-PORTE
+
+emprendimento O
+em O
+amazonas B-LOCALIZACAO
+na O
+zona O
+servicos B-SETOR
+gerais I-SETOR
+com O
+2739 B-QTD_FUNCIONARIOS
+operários O
+
+estabelecimento O
+pernambuco B-LOCALIZACAO
+com O
+3873 B-QTD_FUNCIONARIOS
+funcionarios O
+
+corporação O
+de O
+escala O
+medio B-PORTE
+em O
+ceara B-LOCALIZACAO
+com O
+4919 B-QTD_FUNCIONARIOS
+ate O
+7421 B-QTD_FUNCIONARIOS
+assistentes O
+
+emprendimento O
+com O
+2736 B-QTD_FUNCIONARIOS
+ate O
+8818 B-QTD_FUNCIONARIOS
+colaboradores O
+de O
+engenharia B-SETOR
+ambiental I-SETOR
+
+consultoria O
+com O
+3376 B-QTD_FUNCIONARIOS
+ate O
+4078 B-QTD_FUNCIONARIOS
+pessoas O
+de O
+religiao B-SETOR
+
+cooperativa O
+de O
+recursos B-SETOR
+humanos I-SETOR
+com O
+4338 B-QTD_FUNCIONARIOS
+ate O
+9028 B-QTD_FUNCIONARIOS
+quadro O
+pessoas O
+bahia B-LOCALIZACAO
+envergadura O
+grande B-PORTE
+
+sociedade O
+pernambuco B-LOCALIZACAO
+com O
+1429 B-QTD_FUNCIONARIOS
+ate O
+6059 B-QTD_FUNCIONARIOS
+de O
+staff O
+na O
+esfera O
+robotica B-SETOR
+medio B-PORTE
+
+emprendimento O
+com O
+5126 B-QTD_FUNCIONARIOS
+de O
+corpo O
+funcional O
+minas B-LOCALIZACAO
+gerais I-LOCALIZACAO
+
+corporação O
+de O
+justica B-SETOR
+com O
+2723 B-QTD_FUNCIONARIOS
+membros O
+da O
+equipe O
+
+emprendimento O
+com O
+3361 B-QTD_FUNCIONARIOS
+ate O
+9398 B-QTD_FUNCIONARIOS
+servidores O
+
+associação O
+rio B-LOCALIZACAO
+grande I-LOCALIZACAO
+do I-LOCALIZACAO
+norte I-LOCALIZACAO
+na O
+unidade O
+direito B-SETOR
+com O
+635 B-QTD_FUNCIONARIOS
+ate O
+7314 B-QTD_FUNCIONARIOS
+servidores O
+
+grupo O
+empresarial O
+com O
+900 B-QTD_FUNCIONARIOS
+servidores O
+pequeno B-PORTE
+em O
+goias B-LOCALIZACAO
+
+consultoria O
+grande B-PORTE
+com O
+9466 B-QTD_FUNCIONARIOS
+servidores O
+
+grupo O
+empresarial O
+com O
+6701 B-QTD_FUNCIONARIOS
+de I-LOCALIZACAO
+mão O
+obra O
+inteligencia B-SETOR
+artificial I-SETOR
+rio B-LOCALIZACAO
+janeiro I-LOCALIZACAO
+
+holding O
+em O
+goias B-LOCALIZACAO
+com O
+3050 B-QTD_FUNCIONARIOS
+ate O
+9224 B-QTD_FUNCIONARIOS
+auxiliares O
+
+agência O
+roraima B-LOCALIZACAO
+com O
+2830 B-QTD_FUNCIONARIOS
+ate O
+9677 B-QTD_FUNCIONARIOS
+de O
+quadro O
+pessoas O
+
+emprendimento O
+bahia B-LOCALIZACAO
+com O
+9039 B-QTD_FUNCIONARIOS
+prestadores O
+de O
+artes B-SETOR
+
+instituição O
+em O
+mato B-LOCALIZACAO
+grosso I-LOCALIZACAO
+de O
+classe O
+medio B-PORTE
+com O
+8395 B-QTD_FUNCIONARIOS
+funcionarios O
+na O
+verticalidade O
+streaming B-SETOR
+
+sociedade O
+em O
+minas B-LOCALIZACAO
+gerais I-LOCALIZACAO
+com O
+4290 B-QTD_FUNCIONARIOS
+ate O
+5169 B-QTD_FUNCIONARIOS
+de O
+quadro O
+pessoas O
+
+grupo O
+empresarial O
+de O
+tecnologia B-SETOR
+da I-SETOR
+informacao I-SETOR
+com O
+2477 B-QTD_FUNCIONARIOS
+ate O
+4772 B-QTD_FUNCIONARIOS
+integrantes O
+mato B-LOCALIZACAO
+grosso I-LOCALIZACAO
+
+consultoria O
+de O
+estatura O
+medio B-PORTE
+com O
+9437 B-QTD_FUNCIONARIOS
+corpo O
+funcional O
+
+emprendimento O
+de O
+organizacoes B-SETOR
+nao I-SETOR
+governamentais I-SETOR
+com O
+1307 B-QTD_FUNCIONARIOS
+ate O
+8905 B-QTD_FUNCIONARIOS
+pessoas O
+
+holding O
+com O
+2894 B-QTD_FUNCIONARIOS
+ate O
+8856 B-QTD_FUNCIONARIOS
+assistentes O
+de O
+inovacao B-SETOR
+pequeno B-PORTE
+
+instituição O
+em O
+parana B-LOCALIZACAO
+com O
+6634 B-QTD_FUNCIONARIOS
+operários O
+de O
+estatura O
+micro B-PORTE
+
+firma O
+em O
+rio B-LOCALIZACAO
+de I-LOCALIZACAO
+janeiro I-LOCALIZACAO
+com O
+3204 B-QTD_FUNCIONARIOS
+auxiliares O
+odontologia B-SETOR
+
+indústria O
+em O
+sergipe B-LOCALIZACAO
+com O
+4842 B-QTD_FUNCIONARIOS
+ate O
+7907 B-QTD_FUNCIONARIOS
+colaboradores O
+
+conglomerado O
+de I-SETOR
+engenharia B-SETOR
+producao I-SETOR
+em O
+pernambuco B-LOCALIZACAO
+com O
+2441 B-QTD_FUNCIONARIOS
+ate O
+2481 B-QTD_FUNCIONARIOS
+mão O
+obra O
+
+instituição O
+com O
+5863 B-QTD_FUNCIONARIOS
+trabalhadores O
+de O
+gastronomia B-SETOR
+
+firma O
+com O
+2946 B-QTD_FUNCIONARIOS
+de O
+staff O
+industria B-SETOR
+textil I-SETOR
+
+agência O
+com O
+909 B-QTD_FUNCIONARIOS
+ate O
+9096 B-QTD_FUNCIONARIOS
+profissionais O
+na O
+esfera O
+religiao B-SETOR
+
+empresa O
+com O
+3621 B-QTD_FUNCIONARIOS
+ate O
+7019 B-QTD_FUNCIONARIOS
+funcionarios O
+de O
+perfil O
+pequeno B-PORTE
+
+cooperativa O
+de O
+jornalismo B-SETOR
+porte O
+medio B-PORTE
+bahia B-LOCALIZACAO
+com O
+9171 B-QTD_FUNCIONARIOS
+operários O
+
+companhia O
+com O
+núcleo O
+hardware B-SETOR
+pernambuco B-LOCALIZACAO
+de O
+tipo O
+grande B-PORTE
+8110 B-QTD_FUNCIONARIOS
+corpo O
+funcional O
+
+organização O
+de O
+organizacoes B-SETOR
+nao I-SETOR
+governamentais I-SETOR
+com O
+1661 B-QTD_FUNCIONARIOS
+ate O
+6271 B-QTD_FUNCIONARIOS
+funcionarios O
+pequeno B-PORTE
+
+holding O
+com O
+2554 B-QTD_FUNCIONARIOS
+de O
+staff O
+micro B-PORTE
+
+instituição O
+com O
+9254 B-QTD_FUNCIONARIOS
+trabalhadores O
+de O
+deficiencia B-SETOR
+e I-SETOR
+inclusao I-SETOR
+
+firma O
+com O
+3776 B-QTD_FUNCIONARIOS
+ate O
+9226 B-QTD_FUNCIONARIOS
+pessoas O
+
+corporação O
+pequeno B-PORTE
+com O
+3368 B-QTD_FUNCIONARIOS
+ate O
+3674 B-QTD_FUNCIONARIOS
+membros O
+da O
+equipe O
+no O
+pólo O
+energia B-SETOR
+renovavel I-SETOR
+rondonia B-LOCALIZACAO
+
+agência O
+com O
+1245 B-QTD_FUNCIONARIOS
+colaboradores O
+sao B-LOCALIZACAO
+paulo I-LOCALIZACAO
+de O
+porte O
+grande B-PORTE
+
+indústria O
+com O
+1978 B-QTD_FUNCIONARIOS
+de O
+quadro O
+pessoas O
+medio B-PORTE

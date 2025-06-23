@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "b2ner"
+version = "0.1.0"
+description = ""
+authors = ["João Vitor Do Amaral Spolavore <j.vitor.spolavore@gmail.com>"]
+readme = "README.md"
+packages = [{include = "b2ner", from = "src"}]
+
+[tool.poetry.dependencies]
+python = ">=3.10,<4.0"
+flair = "^0.15.1"
+nltk = "^3.9.1"
+pandas = "^2.2.3"
+tqdm = "^4.67.1"
+transformers = {version = "^4.52.4", extras = ["torch"]}
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
