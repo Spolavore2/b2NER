@@ -4,8 +4,13 @@ import csv;
 import random
 import utils.word_service as ws
 import itertools
+import utils.constants as cts
 from utils.constants import estados_to_ufs, setores, sinonimos_empresa, sinonimos_setor, sinonimos_porte, sinonimos_funcionarios
 from utils.cidades_nome_composto import cidades_nome_composto
+
+# Seta seed para ter sempre a mesma saida no incremento, mudar a seed pode gerar novas frases
+seed = 344008
+random.seed(seed)
 
 portes = ["grande", "medio", "pequeno", "micro"]
 portes_plural = {
@@ -16,13 +21,12 @@ portes_plural = {
 }
 
 MAX_FUNCIONARIOS = 9999
-setores_utilizados = setores
+setores_utilizados = set(cts.setores)
 nms_empresa = []
 df_scheme = []
 
 def import_incremented_data():
-    setores_utilizados = set()
-
+    
     with open('./datasets/processed/incremented_data.csv', mode='r', encoding='utf-8') as processed_dataset:
         csv_reader = csv.reader(processed_dataset, delimiter=';', quotechar='"')
         next(csv_reader)  # pula o cabeçalho
@@ -83,33 +87,36 @@ def permutate_estado_setor_porte(estados_list: list):
                     sentence += f'em {estado} {sentenceAux}' if add_em_in_beggining else f'{sentenceAux} em {estado}'
                     df_scheme.append([sentence.lower(), [(estado.lower(), 'LOCALIZACAO'), (porte_formated, 'PORTE'), (setor.lower(), 'SETOR')]])
 
-def increment_funcionarios_entity(estados_nome=None):
-    if(not estados_nome):
-        estados_nome = list(estados_to_ufs.keys())
-
+def increment_all_entities_randomly(estados_nome=None, p_setor=0.5, p_porte=0.5, p_estado=0.5, p_funcionarios=0.5, p_faturamento=0.5):
+    'Increment entities base on a percentace'
+    
     for estado in estados_nome:
         for porte in portes:
             for setor in setores_utilizados:
                 default_sentence = f'{sinonimos_empresa[random.randint(0, len(sinonimos_empresa)-1)]}'
-                add_setor = random.random() > 0.5
-                add_porte = random.random() > 0.5
-                sinonimo_porte = sinonimos_porte[random.randint(0, len(sinonimos_porte) - 1)]
-                sinonimo_setor = sinonimos_setor[random.randint(0, len(sinonimos_setor) - 1)]
-                add_estado = random.random() > 0.5
-                add_faixa = random.random() > 0.5
+                add_setor = random.random() > p_setor
+                add_porte = random.random() > p_porte
+                add_estado = random.random() > p_estado
+                add_funcionarios = random.random() > p_funcionarios
+                add_faturamento = random.random() > p_funcionarios
+
                 sentence = '' + default_sentence
                 sentenceWithSetor = ''
                 sentenceWithPorte = ''
                 sentenceWithEstado = ''
                 sentenceWithFuncionarios = ''
+                sentence_with_faturamento = ''
+
                 mapping = ['', []] # 0 - sentence 1 - Mapping
 
                 if(add_setor):
+                    sinonimo_setor = sinonimos_setor[random.randint(0, len(sinonimos_setor) - 1)]
                     possible_sentences = [f'{sinonimo_setor} {setor}', f'de {setor}']
                     sentenceWithSetor += possible_sentences[random.randint(0,1)]
                     mapping[1].append((setor.lower(), 'SETOR'))
 
                 if(add_porte):
+                    sinonimo_porte = sinonimos_porte[random.randint(0, len(sinonimos_porte) - 1)]
                     possible_sentences = [f'de {sinonimo_porte} {porte}', f'{porte}']
                     sentenceWithPorte += possible_sentences[random.randint(0,1)]
                     mapping[1].append((porte.lower(), 'PORTE'))
@@ -119,18 +126,50 @@ def increment_funcionarios_entity(estados_nome=None):
                     sentenceWithEstado += possible_sentences[random.randint(0,1)]
                     mapping[1].append((estado.lower(), 'LOCALIZACAO'))
 
-                if(add_faixa):
-                    faixa_de = random.randint(1, int(MAX_FUNCIONARIOS/2))
-                    faixa_ate = random.randint((faixa_de + 1), MAX_FUNCIONARIOS)
-                    sentenceWithFuncionarios += f'{faixa_de} ate {faixa_ate}'
-                    mapping[1].append((str(faixa_de), 'QTD_FUNCIONARIOS'))
-                    mapping[1].append((str(faixa_ate), 'QTD_FUNCIONARIOS'))
-                else:
-                    qtd_funcionarios = random.randint(1, MAX_FUNCIONARIOS)
-                    sentenceWithFuncionarios += f'{qtd_funcionarios}'
-                    mapping[1].append((str(qtd_funcionarios), 'QTD_FUNCIONARIOS'))
+                if(add_funcionarios):
+                    add_faixa_funcionarios = random.random() > 0.5
 
-                sentenceWithFuncionarios = f'com {sentenceWithFuncionarios} {sinonimos_funcionarios[random.randint(0, len(sinonimos_funcionarios) -1)]}'
+                    if(add_faixa_funcionarios):
+                        faixa_de = random.randint(1, int(MAX_FUNCIONARIOS/2))
+                        faixa_ate = random.randint((faixa_de + 1), MAX_FUNCIONARIOS)
+                        sentenceWithFuncionarios += f'{faixa_de} ate {faixa_ate}'
+                        mapping[1].append((str(faixa_de), 'QTD_FUNCIONARIOS'))
+                        mapping[1].append((str(faixa_ate), 'QTD_FUNCIONARIOS'))
+                    else:
+                        qtd_funcionarios = random.randint(1, MAX_FUNCIONARIOS)
+                        sentenceWithFuncionarios += f'{qtd_funcionarios}'
+                        mapping[1].append((str(qtd_funcionarios), 'QTD_FUNCIONARIOS'))
+
+                    sentenceWithFuncionarios = f'com {sentenceWithFuncionarios} {sinonimos_funcionarios[random.randint(0, len(sinonimos_funcionarios) -1)]}'
+                
+                if(add_faturamento):
+                    add_faixa_faturamento = random.random() > 0.5
+                    add_faturamento_abreviation = random.random() > 0.7
+                    abreviations = cts.faturamento_faixa.keys()
+                    sinonimo_faturamento = cts.sinonimos_faturamento[random.randint(0, len(cts.sinonimos_faturamento) - 1)]
+                    if(add_faixa_faturamento):
+                        add_hyphen = random.random() > 0.3
+                        faturamento_de = random.randint(1, 500)
+                        faturamento_ate = random.randint(faturamento_de, 999)
+                        if(add_faturamento_abreviation):
+                            abreviation = abreviations[random.randint(0, len(abreviations) - 1)]
+                            sentence_with_faturamento_aux = f'{faturamento_de}-{faturamento_ate} {abreviation}' if add_hyphen else f'{faturamento_de} ate {faturamento_ate} {abreviation}'
+                            sentence_with_faturamento = f'com {sinonimo_faturamento} de {sentence_with_faturamento_aux}'    
+                            mapping[1].append((sentence_with_faturamento_aux, 'FATURAMENTO'))
+                        else:
+                            faturamento_adjust1 = cts.faturamento_faixa[abreviations[random.randint(0, len(abreviations) -1)]]
+                            faturamento_adjust2 = cts.faturamento_faixa[abreviations[random.randint(0, len(abreviations) -1)]]
+                            faturamento_de *= faturamento_adjust2 if faturamento_adjust2 < faturamento_adjust1 else faturamento_adjust1
+                            faturamento_ate *= faturamento_adjust2 if faturamento_adjust2 > faturamento_adjust1 else faturamento_adjust1
+                            sentence_with_faturamento_aux = f'{faturamento_de}-{faturamento_ate}' if add_hyphen else f'{faturamento_de} ate {faturamento_ate}'
+                            sentenceWithFaturamento = f'com {sinonimo_faturamento} de {sentence_with_faturamento_aux}'
+                            mapping[1].append((sentence_with_faturamento_aux, 'FATURAMENTO'))
+
+                    else:
+                        random_number = random.randint(1,999)
+                        abreviation = abreviations[random.randint(0, len(abreviations) - 1)]
+                        faturamento = f'{random_number} {abreviation}' if add_faturamento_abreviation else {random_number * }
+                                            
                 partes = [sentenceWithEstado, sentenceWithSetor, sentenceWithPorte, sentenceWithFuncionarios]
 
                 # Gera todas as permutações possíveis das partes
@@ -144,36 +183,15 @@ def increment_funcionarios_entity(estados_nome=None):
 
 def increment_dataset():
     import_incremented_data()
-    estados_nome = list(estados_to_ufs.keys())
-    estados_uf = list(estados_to_ufs.values())
-
-    default_sentence = f'{sinonimos_empresa[random.randint(0, len(sinonimos_empresa)-1)]} '
-
-    # Empresas + porte
-    for porte in portes:
-        sentence1 = default_sentence + "de porte "  + porte
-        sentence2 = default_sentence + "com porte "  + porte
-
-        df_scheme.append([sentence1.lower(), [(porte.lower(), 'PORTE')]])
-        df_scheme.append([sentence2.lower(), [(porte.lower(), 'PORTE')]])
+    estados_nome = list(cts.estados_to_ufs.keys())
+    estados_uf = list(cts.estados_to_ufs.values())
         
     # Empresa + estado nome + porte + setor
     permutate_estado_setor_porte(estados_nome)    
     # Empresa + estado uf + porte + setor
     permutate_estado_setor_porte(estados_uf)    
     # Empresa + nome cidade composto + porte + setor
-    permutate_estado_setor_porte(cidades_nome_composto[0:150])
-
-    increment_funcionarios_entity(estados_nome)
-
-    # Empresa + setor
-    for setor in setores:
-        add_setor_word = random.random() > 0.5
-        sentence = default_sentence 
-        sentence += "no setor de " if add_setor_word else "de "
-        sentence += setor
-        df_scheme.append([sentence.lower(), [(setor.lower(), 'SETOR')]])
-
-        
+    permutate_estado_setor_porte(cts.cidades_nome_composto[0:150])
+       
     incremented_df = pd.DataFrame(df_scheme, columns=['text', 'annotation'])
     return incremented_df

@@ -12,6 +12,7 @@ while True:
       break
     
     inputado = ' '.join(ws.normalize_spaces(p) for p in inputado.split())
+
     sentence = Sentence(inputado)
     model.predict(sentence)
     print(sentence.to_tagged_string())

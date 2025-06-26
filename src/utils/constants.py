@@ -192,3 +192,29 @@ sinonimos_funcionarios = [
     "de staff",
     "profissionais",
 ]
+
+
+faturamento_faixa = {
+    "mil": 1000,
+    "milhao": 1000000,
+    "bilhao": 1000000000,
+    "trilhao": 1000000000000
+}
+
+
+sinonimos_faturamento = [
+    "receita",
+    "rendimento",
+    "lucro bruto",
+    "arrecadação",
+    "provento",
+    "ganhos",
+    "valor faturado",
+    "faturação",
+    "retorno financeiro",
+    "resultado bruto",
+    "montante recebido",
+    "vendas brutas",
+    "resultado das vendas",
+    "fluxo de entrada"
+]

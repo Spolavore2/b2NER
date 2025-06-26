@@ -2,12 +2,13 @@ import csv;
 import json;
 import pandas as pd
 import utils.word_service as ws
-from utils.constants import estados_to_ufs, ufs_to_estados, estados_compostos, space_demarker
+from utils.constants import estados_to_ufs, ufs_to_estados, estados_compostos, space_demarker, faturamento_faixa
 from utils.cidades_nome_composto import cidades_nome_composto
 
+default_qtd_funcionarios_ate = 999999999 # default value when the filter is not mapped in the dataset
+default_faturamento_ate = 999999999999999 # default value when the filter is not mapped in the dataset
+
 def filter_json_attributes(json):
-    default_qtd_funcionarios_ate = 999999999 # default value when the filter is not mapped in the dataset
-    default_faturamento_ate = 999999999999999 # default value when the filter is not mapped in the dataset
     new_json = {
         "ufs": ws.normalize_word(json["ufs"]),
         "cidades": ws.normalize_word(json["cidades"]),
@@ -35,8 +36,6 @@ def pre_process_dataset():
     with open('./datasets/processed/econodata_prompt_response_json.csv',  mode='w', newline='') as outfile:
         writer = csv.writer(outfile)
         writer.writerows(new_rows)
-
-
 
 def is_location_present(word: str,comp: list):
     word_upper = word.upper()
@@ -110,13 +109,13 @@ def get_df_from_dataset():
                             r_portes += 1
                             df_scheme[idx_row][1].append(wg_tuple)
                             words_already_added.append(word)
-                    elif (entity == "qtd_funcionarios_de" or entity == "qtd_funcionarios_ate"):
-                        if(not ws.is_stop_word(word) and  ws.is_word_present(word, str(ground_truth))):
+                    elif ("qtd_funcionarios" in entity):
+                            # TODO, considerar variação que vem dos filtros da Econodata. Ex: funcionario 30-40 -> é mapeado para 30-39 
+                        if(not ws.is_stop_word(word) and ws.is_word_present(word, str(ground_truth))):
                             wg_tuple = (word, "QTD_FUNCIONARIOS")
                             r_funcionarios += 1
                             df_scheme[idx_row][1].append(wg_tuple)
                             words_already_added.append(word)
-                    # Todo, verificar se faz sentido utilizar Entidade de qtd_funcionarios e faturamento                
 
     df = pd.DataFrame(df_scheme, columns=['text', 'annotation'])
     df_filtered = df[df['annotation'].apply(lambda x: len(x) > 0)]

@@ -167,3 +167,11 @@ def is_valid_setor(sentence, ground_truth):
 
     return count >= min_similarity
     
+
+def convert_to_int(word: str):
+    'Convert a string into a integer if possible, if not returns the word given'
+    try:
+        integer = int(word)
+        return integer
+    except:
+        return word
