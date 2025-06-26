@@ -1,7 +1,9 @@
 # convert from an df in a specific struct to .txt usable by flair
 import pandas as pd
 import random
+import utils.constants as cts
 from tqdm import tqdm
+from collections import defaultdict
 from dataset_converter.dataset_preprocessing import get_df_from_dataset
 from dataset_converter.increment_dataset import increment_dataset
 from difflib import SequenceMatcher
@@ -10,6 +12,8 @@ import pickle
 
 import re
 
+
+random.seed(cts.seed)
 def matcher(text, annotations):
     '''
     Retorna os spans (start, end, tipo) das anotações no texto.
@@ -119,11 +123,34 @@ def remove_void_entities(file_path):
     with open(file=file_path, mode='w', encoding='utf-8') as f2:
         f2.writelines(correted_lines)
 
+def count_entities(file_path):
+
+    # Entidades esperadas
+    entidades = ["NOME_EMPRESA", "PORTE", "SETOR", "FATURAMENTO", "LOCALIZACAO", "QTD_FUNCIONARIOS"]
+    
+    # Inicializa o dicionário com zero
+    contagem = defaultdict(int)
+
+    with open(file_path, 'r', encoding='utf-8') as file:
+        for line in file:
+            line = line.strip()
+            if not line:
+                continue  # ignora linhas vazias
+            parts = line.split()
+            if len(parts) >= 2:
+                tag = parts[-1]  # última coluna é a tag (supondo token[TAB]tag ou token [espaço] tag)
+                if tag.startswith("B-"):
+                    entidade = tag[2:]
+                    if entidade in entidades:
+                        contagem[entidade] += 1
+
+    # Converte para dict normal e imprime
+    return dict(contagem)
+
 
 def main():
     # Se quiser obter todos os dados -> fine_tuning do modelo do 0
-    # data = pd.concat([get_df_from_dataset(), increment_dataset()])
-    data = get_df_from_dataset()
+    data = pd.concat([get_df_from_dataset(), increment_dataset()])
 
     ## path to save the txt file.
     filepath = 'datasets/flair/train.txt'
@@ -131,6 +158,17 @@ def main():
     create_data(data, filepath)
     remove_void_entities('datasets/flair/train.txt')
     split_train_file('datasets/flair/train.txt')
+    entities_train = count_entities('datasets/flair/train.txt')
+    entities_test = count_entities('datasets/flair/test.txt')
+    entities_dev = count_entities('datasets/flair/dev.txt')
+
+    print('======================================')
+    print(f'Entidades treino {entities_train}')
+    print(f'Entidades test {entities_test}')
+    print(f'Entidades dev {entities_dev}')
+    print('======================================')
+
+
 
 if __name__ == '__main__':
     main()

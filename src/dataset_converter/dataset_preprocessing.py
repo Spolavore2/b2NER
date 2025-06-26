@@ -44,6 +44,18 @@ def is_location_present(word: str,comp: list):
     t3 = word in comp
     return t1 or t2 or t3
 
+def has_matching_number(word: str, ground_truth, default_value_from_ds: int):
+    number_from_word = ws.convert_to_int(word)
+    tolerance = [-1, 0, 1]
+    if(type(number_from_word) == str): return False
+
+    if(number_from_word - ground_truth in tolerance and number_from_word != default_value_from_ds):
+        return True
+    
+    return False
+
+
+
 # processed dataset -> df specified by flair.doc
 def get_df_from_dataset():
     entities = ['ufs', 'cidades', 'setor', 'nome_empresa',  'portes', 'faturamento_de', 
@@ -111,8 +123,14 @@ def get_df_from_dataset():
                             words_already_added.append(word)
                     elif ("qtd_funcionarios" in entity):
                             # TODO, considerar variação que vem dos filtros da Econodata. Ex: funcionario 30-40 -> é mapeado para 30-39 
-                        if(not ws.is_stop_word(word) and ws.is_word_present(word, str(ground_truth))):
+                        if(not ws.is_stop_word(word) and has_matching_number(word, int(ground_truth), default_qtd_funcionarios_ate)):
                             wg_tuple = (word, "QTD_FUNCIONARIOS")
+                            r_funcionarios += 1
+                            df_scheme[idx_row][1].append(wg_tuple)
+                            words_already_added.append(word)
+                    elif ("faturamento" in entity):
+                        if(not ws.is_stop_word(word) and has_matching_number(word, int(ground_truth), default_faturamento_ate)):
+                            wg_tuple = (word, "FATURAMENTO")
                             r_funcionarios += 1
                             df_scheme[idx_row][1].append(wg_tuple)
                             words_already_added.append(word)
