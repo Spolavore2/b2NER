@@ -100,7 +100,8 @@ setores = {
     'Deficiencia e Inclusao', 'Tecnologia Assistiva', 'Agronegocio', 'Cooperativas',
     'Energia Renovavel', 'Energia Solar', 'Energia Eolica', 'Hidreletricas', 'Nuclear',
     'Planejamento Urbano', 'Engenharia de Trafego', 'Engenharia de Producao',
-    'Engenharia Ambiental', 'Engenharia Biomedica', 'Geociencias', 'Meteorologia', 'Oceanografia'
+    'Engenharia Ambiental', 'Engenharia Biomedica', 'Geociencias', 'Meteorologia', 'Oceanografia', 'Restaurante',
+    'Advocacia', 'Arte e Cultura', 'Atividades publicas', 'Farmacia', 'Imobiliaria', 'Hospedagem'
 }
 
 

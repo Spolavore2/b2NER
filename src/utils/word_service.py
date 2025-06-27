@@ -58,6 +58,27 @@ def normalize_word(input_data):
 def is_stop_word(word:str):
     return word in stop_words
 
+def is_steam_word_equal(word, comp):
+
+    word = perform_stemming(word, "portuguese")
+
+    if(type(comp) == list):
+        is_equal = False
+        for item in comp:
+            words = item.split(" ")
+            for word_list in words:
+                word_steamed = perform_stemming(word_list, "portuguese")
+                if(word == word_steamed):
+                    is_equal = True
+                    break
+            if is_equal:
+                break
+
+        return is_equal
+
+    else:
+        return word == perform_stemming(comp)
+
 def is_word_present(word:str, comp):
     if(isinstance(comp, str)):
         return word in comp and len(word) == len(comp)
@@ -66,7 +87,6 @@ def is_word_present(word:str, comp):
         return word in "".join(comp)
 
     return False
-    
     
 
 def remove_space_demarker(word, demarker):

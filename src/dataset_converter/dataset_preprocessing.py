@@ -45,6 +45,7 @@ def is_location_present(word: str,comp: list):
     return t1 or t2 or t3
 
 def has_matching_number(word: str, ground_truth, default_value_from_ds: int, faturamento=False):
+    word = word.replace('r$', '')
     number_from_word = ws.convert_to_int(word)
     tolerance = [-1, 0, 1]
     if(type(number_from_word) == str): return False
@@ -117,8 +118,8 @@ def get_df_from_dataset():
                             df_scheme[idx_row][1].append(wg_tuple)
                             words_already_added.append(word)
                     elif (entity == "setor"):
-                        steamed_word = ws.perform_stemming(word, "portuguese")
-                        if(not ws.is_stop_word(steamed_word) and  ws.is_word_present(steamed_word, ground_truth) and ws.is_valid_setor(sentence_without_demarker, ground_truth)):
+                        # TODO pensar em uma maneira de setores com multiplas palavras serem considerados
+                        if(not ws.is_stop_word(word) and  ws.is_steam_word_equal(word, ground_truth) and ws.is_valid_setor(sentence_without_demarker, ground_truth)):
                             setor = ws.get_setor_from_word(word, sentence_without_demarker)
                             wg_tuple = (setor, "SETOR")
                             r_setor += 1
@@ -140,8 +141,17 @@ def get_df_from_dataset():
                             words_already_added.append(word)
                     elif ("faturamento" in entity):
                         if(not ws.is_stop_word(word) and has_matching_number(word, int(ground_truth), default_faturamento_ate, True)):
-                            wg_tuple = (word, "FATURAMENTO")
-                            r_funcionarios += 1
+                            index_word = words_from_prompt.index(word)
+                            word_tuple = ''
+                            try:
+                                next_word = words_from_prompt[index_word + 1]
+                                if(next_word in ["milhoes", "milhao", "mil", "bilhoa", "bilhoes"]):
+                                    word_tuple = f'{word} {next_word}'
+                            except:
+                                word_tuple=word
+
+                            wg_tuple = (word_tuple, "FATURAMENTO")
+                            r_faturamento += 1
                             df_scheme[idx_row][1].append(wg_tuple)
                             words_already_added.append(word)
 

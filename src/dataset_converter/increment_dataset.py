@@ -24,6 +24,19 @@ setores_utilizados = set(cts.setores)
 nms_empresa = []
 df_scheme = []
 
+
+
+def carregar_setores_utilizados():    
+    with open('./datasets/processed/setores_amigaveis.csv', 'r', encoding='utf-8') as arquivo:
+        leitor = csv.reader(arquivo)
+        for linha in leitor:
+            for celula in linha:
+                setores = celula.split(",")
+                for setor in setores:
+                    setor = setor.strip()
+                    if setor:
+                        setores_utilizados.add(setor.lower()) 
+
 def import_incremented_data():
     
     with open('./datasets/processed/incremented_data.csv', mode='r', encoding='utf-8') as processed_dataset:
@@ -34,7 +47,7 @@ def import_incremented_data():
             razao_social  = ws.normalize_word(row[0])
             nm_empresa    = ws.normalize_word(row[1])
             setor         = ws.normalize_word(row[-1])  # última coluna
-            setores_utilizados.add(setor)
+            setores_utilizados.add(setor.lower())
 
             if not razao_social:
                 nms_empresa.append(nm_empresa)
@@ -185,6 +198,7 @@ def increment_all_entities_randomly(estados_nome=None, p_setor=0, p_porte=0, p_e
 
 def increment_dataset():
     import_incremented_data()
+    carregar_setores_utilizados()
     estados_nome = list(cts.estados_to_ufs.keys())
     estados_uf = list(cts.estados_to_ufs.values())
         
@@ -193,14 +207,13 @@ def increment_dataset():
     # Empresa + estado uf + porte + setor
     permutate_estado_setor_porte(estados_uf)    
     # Empresa + nome cidade composto + porte + setor
-    permutate_estado_setor_porte(cts.cidades_nome_composto[0:150])
 
     # Funcionarios
-    increment_all_entities_randomly(estados_nome, p_funcionarios=1, p_faturamento=0.5, p_setor=0.5, p_porte=0.5, p_estado=0.5)
+    increment_all_entities_randomly(cidades_nome_composto[151:200], p_funcionarios=1, p_faturamento=0.5, p_setor=0.5, p_porte=0.5, p_estado=0.5)
     increment_all_entities_randomly(estados_uf, p_funcionarios=1, p_faturamento=0.5, p_setor=0.5, p_porte=0.5, p_estado=0.5)
 
     # Faturamento
-    increment_all_entities_randomly(estados_uf, p_faturamento=1, p_funcionarios=0.5, p_setor=0.5, p_porte=0.5, p_estado=0.5)
+    increment_all_entities_randomly(cidades_nome_composto[201:350], p_faturamento=1, p_funcionarios=0.5, p_setor=0.5, p_porte=0.5, p_estado=0.5)
     increment_all_entities_randomly(estados_nome, p_faturamento=1, p_funcionarios=0.5, p_setor=0.5, p_porte=0.5, p_estado=0.5)
 
     incremented_df = pd.DataFrame(df_scheme, columns=['text', 'annotation'])
