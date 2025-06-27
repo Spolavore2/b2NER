@@ -144,14 +144,13 @@ def count_entities(file_path):
                     if entidade in entidades:
                         contagem[entidade] += 1
 
-    # Converte para dict normal e imprime
     return dict(contagem)
 
 
 def main():
     # Se quiser obter todos os dados -> fine_tuning do modelo do 0
-    data = pd.concat([get_df_from_dataset(), increment_dataset()])
-
+    # data = pd.concat([get_df_from_dataset(), increment_dataset()])
+    data = get_df_from_dataset()
     ## path to save the txt file.
     filepath = 'datasets/flair/train.txt'
     ## creating the file.

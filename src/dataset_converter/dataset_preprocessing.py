@@ -44,15 +44,25 @@ def is_location_present(word: str,comp: list):
     t3 = word in comp
     return t1 or t2 or t3
 
-def has_matching_number(word: str, ground_truth, default_value_from_ds: int):
+def has_matching_number(word: str, ground_truth, default_value_from_ds: int, faturamento=False):
     number_from_word = ws.convert_to_int(word)
     tolerance = [-1, 0, 1]
     if(type(number_from_word) == str): return False
 
-    if(number_from_word - ground_truth in tolerance and number_from_word != default_value_from_ds):
-        return True
+    has_matching = False
     
-    return False
+    if(number_from_word - ground_truth in tolerance and number_from_word != default_value_from_ds):
+            has_matching = True
+
+    if faturamento:
+        faixas = list(faturamento_faixa.values())
+        
+        for faixa in faixas:
+            number_formatted = number_from_word * faixa
+            if(number_formatted - ground_truth in tolerance and number_from_word != default_value_from_ds):
+                has_matching = True
+        
+    return has_matching
 
 
 
@@ -129,7 +139,7 @@ def get_df_from_dataset():
                             df_scheme[idx_row][1].append(wg_tuple)
                             words_already_added.append(word)
                     elif ("faturamento" in entity):
-                        if(not ws.is_stop_word(word) and has_matching_number(word, int(ground_truth), default_faturamento_ate)):
+                        if(not ws.is_stop_word(word) and has_matching_number(word, int(ground_truth), default_faturamento_ate, True)):
                             wg_tuple = (word, "FATURAMENTO")
                             r_funcionarios += 1
                             df_scheme[idx_row][1].append(wg_tuple)
