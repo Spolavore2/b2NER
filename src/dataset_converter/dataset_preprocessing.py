@@ -145,7 +145,7 @@ def get_df_from_dataset():
                             word_tuple = ''
                             try:
                                 next_word = words_from_prompt[index_word + 1]
-                                if(next_word in ["milhoes", "milhao", "mil", "bilhoa", "bilhoes"]):
+                                if(next_word in ["milhoes", "milhao", "mil", "bilhao", "bilhoes"]):
                                     word_tuple = f'{word} {next_word}'
                             except:
                                 word_tuple=word
