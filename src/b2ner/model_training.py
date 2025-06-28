@@ -39,8 +39,6 @@ def main(model_to_train="neuralmind/bert-base-portuguese-cased", name_model="ner
         layers="-1",
         subtoken_pooling="first",
         fine_tune=True,
-        use_crf=True,
-        use_rnn=False,
         use_context=False,
     )
 
