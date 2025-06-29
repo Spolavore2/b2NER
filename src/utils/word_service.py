@@ -28,7 +28,14 @@ def mark_compound_names(sentence: str, compound_names) -> str:
             sentence_lower = sentence_lower.replace(name_lower, marked_name)
     return sentence_lower
 
-
+def change_preposition(sinonimo: str, prep_base: str = 'do', prep_fem: str = 'da') -> str:
+    if sinonimo.startswith('na '):
+        return sinonimo.replace('na ', prep_fem + ' ', 1)
+    elif sinonimo.startswith('no '):
+        return sinonimo.replace('no ', prep_base + ' ', 1)
+    elif sinonimo.startswith('com '):
+        return sinonimo.replace('com ', prep_base + ' ', 1)
+    return sinonimo
 
 def normalize_spaces(text: str) -> str:
     """

@@ -11,7 +11,7 @@ while True:
     if(inputado == 'exit'):
       break
     
-    inputado = ' '.join(ws.normalize_spaces(p) for p in inputado.split())
+    inputado = ' '.join(ws.normalize_word(p) for p in inputado.split())
 
     sentence = Sentence(inputado)
     model.predict(sentence)

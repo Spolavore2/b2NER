@@ -68,26 +68,52 @@ def create_data(df, filepath):
                 f.write(f"{token} {tag}\n")
             f.write("\n")
 
+def get_label_from_example(example_text):
+    """
+    Exemplo simples: extrair o label principal do exemplo.
+    Como seu dado parece estar em BIO com tokens, talvez pegar a primeira entidade B-XXX?
+    Ajuste essa função conforme seu formato.
+    """
+    lines = example_text.strip().split('\n')
+    for line in lines:
+        parts = line.split()
+        if len(parts) >= 2:
+            tag = parts[-1]
+            if tag.startswith('B-'):
+                return tag[2:]
+    return 'NO_LABEL'  # fallback para casos sem entidades
 
-def split_train_file(file_path, dev_ratio=0.1, test_ratio=0.1):
-    # Lê todo o conteúdo do train.txt
+def split_train_file_stratified(file_path, dev_ratio=0.1, test_ratio=0.1, seed=42):
     with open(file_path, 'r', encoding='utf-8') as f:
         data = f.read().strip().split('\n\n')
 
-    # Shuffle data to get randow data for each set
-    random.shuffle(data)
+    # Agrupar exemplos pela label principal para estratificação
+    label_to_examples = defaultdict(list)
+    for example in data:
+        label = get_label_from_example(example)
+        label_to_examples[label].append(example)
 
-    # Calculate the lenght of each set
-    total = len(data)
-    dev_size = int(total * dev_ratio)
-    test_size = int(total * test_ratio)
+    random.seed(seed)
 
-    # Create Splits
-    dev_data = data[:dev_size]
-    test_data = data[dev_size:dev_size + test_size]
-    train_data = data[dev_size + test_size:]
+    train_data, dev_data, test_data = [], [], []
 
-    # Write news files
+    for label, examples in label_to_examples.items():
+        random.shuffle(examples)
+        n = len(examples)
+        n_dev = int(n * dev_ratio)
+        n_test = int(n * test_ratio)
+        n_train = n - n_dev - n_test
+
+        train_data.extend(examples[:n_train])
+        dev_data.extend(examples[n_train:n_train + n_dev])
+        test_data.extend(examples[n_train + n_dev:])
+
+    # Shuffle para garantir mistura final
+    random.shuffle(train_data)
+    random.shuffle(dev_data)
+    random.shuffle(test_data)
+
+    # Salvar arquivos
     with open(file_path.replace('train.txt', 'train.txt'), 'w', encoding='utf-8') as f:
         f.write('\n\n'.join(train_data))
 
@@ -97,12 +123,12 @@ def split_train_file(file_path, dev_ratio=0.1, test_ratio=0.1):
     with open(file_path.replace('train.txt', 'test.txt'), 'w', encoding='utf-8') as f:
         f.write('\n\n'.join(test_data))
 
+    total = len(data)
     print(f"Total de exemplos: {total}")
     print(f"Tamanho treino: {len(train_data)}")
     print(f"Tamanho dev: {len(dev_data)}")
     print(f"Tamanho teste: {len(test_data)}")
-    print("Divisão concluída!")
-
+    print("Divisão estratificada concluída!")
 
 def remove_void_entities(file_path):
     correted_lines = []
@@ -155,7 +181,7 @@ def main():
     ## creating the file.
     create_data(data, filepath)
     remove_void_entities('datasets/flair/train.txt')
-    split_train_file('datasets/flair/train.txt')
+    split_train_file_stratified('datasets/flair/train.txt')
     entities_train = count_entities('datasets/flair/train.txt')
     entities_test = count_entities('datasets/flair/test.txt')
     entities_dev = count_entities('datasets/flair/dev.txt')

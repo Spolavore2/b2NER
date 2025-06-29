@@ -54,7 +54,7 @@ def main(model_to_train="neuralmind/bert-base-portuguese-cased", name_model="ner
     trainer.train(f'resources/taggers/{name_model}',
                   learning_rate=2e-4,
                   mini_batch_size=16,
-                  max_epochs=10)
+                  max_epochs=5)
 
 if __name__ == '__main__':
     main()

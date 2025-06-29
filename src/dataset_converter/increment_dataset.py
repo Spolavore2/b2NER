@@ -54,60 +54,25 @@ def import_incremented_data():
             else:
                 nms_empresa.append(razao_social)
 
-def permutate_estado_setor_porte(estados_list: list):
-    for estado in estados_list:
-        for porte in portes:
-            for setor in setores:
-                default_sentence = f'{sinonimos_empresa[random.randint(0, len(sinonimos_empresa)-1)]} '
-                add_setor_word = random.random() > 0.7
-                add_port_word = random.random() > 0.7
-                add_setor_first = random.random() > 0.5
-                add_nm_empresa = random.random() > 0.6
-                sinonimo_porte = sinonimos_porte[random.randint(0, len(sinonimos_porte) - 1)]
-                sinonimo_setor = sinonimos_setor[random.randint(0, len(sinonimos_setor) - 1)]
-                porte_formated = porte if add_port_word else portes_plural[porte]
-                sentenceAux = ' '
 
-                if add_setor_first:
-                    sentenceAux += f'{sinonimo_setor} de {setor}' if add_setor_word else f'de {setor}'
-                    sentenceAux += f' de {sinonimo_porte} {porte_formated}' if add_port_word else f' {porte_formated}'
-                else:
-                    sentenceAux += f'de {sinonimo_porte} {porte_formated}' if add_port_word else f'{porte_formated}'
-                    sentenceAux += f' {sinonimo_setor} de {setor}' if add_setor_word else f' de {setor}'
+def generate_rubbish():
+    frases = cts.inputs_neutros + cts.inputs_neutros_ambiguos + cts.inputs_conversacionais
+    for frase in frases:
+        df_scheme.append([frase.lower(), []])
 
-                add_em_in_beggining = random.random() > 0.5
-                sentence = '' + default_sentence
-                
-                # Adiciona o nome de um empresa aleatoriamente
-                if add_nm_empresa:
-                    nm_empresa = nms_empresa[random.randint(0, len(nms_empresa) - 1)]
-                    add_nm_empresa_beggining =  random.random() > 0.5
-                    add_chamada_word = random.random() > 0.5
-                    if add_chamada_word:
-                        if(add_nm_empresa_beggining):
-                            sentence += f' chamada {nm_empresa} '
-                            sentence += f'em {estado} {sentenceAux}' if add_em_in_beggining else f'{sentenceAux} em {estado}'
-                        else:
-                            sentence += f'em {estado} {sentenceAux}' if add_em_in_beggining else f'{sentenceAux} em {estado}'
-                            sentence += f' chamada {nm_empresa}'
-                    else:
-                        sentence += f'{nm_empresa} '
-                        sentence += f'em {estado} {sentenceAux}' if add_em_in_beggining else f'{sentenceAux} em {estado}'
-
-                    df_scheme.append([sentence.lower(), [(estado.lower(), 'LOCALIZACAO'), (porte_formated, 'PORTE'), (setor.lower(), 'SETOR'), (nm_empresa, 'NOME_EMPRESA')]])
-                else:
-                    sentence += f'em {estado} {sentenceAux}' if add_em_in_beggining else f'{sentenceAux} em {estado}'
-                    df_scheme.append([sentence.lower(), [(estado.lower(), 'LOCALIZACAO'), (porte_formated, 'PORTE'), (setor.lower(), 'SETOR')]])
 
 def increment_all_entities_randomly(estados_nome=None, p_setor=0, p_porte=0, p_estado=0, 
                                     p_funcionarios=0, p_faturamento=0, p_faixa_funcionarios=0.5,
-                                    p_faixa_faturamento=0.5, p_abreviacao_faturamento=0.5, p_hifen_faixa=0.3):
+                                    p_faixa_faturamento=0.5, p_abreviacao_faturamento=0.5, p_hifen_faixa=0.3, p_pergunta=0.2):
     'Increment entities base on a percentace'
     
     for estado in estados_nome:
         for porte in portes:
             for setor in setores_utilizados:
-                default_sentence = f'{sinonimos_empresa[random.randint(0, len(sinonimos_empresa)-1)]}'
+                change_preposition = 1 - random.random() > 0.5 
+                is_pergunta = 1 - random.random() <= p_pergunta
+                default_sentence = f'{cts.inicios_perguntas[random.randint(0, len(cts.inicios_perguntas) - 1)]} ' if is_pergunta else ''
+                default_sentence += f'{sinonimos_empresa[random.randint(0, len(sinonimos_empresa)-1)]}' 
                 add_setor = 1 - random.random() <= p_setor
                 add_porte = 1 - random.random() <= p_porte
                 add_estado = 1 - random.random() <= p_estado
@@ -125,7 +90,8 @@ def increment_all_entities_randomly(estados_nome=None, p_setor=0, p_porte=0, p_e
 
                 if(add_setor):
                     sinonimo_setor = sinonimos_setor[random.randint(0, len(sinonimos_setor) - 1)]
-                    possible_sentences = [f'{sinonimo_setor} {setor}', f'de {setor}']
+                    sinonimo_setor = ws.change_preposition(sinonimo_setor) if change_preposition else sinonimo_setor
+                    possible_sentences = [f'{sinonimo_setor} {setor}', f'de {setor}', f'{setor}']
                     sentence_with_setor += possible_sentences[random.randint(0,1)]
                     mapping[1].append((setor.lower(), 'SETOR'))
 
@@ -136,8 +102,8 @@ def increment_all_entities_randomly(estados_nome=None, p_setor=0, p_porte=0, p_e
                     mapping[1].append((porte.lower(), 'PORTE'))
 
                 if(add_estado):
-                    possible_sentences = [f'em {estado}', f'{estado}']
-                    sentence_with_estado += possible_sentences[random.randint(0,1)]
+                    possible_sentences = [f'em {estado}', f'{estado}', f'de {estado}']
+                    sentence_with_estado += possible_sentences[random.randint(0,2)]
                     mapping[1].append((estado.lower(), 'LOCALIZACAO'))
 
                 if(add_funcionarios):
@@ -193,7 +159,12 @@ def increment_all_entities_randomly(estados_nome=None, p_setor=0, p_porte=0, p_e
                 # Monta as frases finais com sentence no início
                 possible_final_sentences = [f"{sentence} {' '.join(p)}" for p in permutations]
                 index_sentence_chosen = random.randint(0, len(possible_final_sentences) - 1)
-                mapping[0] = possible_final_sentences[index_sentence_chosen].lower()
+                choosen_sentence = possible_final_sentences[index_sentence_chosen].lower()
+                
+                if is_pergunta:
+                    choosen_sentence += '?'
+                
+                mapping[0] = choosen_sentence
                 df_scheme.append(mapping)
 
 def increment_dataset():
@@ -202,19 +173,12 @@ def increment_dataset():
     estados_nome = list(cts.estados_to_ufs.keys())
     estados_uf = list(cts.estados_to_ufs.values())
         
-    # Empresa + estado nome + porte + setor
-    permutate_estado_setor_porte(estados_nome)    
-    # Empresa + estado uf + porte + setor
-    permutate_estado_setor_porte(estados_uf)    
-    # Empresa + nome cidade composto + porte + setor
+    increment_all_entities_randomly(cidades_nome_composto[151:200], p_funcionarios=0.5, p_faturamento=0.5, p_setor=0.5, p_porte=0.5, p_estado=0.5)
+    increment_all_entities_randomly(estados_uf, p_funcionarios=0.5, p_faturamento=0.5, p_setor=0.5, p_porte=0.5, p_estado=0.5)
+    
+    increment_all_entities_randomly(cidades_nome_composto[201:350], p_faturamento=0.5, p_funcionarios=0.5, p_setor=0.5, p_porte=0.5, p_estado=0.5)
+    increment_all_entities_randomly(estados_nome, p_faturamento=0.5, p_funcionarios=0.5, p_setor=0.5, p_porte=0.5, p_estado=0.5)
 
-    # Funcionarios
-    increment_all_entities_randomly(cidades_nome_composto[151:200], p_funcionarios=1, p_faturamento=0.5, p_setor=0.5, p_porte=0.5, p_estado=0.5)
-    increment_all_entities_randomly(estados_uf, p_funcionarios=1, p_faturamento=0.5, p_setor=0.5, p_porte=0.5, p_estado=0.5)
-
-    # Faturamento
-    increment_all_entities_randomly(cidades_nome_composto[201:350], p_faturamento=1, p_funcionarios=0.5, p_setor=0.5, p_porte=0.5, p_estado=0.5)
-    increment_all_entities_randomly(estados_nome, p_faturamento=1, p_funcionarios=0.5, p_setor=0.5, p_porte=0.5, p_estado=0.5)
-
+    generate_rubbish()
     incremented_df = pd.DataFrame(df_scheme, columns=['text', 'annotation'])
     return incremented_df
